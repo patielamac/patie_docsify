@@ -26,3 +26,4 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
  - No campo Grupo de Contatos, insira um nome para seu novo grupo que será importado, escolha bem o nome, pois uma vez criado ele não ficará disponível para alteração do nome.
  - Clique no ícone de upload escolha seu arquivo CSV e faça a importação.
  - Para baixar o modelo que deverá ser utilizado, clique no “Clique aqui” e faça o download do modelo do arquivo.  
+Saiba mais sobre os campos do arquivo CSV [clicando aqui](https://connvertbr-my.sharepoint.com/:x:/g/personal/patricia_lamac_code7_com/EXe7bwgogj5eWc1gZXtmjhYBABLG_anv7YR7yrSiuvt3Kg?e=VdEEUV).
