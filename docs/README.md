@@ -27,3 +27,11 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
  - Clique no ícone de upload escolha seu arquivo CSV e faça a importação.
  - Para baixar o modelo que deverá ser utilizado, clique no “Clique aqui” e faça o download do modelo do arquivo.  
 Saiba mais sobre os campos do arquivo CSV [clicando aqui](https://connvertbr-my.sharepoint.com/:x:/g/personal/patricia_lamac_code7_com/EXe7bwgogj5eWc1gZXtmjhYBABLG_anv7YR7yrSiuvt3Kg?e=VdEEUV).
+* Ainda sobre o CSV - o que você precisa saber:
+    - O nome do contato é campo obrigatório
+    - Cada campo deverá se separado por ponto e vírgula (;)
+    - Deverá ter ao menos um telefone válido para discagem
+    - No campo de telefone, quando for um telefone fixo - deverá ter 12 caracteres - DDI+DDD+número válido para telefone fixo ex.: 554734322422
+    - No campo telefone, quando for um telefone móvel - deverá ter 13 caracteres onde a 5ª posição sempre será o número 9 - DDI+DDD+número válido para telefone fixo ex.: 5548**9**98288774
+    - Se o contato estiver com fones incorretos, ele não será importado
+    - Não há obrigatoriedade de todos os campos estarem preenchidos para importação, com exceção do obrigatório comentado no item 1. 
