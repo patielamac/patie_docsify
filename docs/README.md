@@ -2,7 +2,7 @@
 
 A funcionalidade do discador da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, estratégia e campanhas que irão fazer parte da discagem em massa
 
-## Configurando Grupo de Contatos
+### Configurando Grupo de Contatos
 Na Tela de Grupo de Contatos se cria e edita os contatos que receberão as ligações de sua Campanha. 
 As informações da tela inicial do Grupo de Contatos são: 
 
@@ -20,7 +20,7 @@ As informações da tela inicial do Grupo de Contatos são:
     - Ativar os grupos selecionados
     - Inativar os grupos selecionados 
 
-## Importação de um Novo Grupo de Contato
+### Importação de um Novo Grupo de Contato
 Para criação de um Grupo de contato, deverá ser importado um arquivo CSV respeitando a formatação do modelo que está disponibilizado na plataforma.
  - Selecione o ícone com o **“+”** na tela principal
  - No campo Grupo de Contatos, insira um nome para seu novo grupo que será importado, escolha bem o nome, pois uma vez criado ele não ficará disponível para alteração do nome.
