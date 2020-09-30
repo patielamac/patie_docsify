@@ -27,7 +27,7 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
  - Clique no ícone de upload escolha seu arquivo CSV e faça a importação.
  - Para baixar o modelo que deverá ser utilizado, clique no “Clique aqui” e faça o download do modelo do arquivo.  
 Saiba mais sobre os campos do arquivo CSV [clicando aqui](https://connvertbr-my.sharepoint.com/:x:/g/personal/patricia_lamac_code7_com/EXe7bwgogj5eWc1gZXtmjhYBABLG_anv7YR7yrSiuvt3Kg?e=VdEEUV).
-* Ainda sobre o CSV - o que você precisa saber:
+Ainda sobre o CSV - o que você precisa saber:
     - O nome do contato é campo obrigatório
     - Cada campo deverá se separado por ponto e vírgula (;)
     - Deverá ter ao menos um telefone válido para discagem
@@ -48,7 +48,7 @@ Saiba mais sobre os campos do arquivo CSV [clicando aqui](https://connvertbr-my.
 # Broadcast
 A funcionalidade da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, campanhas e estratégia de envios com monitoramento para envio de mensagens de whatsapp em massa. 
 **São pré-requisitos para o envio:**
-1 - Número de telefone cadastrado no Canal de Whatsapp
-2 - Aprovação dos HSM dentro das normas geradas pelo Facebook para que as mensagens possam ser enviadas.
+    1 - Número de telefone cadastrado no Canal de Whatsapp
+    2 - Aprovação dos HSM dentro das normas geradas pelo Facebook para que as mensagens possam ser enviadas.
 ### Criando Grupos de Contatos
 A criação de grupo de contatos poderá ser realizada de duas formas:
