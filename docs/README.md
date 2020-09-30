@@ -25,9 +25,8 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
  - Selecione o ícone com o **“+”** na tela principal
  - No campo Grupo de Contatos, insira um nome para seu novo grupo que será importado, escolha bem o nome, pois uma vez criado ele não ficará disponível para alteração do nome.
  - Clique no ícone de upload escolha seu arquivo CSV e faça a importação.
- - Para baixar o modelo que deverá ser utilizado, clique no “Clique aqui” e faça o download do modelo do arquivo.  
-Saiba mais sobre os campos do arquivo CSV [clicando aqui](https://connvertbr-my.sharepoint.com/:x:/g/personal/patricia_lamac_code7_com/EXe7bwgogj5eWc1gZXtmjhYBABLG_anv7YR7yrSiuvt3Kg?e=VdEEUV).
-Ainda sobre o CSV - o que você precisa saber:
+ - Para baixar o modelo que deverá ser utilizado, clique no “Clique aqui” e faça o download do modelo do arquivo.
+ Ainda sobre o CSV - o que você precisa saber:
     - O nome do contato é campo obrigatório
     - Cada campo deverá se separado por ponto e vírgula (;)
     - Deverá ter ao menos um telefone válido para discagem
@@ -56,7 +55,7 @@ São pré-requisitos para o envio:
 A criação de grupo de contatos poderá ser realizada de duas formas:
 - Por meio de importação de um arquivo tipo CSV
 - Por meio da importação de todos os contatos já cadastrados em sua empresa
-
+  
 ### Tela de Importação de Grupo de Contatos
 - Inserir Nome do Grupo de Contatos
 - Optar ou por "Utilizar contatos Omni" ou "Fazer upload de arquivo"
