@@ -54,3 +54,11 @@ A funcionalidade da plataforma Code7 Omni traz agilidade e facilidade na criaç�
     
 ### Criando Grupos de Contatos
 A criação de grupo de contatos poderá ser realizada de duas formas:
+- Por meio de importação de um arquivo tipo CSV
+- Por meio da importação de todos os contatos já cadastrados em sua empresa
+
+### Tela de Importação de Grupo de Contatos
+- Inserir Nome do Grupo de Contatos
+- Optar ou por "Utilizar contatos Omni" ou "Fazer upload de arquivo"
+- Salvar
+
