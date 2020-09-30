@@ -20,7 +20,7 @@ As informações da tela inicial do Grupo de Contatos são:
     - Ativar os grupos selecionados
     - Inativar os grupos selecionados 
 
-### Importação de um Novo Grupo de Contato
+#### Importação de um Novo Grupo de Contatos
 Para criação de um Grupo de contato, deverá ser importado um arquivo CSV respeitando a formatação do modelo que está disponibilizado na plataforma.
  - Selecione o ícone com o **“+”** na tela principal
  - No campo Grupo de Contatos, insira um nome para seu novo grupo que será importado, escolha bem o nome, pois uma vez criado ele não ficará disponível para alteração do nome.
@@ -35,3 +35,13 @@ Saiba mais sobre os campos do arquivo CSV [clicando aqui](https://connvertbr-my.
     - No campo telefone, quando for um telefone móvel - deverá ter 13 caracteres onde a 5ª posição sempre será o número 9 - DDI+DDD+número válido para telefone fixo ex.: 5548**9**98288774
     - Se o contato estiver com fones incorretos, ele não será importado
     - Não há obrigatoriedade de todos os campos estarem preenchidos para importação, com exceção do obrigatório comentado no item 1. 
+#### Editando Grupo de Contatos
+#### Consultando Grupo de Contatos
+### Estratégia
+#### Criando uma Estratégia de Discagem
+#### Editando Estratégia
+### Campanha
+#### Criando uma nova Campanha
+#### Controles Manuais
+#### Controles Automatizados
+### Monitoramento
