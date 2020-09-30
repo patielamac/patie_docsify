@@ -48,11 +48,11 @@ Ainda sobre o CSV - o que você precisa saber:
 # Broadcast
 A funcionalidade da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, campanhas e estratégia de envios com monitoramento para envio de mensagens de whatsapp em massa.
 
-#####São pré-requisitos para o envio:
+São pré-requisitos para o envio:
 - Número de telefone cadastrado no Canal de Whatsapp
 - Aprovação dos HSM dentro das normas geradas pelo Facebook para que as mensagens possam ser enviadas.
     
-### Criando Grupos de Contatos
+## Criando Grupos de Contatos
 A criação de grupo de contatos poderá ser realizada de duas formas:
 - Por meio de importação de um arquivo tipo CSV
 - Por meio da importação de todos os contatos já cadastrados em sua empresa
@@ -61,4 +61,24 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 - Inserir Nome do Grupo de Contatos
 - Optar ou por "Utilizar contatos Omni" ou "Fazer upload de arquivo"
 - Salvar
+
+### Filtros em Grupo de Contatos
+## Criando Campanha
+## Criando Envios
+## Monitoramento
+# Canal de Integração Mercado Livre
+# Glossário Relatórios
+## Rastreio de Interações
+## Relatório IVR
+## Exportações
+### Relatório de Usuários
+### Relatório de Chamadas
+### Relatório de Atividade
+### Relatório de Broadcast HSM
+#### Consolidado
+#### Detalhado
+### Histórico Importação
+#### Relatório Broadcast Grupo de Contatos
+#### Relatório Discador Grupo de Contatos
+#### Relatório Discador
 
