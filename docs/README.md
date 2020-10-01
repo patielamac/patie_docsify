@@ -19,6 +19,9 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 **Usuário**
 A Tela de usuários traz os usuários já cadastrados na organização e também a possibilidade de criar novo cadastro bem como editar um já existente.
 Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
+
+![Cadastro usuario](/imgs/Tela_Cadastro.PNG "Cadastro Usuario")
+
 Na tela de cadastro terão campos para trazer as informações de:
 - Cadastro de novos usuários
 - Informações pessoais 
