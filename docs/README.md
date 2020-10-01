@@ -31,39 +31,43 @@ Na tela de cadastro terão campos para trazer as informações de:
 - Relacionamento de Produtos e Serviços para o usuário
 - Permissões 
 - Nível de acesso – Admin / Gerente / Usuário
+
 _Cadastro de usuário_
 ![Cadastro usuario](/imgs/Usuario_1.PNG "Cadastro Usuario1")
 ![Cadastro usuario](/imgs/Usuario_2.PNG "Cadastro Usuario2")
-**nota:** o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
+
+_**nota:**_ o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
 
 <h3>Serviços</h3>
 Na tela principal de serviços estão disponibilizados os links para cadastro de um novo serviço onde será inserido:
-- Nome - nome do serviço a ser cadastrado
+- Nome
+- nome do serviço a ser cadastrado
 - Atendimento (%) - qual a porcentagem de atendimento desejada para o serviço
 - Tempo Atendimento(s) - qual o tempo desejado para que seja inicializado o atendimento
 - Tempo Abandono(s) - qual o tempo aceitável para que o atendimento tenha abandono
 - Habilitar tela de Atendimento - se o serviço estará ou não habilitado para que seja atendido na Tela de Atendimento
+
 _Tela de Serviços_
 ![Cadastro servicos](/imgs/Servicos_1.PNG "Cadastro servicos1")
 
 _Edição de Usuários_
 ![Cadastro servicos](/imgs/Servicos_2.PNG "Cadastro servicos2")
 
-
-Estão também disponibilizados os links para que seja:
 _Tela de Cadastro de Serviços_
 ![Cadastro servicos](/imgs/Servicos_3.PNG "Cadastro servicos3")
 
+Estão também disponibilizados os links para que seja:
 - Editado quais usuários que atenderão o serviço
 - Editado o serviço
 - Excluído o serviço
 - Ativado/Desativado o serviço
+
 _Links de edição_
 ![Cadastro servicos](/imgs/Servicos_4.PNG "Cadastro servicos4")
 
 <h3>Tags</h3>
 O cadastro das Tags além da finalização do atendimento traz opções de cadastro para que seja realizado:
-- registro da informação  - de como foi realizado o atendimento, se houve venda, cancelamento ou novas negociações.
+- registro da informação (como foi realizado o atendimento, se houve venda, cancelamento ou novas negociações)
 - mensagem automática de finalização
 - transferência automática para outro tipo de serviço
 - finalização do telefone (em casos que foi identificado pelo usuário/operador que o telefone não pertence ao contato)
