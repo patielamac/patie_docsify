@@ -5,7 +5,7 @@ A funcionalidade do discador da plataforma Code7 Omni traz agilidade e facilidad
 ### Configurando Grupo de Contatos
 Na Tela de Grupo de Contatos se cria e edita os contatos que receberão as ligações de sua Campanha.
 
-![Grupo Contatos](/imgs/Grupo_Contatos_Discador2.PNG "Discador Grupo Contatos")
+![Grupo Contatos](/imgs/Grupo_Contatos_Discador.PNG "Discador Grupo Contatos")
 
 As informações da tela inicial do Grupo de Contatos são:
 * Tabela dos grupos já criados:
