@@ -16,15 +16,15 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 ![Code7 Omni](/imgs/Apresenta.PNG "Apresentação Code7 Omni")
 
 ## Cadastros
-    Usuário
-    Serviços
-    Tags
-    Canais
-    Conectores
-    Contatos
-    Blacklist
-    Shortcuts
-    Pausas
+**Usuário**
+**Serviços**
+**Tags**
+**Canais**
+**Conectores**
+**Contatos**
+**Blacklist**
+**Shortcuts**
+**Pausas**
 ## Tela de Atendimento
 ## Gerenciamento de Atendimento
 ## Visão dos Agentes
