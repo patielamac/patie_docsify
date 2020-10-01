@@ -31,6 +31,7 @@ Na tela de cadastro terão campos para trazer as informações de:
 - Relacionamento de Produtos e Serviços para o usuário
 - Permissões 
 - Nível de acesso – Admin / Gerente / Usuário
+_Cadastro de usuário_
 ![Cadastro usuario](/imgs/Usuario_1.PNG "Cadastro Usuario1")
 ![Cadastro usuario](/imgs/Usuario_2.PNG "Cadastro Usuario2")
 **nota:** o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
@@ -42,16 +43,22 @@ Na tela principal de serviços estão disponibilizados os links para cadastro de
 - Tempo Atendimento(s) - qual o tempo desejado para que seja inicializado o atendimento
 - Tempo Abandono(s) - qual o tempo aceitável para que o atendimento tenha abandono
 - Habilitar tela de Atendimento - se o serviço estará ou não habilitado para que seja atendido na Tela de Atendimento
+_Tela de Serviços_
 ![Cadastro servicos](/imgs/Servicos_1.PNG "Cadastro servicos1")
+
+_Edição de Usuários_
 ![Cadastro servicos](/imgs/Servicos_2.PNG "Cadastro servicos2")
 
+
 Estão também disponibilizados os links para que seja:
+_Tela de Cadastro de Serviços_
 ![Cadastro servicos](/imgs/Servicos_3.PNG "Cadastro servicos3")
 
 - Editado quais usuários que atenderão o serviço
 - Editado o serviço
 - Excluído o serviço
-- Ativado/Desativado o serviço 
+- Ativado/Desativado o serviço
+_Links de edição_
 ![Cadastro servicos](/imgs/Servicos_4.PNG "Cadastro servicos4")
 
 **Tags**
@@ -71,6 +78,8 @@ _Cadastro de nova Tag_
 
 **Canais**
 
+_Tela de Canais_
+![Canais](/imgs/Canais_1.PNG "Canais")
 **Conectores**
 
 **Contatos**
