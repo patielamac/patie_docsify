@@ -36,8 +36,38 @@ Na tela de cadastro terão campos para trazer as informações de:
 **nota:** o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
 
 **Serviços**
+Na tela principal de serviços estão disponibilizados os links para cadastro de um novo serviço onde será inserido:
+- Nome - nome do serviço a ser cadastrado
+- Atendimento (%) - qual a porcentagem de atendimento desejada para o serviço
+- Tempo Atendimento(s) - qual o tempo desejado para que seja inicializado o atendimento
+- Tempo Abandono(s) - qual o tempo aceitável para que o atendimento tenha abandono
+- Habilitar tela de Atendimento - se o serviço estará ou não habilitado para que seja atendido na Tela de Atendimento
+![Cadastro servicos](/imgs/Servicos_1.PNG "Cadastro servicos1")
+![Cadastro servicos](/imgs/Servicos_2.PNG "Cadastro servicos2")
+
+Estão também disponibilizados os links para que seja:
+![Cadastro servicos](/imgs/Servicos_3.PNG "Cadastro servicos3")
+
+- Editado quais usuários que atenderão o serviço
+- Editado o serviço
+- Excluído o serviço
+- Ativado/Desativado o serviço 
+![Cadastro servicos](/imgs/Servicos_4.PNG "Cadastro servicos4")
 
 **Tags**
+O cadastro das Tags além da finalização do atendimento traz opções de cadastro para que seja realizado:
+- registro da informação  - de como foi realizado o atendimento, se houve venda, cancelamento ou novas negociações.
+- mensagem automática de finalização
+- transferência automática para outro tipo de serviço
+- finalização do telefone (em casos que foi identificado pelo usuário/operador que o telefone não pertence ao contato)
+- finalização do contato (em casos onde o contato deixa claro que não quer mais receber ligações)
+
+_Tela principal Tags_
+![Cadastro tag](/imgs/Tag_1.PNG "Cadastro Tag1")
+
+_Cadastro de nova Tag_
+![Cadastro tag](/imgs/Tag_2.PNG "Cadastro Tag2")
+
 
 **Canais**
 
