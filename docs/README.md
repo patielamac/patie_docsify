@@ -1,8 +1,30 @@
-# Discador
+# Code7 Omni
+Portal de negócios e atendimento customizável e flexível para empresas onde é possível, de forma simples e objetiva: 
+* configurar URA
+* realizar atendimento multicanal
+* configurar agentes
+* configurar serviços e produtos
+* distribuir atendimento de serviços para grupos de agentes específicos
+* cadastro de clientes
+* manter histórico de atendimento consolidado multicanal
+* prestar continuidade ao atendimento do cliente sempre o mesmo operador/usuário
+* gerar relatórios gerenciais
+* administrar quantos e quais tipos de canais serão atendidos por operador (atendimento simultâneo configurável por operador)
+
+Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canais de telefonia convencional do tipo ISDN. Isso quer dizer qualidade total de voz, com a compatibilização de custos que só os sistemas digitais podem viabilizar. 
+
+
+
+
+
+
+
+
+## Discador
 
 A funcionalidade do discador da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, estratégia e campanhas que irão fazer parte da discagem em massa
 
-<h3>Configurando Grupo de Contatos</h3>
+### Configurando Grupo de Contatos
 Na Tela de Grupo de Contatos se cria e edita os contatos que receberão as ligações de sua Campanha.
 
 ![Grupo Contatos](/imgs/Grupo_Contatos_Discador.PNG "Discador Grupo Contatos")
@@ -20,7 +42,7 @@ As informações da tela inicial do Grupo de Contatos são:
     - Ativar os grupos selecionados
     - Inativar os grupos selecionados 
 
-<h4>Importação de um Novo Grupo de Contatos</h4>
+**Importação de um Novo Grupo de Contatos**
 Para criação de um Grupo de contato, deverá ser importado um arquivo CSV respeitando a formatação do modelo que está disponibilizado na plataforma.
 
 ![Novo Grupo Contatos](/imgs/Inserir_grupo.PNG "Inserir Grupo Contatos")
@@ -40,7 +62,7 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
     - No campo telefone, quando for um telefone móvel - deverá ter 13 caracteres onde a 5ª posição sempre será o número 9 - DDI+DDD+número válido para telefone fixo ex.: 5548**9**98288774
     - Se o contato estiver com fones incorretos, ele não será importado
     - Não há obrigatoriedade de todos os campos estarem preenchidos para importação, com exceção do obrigatório comentado no item 1. 
-##### Editando Grupo de Contatos
+**Editando Grupo de Contatos**
 Na Tela de Edição (somente liberada se o grupo de contato não estiver associado a uma campanha) de grupo de contatos é possível:
     - Importar outro arquivo CSV para um grupo já existente
     - Desativar um grupo de contato
@@ -48,49 +70,50 @@ Na Tela de Edição (somente liberada se o grupo de contato não estiver associa
     
 ![Editar Grupo Contatos](/imgs/Editar_grupo_contato.PNG "Editar Grupo Contatos") 
     
-##### Consultando Grupo de Contatos
+**Consultando Grupo de Contatos**
+
 ### Estratégia
-#### Criando uma Estratégia de Discagem
-#### Editando Estratégia
+**Criando uma Estratégia de Discagem**
+**Editando Estratégia**
 ### Campanha
-#### Criando uma nova Campanha
-#### Controles Manuais
-#### Controles Automatizados
-### Monitoramento
-# Broadcast
+**Criando uma nova Campanha**
+**Controles Manuais**
+**Controles Automatizados**
+**Monitoramento**
+## Broadcast
 A funcionalidade da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, campanhas e estratégia de envios com monitoramento para envio de mensagens de whatsapp em massa.
 
 São pré-requisitos para o envio:
 - Número de telefone cadastrado no Canal de Whatsapp
 - Aprovação dos HSM dentro das normas geradas pelo Facebook para que as mensagens possam ser enviadas.
     
-## Criando Grupos de Contatos
+**Criando Grupos de Contatos**
 A criação de grupo de contatos poderá ser realizada de duas formas:
 - Por meio de importação de um arquivo tipo CSV
 - Por meio da importação de todos os contatos já cadastrados em sua empresa
   
-### Tela de Importação de Grupo de Contatos
+**Tela de Importação de Grupo de Contatos**
 - Inserir Nome do Grupo de Contatos
 - Optar ou por "Utilizar contatos Omni" ou "Fazer upload de arquivo"
 - Salvar
 
-### Filtros em Grupo de Contatos
-## Criando Campanha
-## Criando Envios
-## Monitoramento
-# Canal de Integração Mercado Livre
-# Glossário Relatórios
-## Rastreio de Interações
-## Relatório IVR
+**Filtros em Grupo de Contatos**
+**Criando Campanha**
+**Criando Envios**
+**Monitoramento**
+## Canal de Integração Mercado Livre
+## Glossário Relatórios
+### Rastreio de Interações
+### Relatório IVR
 ## Exportações
-### Relatório de Usuários
-### Relatório de Chamadas
-### Relatório de Atividade
-### Relatório de Broadcast HSM
-#### Consolidado
-#### Detalhado
-### Histórico Importação
-#### Relatório Broadcast Grupo de Contatos
-#### Relatório Discador Grupo de Contatos
-#### Relatório Discador
+**Relatório de Usuários**
+**Relatório de Chamadas**
+**Relatório de Atividade**
+**Relatório de Broadcast HSM**
+**Consolidado**
+**Detalhado**
+**Histórico Importação**
+**Relatório Broadcast Grupo de Contatos**
+**Relatório Discador Grupo de Contatos**
+**Relatório Discador**
 
