@@ -16,7 +16,7 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 ![Code7 Omni](/imgs/Apresenta.PNG "Apresentação Code7 Omni")
 
 ## Cadastros
-    **Usuário**
+<h3>Usuário</h3>
 A Tela de usuários traz os usuários já cadastrados na organização e também a possibilidade de criar novo cadastro bem como editar um já existente.
 Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
 
@@ -28,10 +28,12 @@ Na tela de cadastro terão campos para trazer as informações de:
 - Informações do perfil de atendimento 
 - Alteração de usuários já cadastrados 
 - Atualização de Status – Usuário Ativo ou Inativo 
-- Relacionamento de Produtos e Serviços para o usuário (verificar possível alteração a sugestão é que no cadastro de produtos e serviços sejam selecionados os usuários e não o contrário) 
+- Relacionamento de Produtos e Serviços para o usuário
 - Permissões 
 - Nível de acesso – Admin / Gerente / Usuário
-nota: o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
+![Cadastro usuario](/imgs/Usuario_1.PNG "Cadastro Usuario1")
+![Cadastro usuario](/imgs/Usuario_2.PNG "Cadastro Usuario2")
+**nota:** o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
 
 **Serviços**
 
