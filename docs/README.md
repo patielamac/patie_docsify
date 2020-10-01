@@ -16,7 +16,7 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 ![Code7 Omni](/imgs/Apresenta.PNG "Apresentação Code7 Omni")
 
 ## Cadastros
-**Usuário**
+    **Usuário**
 A Tela de usuários traz os usuários já cadastrados na organização e também a possibilidade de criar novo cadastro bem como editar um já existente.
 Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
 
