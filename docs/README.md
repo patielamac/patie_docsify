@@ -17,7 +17,6 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 
 ## Cadastros
 **Usuário**
-
 A Tela de usuários traz os usuários já cadastrados na organização e também a possibilidade de criar novo cadastro bem como editar um já existente.
 Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
 
@@ -32,17 +31,24 @@ Na tela de cadastro terão campos para trazer as informações de:
 - Relacionamento de Produtos e Serviços para o usuário (verificar possível alteração a sugestão é que no cadastro de produtos e serviços sejam selecionados os usuários e não o contrário) 
 - Permissões 
 - Nível de acesso – Admin / Gerente / Usuário
-
 nota: o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
 
 **Serviços**
+
 **Tags**
+
 **Canais**
+
 **Conectores**
+
 **Contatos**
+
 **Blacklist**
+
 **Shortcuts**
+
 **Pausas**
+
 ## Tela de Atendimento
 ## Gerenciamento de Atendimento
 ## Visão dos Agentes
