@@ -39,6 +39,7 @@ _Cadastro de usuário_
 _**nota:**_ o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
 
 <h3>Serviços</h3>
+
 Na tela principal de serviços estão disponibilizados os links para cadastro de um novo serviço onde será inserido:
 - Nome
 - nome do serviço a ser cadastrado
@@ -50,8 +51,10 @@ Na tela principal de serviços estão disponibilizados os links para cadastro de
 _Tela de Serviços_
 ![Cadastro servicos](/imgs/Servicos_1.PNG "Cadastro servicos1")
 
+
 _Edição de Usuários_
 ![Cadastro servicos](/imgs/Servicos_2.PNG "Cadastro servicos2")
+
 
 _Tela de Cadastro de Serviços_
 ![Cadastro servicos](/imgs/Servicos_3.PNG "Cadastro servicos3")
@@ -62,10 +65,13 @@ Estão também disponibilizados os links para que seja:
 - Excluído o serviço
 - Ativado/Desativado o serviço
 
+
 _Links de edição_
 ![Cadastro servicos](/imgs/Servicos_4.PNG "Cadastro servicos4")
 
+
 <h3>Tags</h3>
+
 O cadastro das Tags além da finalização do atendimento traz opções de cadastro para que seja realizado:
 - registro da informação (como foi realizado o atendimento, se houve venda, cancelamento ou novas negociações)
 - mensagem automática de finalização
@@ -73,8 +79,10 @@ O cadastro das Tags além da finalização do atendimento traz opções de cadas
 - finalização do telefone (em casos que foi identificado pelo usuário/operador que o telefone não pertence ao contato)
 - finalização do contato (em casos onde o contato deixa claro que não quer mais receber ligações)
 
+
 _Tela principal Tags_
 ![Cadastro tag](/imgs/Tag_1.PNG "Cadastro Tag1")
+
 
 _Cadastro de nova Tag_
 ![Cadastro tag](/imgs/Tag_2.PNG "Cadastro Tag2")
