@@ -22,10 +22,16 @@ As informações da tela inicial do Grupo de Contatos são:
 
 #### Importação de um Novo Grupo de Contatos
 Para criação de um Grupo de contato, deverá ser importado um arquivo CSV respeitando a formatação do modelo que está disponibilizado na plataforma.
+
+![Novo Grupo Contatos](/imgs/Inserir_grupo.PNG "Inserir Grupo Contatos")
+
  - Selecione o ícone com o **“+”** na tela principal
  - No campo Grupo de Contatos, insira um nome para seu novo grupo que será importado, escolha bem o nome, pois uma vez criado ele não ficará disponível para alteração do nome.
  - Clique no ícone de upload escolha seu arquivo CSV e faça a importação.
  - Para baixar o modelo que deverá ser utilizado, clique no “Clique aqui” e faça o download do modelo do arquivo.
+ 
+ ![Importar Grupo Contatos](/imgs/Importar_grupo_contato.PNG "Importar Grupo Contatos")
+ 
  Ainda sobre o CSV - o que você precisa saber:
     - O nome do contato é campo obrigatório
     - Cada campo deverá se separado por ponto e vírgula (;)
@@ -35,6 +41,13 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
     - Se o contato estiver com fones incorretos, ele não será importado
     - Não há obrigatoriedade de todos os campos estarem preenchidos para importação, com exceção do obrigatório comentado no item 1. 
 #### Editando Grupo de Contatos
+Na Tela de Edição (somente liberada se o grupo de contato não estiver associado a uma campanha) de grupo de contatos é possível:
+    - Importar outro arquivo CSV para um grupo já existente
+    - Desativar um grupo de contato
+    - Ativar um grupo de Contato
+    
+![Editar Grupo Contatos](/imgs/Editar_grupo_contato.PNG "Editar Grupo Contatos") 
+    
 #### Consultando Grupo de Contatos
 ### Estratégia
 #### Criando uma Estratégia de Discagem
