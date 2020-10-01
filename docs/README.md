@@ -36,7 +36,7 @@ _Cadastro de usuário_
 ![Cadastro usuario](/imgs/Usuario_2.PNG "Cadastro Usuario2")
 **nota:** o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
 
-**Serviços**
+<h3>Serviços</h3>
 Na tela principal de serviços estão disponibilizados os links para cadastro de um novo serviço onde será inserido:
 - Nome - nome do serviço a ser cadastrado
 - Atendimento (%) - qual a porcentagem de atendimento desejada para o serviço
@@ -61,7 +61,7 @@ _Tela de Cadastro de Serviços_
 _Links de edição_
 ![Cadastro servicos](/imgs/Servicos_4.PNG "Cadastro servicos4")
 
-**Tags**
+<h3>Tags</h3>
 O cadastro das Tags além da finalização do atendimento traz opções de cadastro para que seja realizado:
 - registro da informação  - de como foi realizado o atendimento, se houve venda, cancelamento ou novas negociações.
 - mensagem automática de finalização
@@ -76,19 +76,20 @@ _Cadastro de nova Tag_
 ![Cadastro tag](/imgs/Tag_2.PNG "Cadastro Tag2")
 
 
-**Canais**
+<h3>Canais</h3>
 
 _Tela de Canais_
 ![Canais](/imgs/Canais_1.PNG "Canais")
-**Conectores**
 
-**Contatos**
+<h3>Conectores</h3>
 
-**Blacklist**
+<h3>Contatos</h3>
 
-**Shortcuts**
+<h3>Blacklist</h3>
 
-**Pausas**
+<h3>Shortcuts</h3>
+
+<h3>Pausas</h3>
 
 ## Tela de Atendimento
 ## Gerenciamento de Atendimento
