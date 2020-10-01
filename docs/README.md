@@ -166,6 +166,7 @@ A funcionalidade da plataforma Code7 Omni traz agilidade e facilidade na criaç�
 São pré-requisitos para o envio:
 - Número de telefone cadastrado no Canal de Whatsapp
 - Aprovação dos HSM dentro das normas geradas pelo Facebook para que as mensagens possam ser enviadas.
+
     
 ### Criação - Grupos de Contatos
 A criação de grupo de contatos poderá ser realizada de duas formas:
