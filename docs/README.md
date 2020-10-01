@@ -20,7 +20,7 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 A Tela de usuários traz os usuários já cadastrados na organização e também a possibilidade de criar novo cadastro bem como editar um já existente.
 Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
 
-![Cadastro usuario](/imgs/Tela_Cadastro.PNG "Cadastro Usuario")
+![Cadastro usuario](/imgs/Tela_Cadastro.PNG "Tela Usuario")
 
 Na tela de cadastro terão campos para trazer as informações de:
 - Cadastro de novos usuários
@@ -49,15 +49,18 @@ Na tela principal de serviços estão disponibilizados os links para cadastro de
 - Habilitar tela de Atendimento - se o serviço estará ou não habilitado para que seja atendido na Tela de Atendimento
 
 _Tela de Serviços_
-![Cadastro servicos](/imgs/Servicos_1.PNG "Cadastro servicos1")
 
+![Cadastro servicos](/imgs/Servicos_1.PNG "Tela Serviços")
 
 _Edição de Usuários_
-![Cadastro servicos](/imgs/Servicos_2.PNG "Cadastro servicos2")
+
+![Cadastro servicos](/imgs/Servicos_2.PNG "Edição Usuários")
 
 
 _Tela de Cadastro de Serviços_
-![Cadastro servicos](/imgs/Servicos_3.PNG "Cadastro servicos3")
+
+![Cadastro servicos](/imgs/Servicos_3.PNG "Edição Serviços")
+
 
 Estão também disponibilizados os links para que seja:
 - Editado quais usuários que atenderão o serviço
@@ -67,7 +70,8 @@ Estão também disponibilizados os links para que seja:
 
 
 _Links de edição_
-![Cadastro servicos](/imgs/Servicos_4.PNG "Cadastro servicos4")
+
+![Cadastro servicos](/imgs/Servicos_4.PNG "Links para Edição Serviços")
 
 
 <h3>Tags</h3>
@@ -81,17 +85,17 @@ O cadastro das Tags além da finalização do atendimento traz opções de cadas
 
 
 _Tela principal Tags_
-![Cadastro tag](/imgs/Tag_1.PNG "Cadastro Tag1")
+![Cadastro tag](/imgs/Tag_1.PNG "Tela TAG")
 
 
 _Cadastro de nova Tag_
-![Cadastro tag](/imgs/Tag_2.PNG "Cadastro Tag2")
+![Cadastro tag](/imgs/Tag_2.PNG "Cadastro TAG")
 
 
 <h3>Canais</h3>
 
 _Tela de Canais_
-![Canais](/imgs/Canais_1.PNG "Canais")
+![Canais](/imgs/Canais_1.PNG "Tela dos Canais")
 
 <h3>Conectores</h3>
 
