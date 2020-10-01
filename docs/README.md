@@ -109,6 +109,53 @@ _Tela de Canais_
 ![Canais](/imgs/Canais_1.PNG "Tela dos Canais")
 
 ### Telefone
+
+O Cadastro e Configuração do telefone para atendimento é realizado de forma prática e bem intuitiva
+Na tela principal, clique no **+** para cadastrar o telefone, preenchendo os campos:
+- Escolha o pais de origem,
+- Escolha o código de área - estarão as opções do número de telefone que poderá utilizar pra seu atendimento,
+- Escolha um nome,
+
+_Tela de cadastro e gerenciamento da rota da ligação, onde é realizado a configuração da fila de atendimento_
+![Canais Telefone](/imgs/Telefone_10.PNG "Tela Cadastro Telefone")
+
+_Tela de definição do telefone_
+![Canais Telefone](/imgs/Telefone_11.PNG "Escolha o número do Telefone")
+
+Após definição do telefone que ficará disponibilizado para receber as ligações, deve-se configurar a fila de atendimento por serviço:
+- Horário de Atendimento - seleção do dia da semana e horários inicial e final do atendimento
+- Mensagem de Boas Vindas
+- Mensagem com Atendimento Fechado
+- Serviços que farão parte do atendimento
+- Mensagem para ligações não atendidas
+
+<h4>Horário de Atendimento</h4>
+
+A configuração dos horários de atendimento poderão ser com Atendimento sempre aberto (24x7) ou poderá ser Configurado os horários por dia da semana de acordo com a necessidade da organização, neste caso, você optará pelo fuso horário e poderá inserir o dia da semana e quais os horários iniciais e finais de cada dia.
+
+_Configuração dos Horários de Atendimento_
+![Canais Telefone](/imgs/Telefone_3.PNG "Configuração dos Horários")
+
+<h4>Mensagem de Boas Vindas</h4>
+
+Conhecida também como mensagem de saudação, que será enviada assim que o contato for atendido pela URA. Poderá ser cadastrada internamente na plataforma, onde o Texto é escrito, transformado em áudio pelo robô e definido qual voz será utilizada na gravação ou a organização poderá importar um arquivo próprio de áudio .mp3 ou .wav.
+
+_Configuração Mensagem de Boas Vindas_
+![Canais Telefone](/imgs/Telefone_4.PNG "Configuração Mensagem de Boas Vindas")
+
+<h4>Mensagem com Atendimento Fechado</h4>
+
+Utilizada quando o contato realiza uma ligação para a URA fora do seu horário de atendimento, então é realizada uma gravação para informar que não estão atendendo no momento. Poderá ser cadastrada internamente na plataforma, onde o Texto é escrito, transformado em áudio pelo robô e definido qual voz será utilizada na gravação ou a organização poderá importar um arquivo próprio de áudio .mp3 ou .wav.
+
+_Configuração Mensagem de Atendimento Fechado_
+![Canais Telefone](/imgs/Telefone_5.PNG "Configuração Mensagem de Atendimento Fechado")
+
+<h4>Cadastro dos Serviços</h4>
+
+A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a critério da organização, de forma que melhor lhe atenda. Clicando no ícone de editar do Menu de Atendimento poderá ser escolhido 
+
+<h4>Mensagem para ligações não atendidas</h4>
+
 ### Whatsapp
 ### Boteria
 ### E-mail
