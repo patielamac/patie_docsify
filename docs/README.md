@@ -91,12 +91,6 @@ _Tela principal Tags_
 _Cadastro de nova Tag_
 ![Cadastro tag](/imgs/Tag_2.PNG "Cadastro TAG")
 
-
-<h3>Canais</h3>
-
-_Tela de Canais_
-![Canais](/imgs/Canais_1.PNG "Tela dos Canais")
-
 <h3>Conectores</h3>
 
 <h3>Contatos</h3>
@@ -107,6 +101,18 @@ _Tela de Canais_
 
 <h3>Pausas</h3>
 
+## Canais
+
+Em Canais são realizados os cadastros de todas as mídias que a empresa terá para atendimento, voz, whatsapp, webchat, e-mail e mercado livre.
+
+_Tela de Canais_
+![Canais](/imgs/Canais_1.PNG "Tela dos Canais")
+
+### Telefone
+### Whatsapp
+### Boteria
+### E-mail
+### Canal de Integração Mercado Livre
 ## Tela de Atendimento
 ## Gerenciamento de Atendimento
 ## Visão dos Agentes
@@ -195,7 +201,6 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 ### Criação de Campanha
 ### Criação de Envios
 ### Monitoramento
-## Canal de Integração Mercado Livre
 ## Glossário Relatórios
 ### Rastreio de Interações
 ### Relatório IVR
