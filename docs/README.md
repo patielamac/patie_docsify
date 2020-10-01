@@ -13,11 +13,22 @@ Portal de negócios e atendimento customizável e flexível para empresas onde �
 
 Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canais de telefonia convencional do tipo ISDN. Isso quer dizer qualidade total de voz, com a compatibilização de custos que só os sistemas digitais podem viabilizar. 
 
+![Code7 Omni](/imgs/Apresenta.PNG "Apresentação Code7 Omni")
 
-
-
-
-
+## Cadastros
+### Usuário
+### Serviços
+### Tags
+### Canais
+### Conectores
+### Contatos
+### Blacklist
+### Shortcuts
+### Pausas
+## Tela de Atendimento
+## Gerenciamento de Atendimento
+## Visão dos Agentes
+##
 
 
 ## Discador
@@ -80,7 +91,7 @@ Na Tela de Edição (somente liberada se o grupo de contato não estiver associa
 **Controles Manuais**
 **Controles Automatizados**
 **Monitoramento**
-## Broadcast
+## Broadcast - HSM
 A funcionalidade da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, campanhas e estratégia de envios com monitoramento para envio de mensagens de whatsapp em massa.
 
 São pré-requisitos para o envio:
