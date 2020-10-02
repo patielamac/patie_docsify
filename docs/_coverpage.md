@@ -5,7 +5,7 @@
   </head>
   <body>
   ![Logo](/docs/img/code7.omni.png)
-   <h1>[Documentação](/docs/README.MD</h1>
+   <h2>[Documentação](/docs/README.MD)</h2>
    <h6>Versao 1.0.0</h6>
   </body>
 
