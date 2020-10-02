@@ -152,7 +152,7 @@ _Configuração Mensagem de Atendimento Fechado_
 
 <h4>Cadastro dos Serviços</h4>
 
-A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a critério da organização, de forma que melhor lhe atenda. Clicando no ícone de editar do Menu de Atendimento poderá ser escolhido 
+A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a critério da organização, de forma que melhor lhe atenda. Clicando no ícone de editar do Menu de Atendimento poderá ser escolhido qual serviço será escolhido e em qual ordem de discagem na URA ele ficará.
 
 <h4>Mensagem para ligações não atendidas</h4>
 
