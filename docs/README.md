@@ -16,6 +16,10 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 ![Code7 Omni](/imgs/Apresenta.PNG "Apresentação Code7 Omni")
 
 ## Cadastros
+Todos os cadastros principais da plataforma serão realizados no link do menu lateral - imagem de uma engrenagem.
+
+![Acesso Cadastros](/imgs/Cadastros_00.PNG "Acesso aos Cadastros")
+
 <h3>Usuário</h3>
 A Tela de usuários traz os usuários já cadastrados na organização e também a possibilidade de criar novo cadastro bem como editar um já existente.
 Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
@@ -91,9 +95,10 @@ _Tela principal Tags_
 _Cadastro de nova Tag_
 ![Cadastro tag](/imgs/Tag_2.PNG "Cadastro TAG")
 
-<h3>Conectores</h3>
-
 <h3>Contatos</h3>
+Os Contatos podem ser cadastrados individualmente ou por meio de importação de arquivo CSV, temos como único campo obrigatório o Nome do contato.
+
+![Contatos](/imgs/Contatos_1.PNG "Tela Contatos")
 
 <h3>Blacklist</h3>
 
