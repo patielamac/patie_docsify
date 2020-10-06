@@ -1,5 +1,5 @@
 
-  ![color](#D8BFD8)
+  ![color](red)
 
   ![Code7 Omni](/imgs/code7.omni.PNG "Code7 Omni")
 
