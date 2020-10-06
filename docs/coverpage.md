@@ -2,9 +2,9 @@
 
   ![Code7 Omni](/imgs/code7.omni.PNG "Code7 Omni")
 
-  **[Documentação](README.MD)**
+  **[Documentação](# Code7 Omni)**
 
-(h5)Versao 1.0.0(/h5)
+<h5>)Versao 1.0.0</h5>
 
 
 
