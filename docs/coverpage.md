@@ -4,7 +4,7 @@
 
   **[Documentação](README.MD)**
 
-######Versao 1.0.0
+(h5)Versao 1.0.0(/h5)
 
 
 
