@@ -139,12 +139,14 @@ Notar que:
 - os campos são separados por ponto e vírgula (;)
 - apenas o campo nome é obrigatório
 - o campo "contact_gender" aceita apenas Masculino / Feminino / Não Informado ou poderá ser deixado em branco
+- o cadastro do número do telefone deverá ser feito com DDI + DDD + NÚMERO DO TELEFONE
 - há uma particularidade para cadastro dos campos customizados
-    - todos campos criados customizados deverão ficar entre  chaves []
-    - o cadastro do número do telefone deverá ser feito com DDI + DDD + NÚMERO DO TELEFONE
+    - todos campos criados customizados deverão ficar entre  chaves []    
     - entre aspas duplas deverão ficar o Nome do Campo seguido de vírgula e o valor do campo também entre aspas duplas
-    - cada campo customizado deverá ser separado por pipe | 
-    como no exemplo abaixo:
+    - cada campo customizado deverá ser separado por pipe |
+    
+    Como no exemplo abaixo:
+    
     ["Faturamento","20.000"|"Advogado","Dr. Augusto Martins"|"Secretária","Gabriela Santos"]
 
 
