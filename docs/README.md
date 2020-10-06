@@ -151,6 +151,9 @@ Notar que:
 
 
 <h3>Blacklist</h3>
+O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para contatos, é realizado para Inbound e Outbound separadamente.
+
+
 
 <h3>Shortcuts</h3>
 
