@@ -1,4 +1,4 @@
-  ![Code7 Omni](/imgs/code7.omni.PNG "Code7 Omni")
+  ![Code7 Omni](/imgs/code7-omni.PNG "Code7 Omni")
 
 
   **[Documentação](README.md)**
