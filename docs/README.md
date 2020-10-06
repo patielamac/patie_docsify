@@ -153,6 +153,36 @@ Notar que:
 <h3>Blacklist</h3>
 O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para contatos, é realizado para Inbound e Outbound separadamente.
 
+_Tela de Blacklist_
+
+![Blacklist](/imgs/Canais_1.PNG "Tela dos Canais")
+
+O cadastro dos telefones para Blacklist pode ser realizado individualmente ou por importação de CSV, em ambos os casos, o formato do telefone importado deverá ser
+DDI+DDD+NÚMERO DO TELEFONE
+
+_Tela de Importação individual Outbound_
+
+![Blacklist](/imgs/Black_outbound.PNG "Cadastro Blacklist Outbound")
+
+
+- Registrar o número do Telefone e clicar em Salvar
+
+
+_Tela de Importação individual Inbound_
+
+![Blacklist](/imgs/Black_inbound.PNG "Cadastro Blacklist intbound")
+
+
+_Tela de Importação individual Inbound lista flow_
+
+![Blacklist](/imgs/Black_inbound.PNG "Cadastro Blacklist intbound")
+
+
+- Selecionar a URA
+- Registrar o número do Telefone e clicar em Salvar
+
+
+
 
 
 <h3>Shortcuts</h3>
@@ -164,7 +194,10 @@ O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para cont
 Em Canais são realizados os cadastros de todas as mídias que a empresa terá para atendimento, voz, whatsapp, webchat, e-mail e mercado livre.
 
 _Tela de Canais_
-![Canais](/imgs/Canais_1.PNG "Tela dos Canais")
+
+![Canais](/imgs/Blacklist_00.PNG "Tela Blacklist")
+
+
 
 ### Telefone
 
