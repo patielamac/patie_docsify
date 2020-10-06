@@ -133,7 +133,7 @@ na tela de Importação com arquivo CSV está disponibilizado um modelo do arqui
 
 _Tela Importação CSV_
 
-![Contatos](/imgs/Contatos_2.PNG "Importação CSV")
+![Contatos](/imgs/Contatos_CSV.PNG "Importação CSV")
 
 Notar que:
 - os campos são separados por ponto e vírgula (;)
