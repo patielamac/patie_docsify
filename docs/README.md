@@ -89,10 +89,12 @@ O cadastro das Tags além da finalização do atendimento traz opções de cadas
 
 
 _Tela principal Tags_
+
 ![Cadastro tag](/imgs/Tag_1.PNG "Tela TAG")
 
 
 _Cadastro de nova Tag_
+
 ![Cadastro tag](/imgs/Tag_2.PNG "Cadastro TAG")
 
 <h3>Contatos</h3>
@@ -102,11 +104,16 @@ Os Contatos podem ser cadastrados individualmente ou por meio de importação de
 
 O **Cadastro individual** é realizado ao clicar no **+** no canto superior esquerdo da tela onde terá acesso aos campos de Cadastro
 
+
 _Acesso aos tipos de Cadastro_
+
 ![Contatos](/imgs/Contatos_4.PNG "Acesso aos Tipo de Cadastro")
 
+
 _Tela Cadastro Individual_
+
 ![Contatos](/imgs/Contatos_2.PNG "Tela de Cadastro Individual")
+
 
 Na tela de Cadastro Individual poderá ser inserido:
 - uma Imagem/Avatar do contato
@@ -114,9 +121,31 @@ Na tela de Cadastro Individual poderá ser inserido:
 - adicionado até 10 números de Telefones por contato
 - adicionar campos Customizados - campos coringa - que poderão ser criados de acordo com a necessidade de cada organização
 
+
 _Cadastro Campos Customizados_
+
 ![Contatos](/imgs/Contatos_5.PNG "Campos Customizados")
 
+
+Para realizar o cadastro em massa, utiliza-se a importação de Arquivo CSV que é acessado no canto superior direito da tela demonstrado na imagem _Acesso aos tipos de Cadastro_
+na tela de Importação com arquivo CSV está disponibilizado um modelo do arquivo com os campos e formatos para que ocorra a importação.
+
+
+_Tela Importação CSV_
+
+![Contatos](/imgs/Contatos_2.PNG "Importação CSV")
+
+Notar que:
+- os campos são separados por ponto e vírgula (;)
+- apenas o campo nome é obrigatório
+- o campo "contact_gender" aceita apenas Masculino / Feminino / Não Informado ou poderá ser deixado em branco
+- há uma particularidade para cadastro dos campos customizados
+    - todos campos criados customizados deverão ficar entre  chaves []
+    - o cadastro do número do telefone deverá ser feito com DDI + DDD + NÚMERO DO TELEFONE
+    - entre aspas duplas deverão ficar o Nome do Campo seguido de vírgula e o valor do campo também entre aspas duplas
+    - cada campo customizado deverá ser separado por pipe | 
+    como no exemplo abaixo:
+    ["Faturamento","20.000"|"Advogado","Dr. Augusto Martins"|"Secretária","Gabriela Santos"]
 
 
 <h3>Blacklist</h3>
