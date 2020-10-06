@@ -100,6 +100,25 @@ Os Contatos podem ser cadastrados individualmente ou por meio de importação de
 
 ![Contatos](/imgs/Contatos_1.PNG "Tela Contatos")
 
+O **Cadastro individual** é realizado ao clicar no **+** no canto superior esquerdo da tela onde terá acesso aos campos de Cadastro
+
+_Acesso aos tipos de Cadastro_
+![Contatos](/imgs/Contatos_4.PNG "Acesso aos Tipo de Cadastro")
+
+_Tela Cadastro Individual_
+![Contatos](/imgs/Contatos_2.PNG "Tela de Cadastro Individual")
+
+Na tela de Cadastro Individual poderá ser inserido:
+- uma Imagem/Avatar do contato
+- alternado o tipo de cadastro se Corporativo ou Pessoa Física
+- adicionado até 10 números de Telefones por contato
+- adicionar campos Customizados - campos coringa - que poderão ser criados de acordo com a necessidade de cada organização
+
+_Cadastro Campos Customizados_
+![Contatos](/imgs/Contatos_5.PNG "Campos Customizados")
+
+
+
 <h3>Blacklist</h3>
 
 <h3>Shortcuts</h3>
