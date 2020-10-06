@@ -4,7 +4,7 @@
 
   **[Documentação](#code7-omni)**
 
-<h6>_Versao 1.0.0_</h6>
+<h6>1.0.0</h6>
 
 
 
