@@ -372,162 +372,108 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 	</thead>
 	<tbody>
 		<tr style="height:20px;">
-			<th id="0R0" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">1</div>
-			</th>
 			<td class="s0" dir="ltr">Campo</td>
 			<td class="s1" dir="ltr">Descrição</td>
 			<td class="s0" dir="ltr">Formato</td>
 			<td class="s1" dir="ltr">Cálculo</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R1" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">2</div>
-			</th>
 			<td class="s2" dir="ltr">DATA</td>
 			<td class="s3" dir="ltr">Data do Contato</td>
 			<td class="s4" dir="ltr">aaaa-mm-dd</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R2" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">3</div>
-			</th>
 			<td class="s2" dir="ltr">HORA</td>
 			<td class="s3" dir="ltr">Hora do Contato</td>
 			<td class="s4" dir="ltr">hh:mm:ss:ms</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R3" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">4</div>
-			</th>
 			<td class="s2" dir="ltr">PROTOCOLO</td>
 			<td class="s3" dir="ltr">Número do protocolo de atendimento</td>
 			<td class="s4" dir="ltr">Número Inteiro</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R4" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">5</div>
-			</th>
 			<td class="s2" dir="ltr">SERVIÇOS</td>
 			<td class="s3" dir="ltr">Nome do Serviço em que foi realizado o Atendimento</td>
 			<td class="s4" dir="ltr">Alfanumérico</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R5" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">6</div>
-			</th>
 			<td class="s2" dir="ltr">AGENTE</td>
 			<td class="s3" dir="ltr">Nome do usuário</td>
 			<td class="s4" dir="ltr">Alfanumérico</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R6" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">7</div>
-			</th>
 			<td class="s2" dir="ltr">ORIGEM</td>
 			<td class="s3" dir="ltr">Integração utilizada para realizar o atendimento (ex: Portal, Zendesk, Salesforce)</td>
 			<td class="s4" dir="ltr">Alfanumérico</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R7" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">8</div>
-			</th>
 			<td class="s2" dir="ltr">TIPO (apenas para voz)</td>
 			<td class="s3" dir="ltr">Outbound / Inbound</td>
 			<td class="s4" dir="ltr">Texto</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R8" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">9</div>
-			</th>
 			<td class="s2" dir="ltr">PARA (apenas para voz)</td>
 			<td class="s3" dir="ltr">Número/Ramal que recebeu o contato</td>
 			<td class="s4" dir="ltr">Numérico</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R9" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">10</div>
-			</th>
 			<td class="s2" dir="ltr">CONTATO</td>
 			<td class="s3" dir="ltr">Nome do Contato - apenas após tabulação do atendimento estará disponível no relatório</td>
 			<td class="s4" dir="ltr">Alfanumérico</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R10" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">11</div>
-			</th>
 			<td class="s2" dir="ltr">A PARTIR DE</td>
 			<td class="s3" dir="ltr">Número/Ramal que realizou o contato</td>
 			<td class="s4" dir="ltr">Numérico</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R11" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">12</div>
-			</th>
 			<td class="s2" dir="ltr">DURAÇÃO</td>
 			<td class="s3" dir="ltr">Tempo de atendimento</td>
 			<td class="s4" dir="ltr">hh:mm:ss</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R12" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">13</div>
-			</th>
 			<td class="s2" dir="ltr">STATUS</td>
 			<td class="s3" dir="ltr">Resultado da chamada - Abandoned/Bad Phone/ Bad Number / Dequeued</td>
 			<td class="s4" dir="ltr">Texto</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R13" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">14</div>
-			</th>
 			<td class="s2" dir="ltr">Tag</td>
 			<td class="s3" dir="ltr">Tabulação</td>
 			<td class="s4" dir="ltr">Alfanumérico</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R14" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">15</div>
-			</th>
 			<td class="s2" dir="ltr">JITTER (apenas para voz)</td>
 			<td class="s3" dir="ltr">Atraso entre pacotes, quanto menor o seu valor melhor a qualidade da chamada.</td>
 			<td class="s4" dir="ltr">Unidade em Milissegundos (MS)</td>
 			<td class="s3" dir="ltr">Alta se for &lt; 70<br>Media se for &gt;= 71 e &lt;= 150<br>Baixa se for &gt;= 151</td>
 				</tr>
 				<tr style="height:20px;">
-					<th id="0R15" style="height: 20px;" class="row-headers-background">
-						<div class="row-header-wrapper" style="line-height: 20px;">16</div>
-					</th>
 					<td class="s2" dir="ltr">PERDA DE PACOTE (apenas para voz)</td>
 					<td class="s3" dir="ltr">Indica se há falta de qualidade na conexão, na perda de pacotes quanto menor o valor melhor a sua qualidade da chamada.</td>
 					<td class="s4" dir="ltr">%</td>
 					<td class="s3" dir="ltr">Alta se for &lt;= 1%<br>Media se for &gt;= 1% e &lt;= 5%<br>Baixa se for &gt; 5%</td>
 						</tr>
 						<tr style="height:20px;">
-							<th id="0R16" style="height: 20px;" class="row-headers-background">
-								<div class="row-header-wrapper" style="line-height: 20px;">17</div>
-							</th>
 							<td class="s2" dir="ltr">QUALIDADE DE CHAMADA (apenas para voz)</td>
 							<td class="s3" dir="ltr">Traz a informação do nível de qualidade da chamda realizada</td>
 							<td class="s4"/>
 							<td class="s3"/>
 						</tr>
 						<tr style="height:20px;">
-							<th id="0R17" style="height: 20px;" class="row-headers-background">
-								<div class="row-header-wrapper" style="line-height: 20px;">18</div>
-							</th>
 							<td class="s2" dir="ltr">Histórico</td>
 							<td class="s3" dir="ltr">Link para visualização do histórico do atendimento realizado</td>
 							<td class="s4" dir="ltr">Texto </td>
@@ -540,54 +486,36 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 													<br>    - Jitter maior ou igual a 151<br>    - Perda de pacotes maior que 5%<br>    - Jitter entre 71 e 150 e Perda de pacotes entre 1% e 5%</td>
 														</tr>
 														<tr style="height:20px;">
-															<th id="0R18" style="height: 20px;" class="row-headers-background">
-																<div class="row-header-wrapper" style="line-height: 20px;">19</div>
-															</th>
 															<td class="s2" dir="ltr">Status - Abandoned</td>
 															<td class="s3" dir="ltr">Desistência do cliente enquanto aguarda na fila</td>
 															<td class="s4" dir="ltr">Texto</td>
 															<td class="s3"/>
 														</tr>
 														<tr style="height:20px;">
-															<th id="0R19" style="height: 20px;" class="row-headers-background">
-																<div class="row-header-wrapper" style="line-height: 20px;">20</div>
-															</th>
 															<td class="s2" dir="ltr">Status - Bad Phone</td>
 															<td class="s3" dir="ltr">Numero indisponivel naquele momento (Ocupado ou não atende)</td>
 															<td class="s4" dir="ltr">Texto</td>
 															<td class="s3"/>
 														</tr>
 														<tr style="height:20px;">
-															<th id="0R20" style="height: 20px;" class="row-headers-background">
-																<div class="row-header-wrapper" style="line-height: 20px;">21</div>
-															</th>
 															<td class="s2" dir="ltr">Status - Bad Number</td>
 															<td class="s3" dir="ltr">Numero inexistente ou com erro</td>
 															<td class="s4" dir="ltr">Texto</td>
 															<td class="s3"/>
 														</tr>
 														<tr style="height:20px;">
-															<th id="0R21" style="height: 20px;" class="row-headers-background">
-																<div class="row-header-wrapper" style="line-height: 20px;">22</div>
-															</th>
 															<td class="s2" dir="ltr">Status - Dequeued</td>
 															<td class="s3" dir="ltr">Desenfileirado, atingiu o tempo limite de espera na fila até ser atendido.</td>
 															<td class="s4" dir="ltr">Texto</td>
 															<td class="s3"/>
 														</tr>
 														<tr style="height:20px;">
-															<th id="0R22" style="height: 20px;" class="row-headers-background">
-																<div class="row-header-wrapper" style="line-height: 20px;">23</div>
-															</th>
 															<td class="s2" dir="ltr">Status - Service Completed</td>
 															<td class="s3" dir="ltr">Atendimento finalizado e tabulado - Atendimento por chat</td>
 															<td class="s4" dir="ltr">Texto</td>
 															<td class="s3"/>
 														</tr>
 														<tr style="height:20px;">
-															<th id="0R23" style="height: 20px;" class="row-headers-background">
-																<div class="row-header-wrapper" style="line-height: 20px;">24</div>
-															</th>
 															<td class="s2" dir="ltr">Status - Service Transfered</td>
 															<td class="s3" dir="ltr">Atendimento transferido - Atendimento por chat</td>
 															<td class="s4" dir="ltr">Texto</td>
@@ -595,7 +523,6 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 														</tr>
 													</tbody>
 												</table>
-
 
 
 
