@@ -355,10 +355,12 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 ### Criação de Campanha
 ### Criação de Envios
 ### Monitoramento
-## Glossário Relatórios
+## Relatórios
 
 
 ### Rastreio de Interações
+
+Relatório que traz a visão
 
 <table class="waffle no-grid" cellspacing="0" cellpadding="0">
 	<thead>
