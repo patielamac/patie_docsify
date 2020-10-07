@@ -155,7 +155,7 @@ O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para cont
 
 _Tela de Blacklist_
 
-![Blacklist](/imgs/Canais_1.PNG "Tela dos Canais")
+![Blacklist](/imgs/Blacklist_00.PNG "Tela dos Canais")
 
 O cadastro dos telefones para Blacklist pode ser realizado individualmente ou por importação de CSV, em ambos os casos, o formato do telefone importado deverá ser
 DDI+DDD+NÚMERO DO TELEFONE
@@ -195,7 +195,7 @@ Em Canais são realizados os cadastros de todas as mídias que a empresa terá p
 
 _Tela de Canais_
 
-![Canais](/imgs/Blacklist_00.PNG "Tela Blacklist")
+![Canais](/imgs/Canais_1.PNG "Tela Blacklist")
 
 
 
