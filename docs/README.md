@@ -369,4 +369,16 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 **Relatório Broadcast Grupo de Contatos**
 **Relatório Discador Grupo de Contatos**
 **Relatório Discador**
-
+<table>
+    <tr>
+    <th>
+        th
+    </th>
+    </tr>
+    <tr>
+    <td>
+        td
+    </td>
+    </tr>
+    
+    </table>
