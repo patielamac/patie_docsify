@@ -386,7 +386,7 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">HORA</td>
 			<td class="s3" dir="ltr">Hora do Contato</td>
-			<td class="s4" dir="ltr">hh\:mm:ss:ms</td>
+			<td class="s4" dir="ltr">hh:mm:ss:ms</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
@@ -440,7 +440,7 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">DURAÇÃO</td>
 			<td class="s3" dir="ltr">Tempo de atendimento</td>
-			<td class="s4" dir="ltr">hh\:mm:ss</td>
+			<td class="s4" dir="ltr">hh:mm:ss</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
