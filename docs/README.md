@@ -175,12 +175,28 @@ _Tela de Importação individual Inbound_
 
 _Tela de Importação individual Inbound lista flow_
 
-![Blacklist](/imgs/Black_inbound.PNG "Cadastro Blacklist intbound")
+![Blacklist](/imgs/Black_inbound_2.PNG "Lista URA para Bloqueio")
 
 
 - Selecionar a URA
 - Registrar o número do Telefone e clicar em Salvar
 
+Para importação de telefones por arquivo CSV, o modelo do documento está disponível para download na tela de importação
+
+
+_Tela de Importação CSV Inbound_
+
+![Blacklist](/imgs/Blacklist_csv_inbound.PNG "Modelo CSV Inbound")
+
+Note que para importação do arquivo CSV Inbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 1
+
+
+
+_Tela de Importação CSV Outbound_
+
+![Blacklist](/imgs/Blacklist_csv_outbound.PNG "Modelo CSV Outbound")
+
+Note que para importação do arquivo CSV Outbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 2
 
 
 
