@@ -366,10 +366,10 @@ Relatório que traz a visão
 	<thead>
 		<tr>
 			<th class="row-header freezebar-origin-ltr"/>
-			<th id="0C0" style="width:330px" class="column-headers-background">CAMPO</th>
-			<th id="0C1" style="width:363px" class="column-headers-background">DESCRIÇÃO</th>
-			<th id="0C2" style="width:282px" class="column-headers-background">FORMATO</th>
-			<th id="0C3" style="width:373px" class="column-headers-background">CÁLCULO</th>
+			<th id="0C1" style="width:330px" class="column-headers-background">CAMPO</th>
+			<th id="0C2" style="width:363px" class="column-headers-background">DESCRIÇÃO</th>
+			<th id="0C3" style="width:282px" class="column-headers-background">FORMATO</th>
+			<th id="0C4" style="width:373px" class="column-headers-background">CÁLCULO</th>
 		</tr> 
 	</thead>
 	<tbody>
