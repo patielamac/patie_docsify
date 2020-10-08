@@ -233,14 +233,36 @@ _Exclusão de Shortcuts_
 ![Shortcuts](/imgs/short_4.PNG "Exclusão de Shortcuts")
 
 
-
 <h3>Pausas</h3>
 
+Utilizadas para identificar as paradas dos usuários, o cadastro das Pausas auxilia na gestão da Equipe para mensurar inclusive como indicar de produtividade, pois constará a informação em relatórios de gestão.
+
+_Tela Pausa_
+
+![Pausa](/imgs/Pausa_1.PNG "Tela de Pausas")
+
+Seu cadastro é simples, basta clicar no "+" no canto inferior da tela e cadastrar no campo "Motivo da Pausa", 
+
+_Cadastro de Pausa_
+
+![Pausa](/imgs/Pausa_2.PNG "Cadastro de Pausas")
+
+A exclusão é realizada clicando no ícone da "lixeira" 
+
+_Exclusão de Pausa_
+
+![Pausa](/imgs/Pausa_3.PNG "Exclusão de Pausas")
+
+O usuário, quando for entrar em pausa, encontrará a listagem para optar pelo motivo da Pausa que está realizando
+
+_Utilização de Pausa_
+
+![Pausa](/imgs/Pausa_4.PNG "Utilização de Pausas")
 
 
+_Utilização de Pausa - Tela Visão do Agente_
 
-
-
+![Pausa](/imgs/Pausa_5.PNG "Utilização de Pausas - Visão do Agente")
 
 
 
