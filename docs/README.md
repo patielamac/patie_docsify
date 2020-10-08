@@ -365,7 +365,6 @@ Relatório que traz a visão
 <table class="waffle no-grid" cellspacing="0" cellpadding="0">
 	<thead>
 		<tr>
-			<th class="row-header freezebar-origin-ltr"/>
 			<th id="0C2" style="width:330px" class="column-headers-background">CAMPO</th>
 			<th id="0C3" style="width:363px" class="column-headers-background">DESCRIÇÃO</th>
 			<th id="0C4" style="width:282px" class="column-headers-background">FORMATO</th>
