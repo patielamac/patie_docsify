@@ -360,7 +360,32 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 
 ### Rastreio de Interações
 
-Relatório que traz a visão
+Relatório que traz a visão de cada atendimento realizado na plataforma com as informações de Data/Hora, qual tipo de mídia, qual usuário,tempo de atendimento e qual foi a finalização do atendimento realizado - por meio da TAG.
+
+_Tela Rastreio Interações_
+ ![Rastreio de Interações](/imgs/Rastreio_1.PNG "Filtros para Rastreio")
+ 
+ Para extração do Relatório o campo obrigátorio é o "Mídia" os demais campos são opcionais.
+ 
+ _Tela Filtros de Mídia_
+ ![Rastreio de Interações](/imgs/Rastreio_2.PNG "Filtros de Mídia")
+ 
+ Há opção de filtros por Data, usuário, horário, Protocolo, Serviços e demais campos
+ 
+ _Exemplo de outros Filtros_
+ ![Rastreio de Interações](/imgs/Rastreio_3.PNG "Filtros de Usuários")
+ 
+ ![Rastreio de Interações](/imgs/Rastreio_4.PNG "Filtros de Data")
+ 
+ A visualização da extração poderá ser feita diretamente na tela do sistema, ou também poderá ser realizado download em CSV para facilitar a análise das informações.
+ 
+  _Tabela de Resultados_
+ ![Rastreio de Interações](/imgs/Rastreio_5.PNG "Tabela ou Download por CSV")
+ 
+ 
+ 
+ **A tabela a seguir traz a informação dos dados encontrados no Relatório Rastreio de Interações**
+ 
 
 <table class="waffle no-grid" cellspacing="0" cellpadding="0">
 	<thead style="background-color:#B0C4DE">
