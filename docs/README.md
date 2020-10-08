@@ -363,7 +363,7 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 Relatório que traz a visão
 
 <table class="waffle no-grid" cellspacing="0" cellpadding="0">
-	<thead>
+	
 		<!-- <tr>
 			<th class="row-header freezebar-origin-ltr"/>
 			<th id="0C0" style="width:330px" class="column-headers-background">A</th>
@@ -371,14 +371,16 @@ Relatório que traz a visão
 			<th id="0C2" style="width:282px" class="column-headers-background">C</th>
 			<th id="0C3" style="width:373px" class="column-headers-background">D</th>
 		</tr> -->
-	</thead>
-	<tbody>
+	
+	<thead>
 		<tr style="height:30px;">
-			<td class="s0" dir="ltr">**Campo**</td>
-			<td class="s1" dir="ltr">**Descrição**</td>
-			<td class="s0" dir="ltr">**Formato**</td>
-			<td class="s1" dir="ltr">**Cálculo**</td>
+			<td class="s0" dir="ltr" bgcolor="#7B68EE">Campo</td>
+			<td class="s1" dir="ltr">Descrição</td>
+			<td class="s0" dir="ltr">Formato</td>
+			<td class="s1" dir="ltr">Cálculo</td>
 		</tr>
+	</thead>	
+	<tbody>
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">DATA</td>
 			<td class="s3" dir="ltr">Data do Contato</td>
