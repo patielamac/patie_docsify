@@ -373,11 +373,11 @@ Relatório que traz a visão
 		</tr> -->
 	</thead>
 	<tbody>
-		<tr style="height:20px;">
-			<td class="s0" dir="ltr">Campo</td>
-			<td class="s1" dir="ltr">Descrição</td>
-			<td class="s0" dir="ltr">Formato</td>
-			<td class="s1" dir="ltr">Cálculo</td>
+		<tr style="height:30px;">
+			<td class="s0" dir="ltr">**Campo**</td>
+			<td class="s1" dir="ltr">**Descrição**</td>
+			<td class="s0" dir="ltr">**Formato**</td>
+			<td class="s1" dir="ltr">**Cálculo**</td>
 		</tr>
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">DATA</td>
