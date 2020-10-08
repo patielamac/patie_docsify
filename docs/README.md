@@ -476,7 +476,7 @@ _Tela Rastreio Interações_
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">HORA</td>
 			<td class="s3" dir="ltr">Hora do Contato</td>
-			<td class="s4" dir="ltr">hh : mm : ss : ms</td>
+			<td class="s4" dir="ltr">hh&#58;mm&#58;ss&#58;ms</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
@@ -530,7 +530,7 @@ _Tela Rastreio Interações_
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">DURAÇÃO</td>
 			<td class="s3" dir="ltr">Tempo de atendimento</td>
-			<td class="s4" dir="ltr">hh : mm : ss</td>
+			<td class="s4" dir="ltr">hh&#58;mm&#58;ss</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
