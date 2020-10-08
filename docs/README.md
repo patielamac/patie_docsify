@@ -374,7 +374,7 @@ Relatório que traz a visão
 	
 	<thead>
 		<tr style="height:30px;">
-			<td class="s0" dir="ltr" bgcolor="#7B68EE">Campo</td>
+			<td class="s0" dir="ltr">Campo</td>
 			<td class="s1" dir="ltr">Descrição</td>
 			<td class="s0" dir="ltr">Formato</td>
 			<td class="s1" dir="ltr">Cálculo</td>
