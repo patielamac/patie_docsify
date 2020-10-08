@@ -363,16 +363,19 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 Relatório que traz a visão de cada atendimento realizado na plataforma com as informações de Data/Hora, qual tipo de mídia, qual usuário,tempo de atendimento e qual foi a finalização do atendimento realizado - por meio da TAG.
 
 _Tela Rastreio Interações_
+
  ![Rastreio de Interações](/imgs/Rastreio_1.PNG "Filtros para Rastreio")
  
  Para extração do Relatório o campo obrigátorio é o "Mídia" os demais campos são opcionais.
  
  _Tela Filtros de Mídia_
+ 
  ![Rastreio de Interações](/imgs/Rastreio_2.PNG "Filtros de Mídia")
  
  Há opção de filtros por Data, usuário, horário, Protocolo, Serviços e demais campos
  
  _Exemplo de outros Filtros_
+ 
  ![Rastreio de Interações](/imgs/Rastreio_3.PNG "Filtros de Usuários")
  
  ![Rastreio de Interações](/imgs/Rastreio_4.PNG "Filtros de Data")
@@ -380,6 +383,7 @@ _Tela Rastreio Interações_
  A visualização da extração poderá ser feita diretamente na tela do sistema, ou também poderá ser realizado download em CSV para facilitar a análise das informações.
  
   _Tabela de Resultados_
+  
  ![Rastreio de Interações](/imgs/Rastreio_5.PNG "Tabela ou Download por CSV")
  
  
@@ -406,7 +410,7 @@ _Tela Rastreio Interações_
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">HORA</td>
 			<td class="s3" dir="ltr">Hora do Contato</td>
-			<td class="s4" dir="ltr">hh:mm:ss:ms</td>
+			<td class="s4" dir="ltr">hh : mm :ss : ms</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
@@ -460,7 +464,7 @@ _Tela Rastreio Interações_
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">DURAÇÃO</td>
 			<td class="s3" dir="ltr">Tempo de atendimento</td>
-			<td class="s4" dir="ltr">hh:mm:ss</td>
+			<td class="s4" dir="ltr">hh : mm : ss</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
