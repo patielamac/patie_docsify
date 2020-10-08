@@ -363,25 +363,17 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 Relatório que traz a visão
 
 <table class="waffle no-grid" cellspacing="0" cellpadding="0">
-	
-		<!-- <tr>
-			<th class="row-header freezebar-origin-ltr"/>
-			<th id="0C0" style="width:330px" class="column-headers-background">A</th>
-			<th id="0C1" style="width:363px" class="column-headers-background">B</th>
-			<th id="0C2" style="width:282px" class="column-headers-background">C</th>
-			<th id="0C3" style="width:373px" class="column-headers-background">D</th>
-		</tr> -->
-	
 	<thead>
-		<tr style="height:30px;">
-			<th class="s0" dir="ltr">Campo</th>
-			<th class="s1" dir="ltr">Descrição</th>
-			<th class="s0" dir="ltr">Formato</th>
-			<th class="s1" dir="ltr">Cálculo</th>
-		</tr>
-	</thead>	
+		<tr>
+			<th class="row-header freezebar-origin-ltr"/>
+			<th id="0C0" style="width:330px" class="column-headers-background">CAMPO</th>
+			<th id="0C1" style="width:363px" class="column-headers-background">DESCRIÇÃO</th>
+			<th id="0C2" style="width:282px" class="column-headers-background">FORMATO</th>
+			<th id="0C3" style="width:373px" class="column-headers-background">CÁLCULO</th>
+		</tr> 
+	</thead>
 	<tbody>
-		<tr style="height:20px;">
+			<tr style="height:20px;">
 			<td class="s2" dir="ltr">DATA</td>
 			<td class="s3" dir="ltr">Data do Contato</td>
 			<td class="s4" dir="ltr">aaaa-mm-dd</td>
@@ -390,7 +382,7 @@ Relatório que traz a visão
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">HORA</td>
 			<td class="s3" dir="ltr">Hora do Contato</td>
-			<td class="s4" dir="ltr">hh:mm:ss:ms</td>
+			<td class="s4" dir="ltr">hh\:mm:ss:ms</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
@@ -527,6 +519,7 @@ Relatório que traz a visão
 														</tr>
 													</tbody>
 												</table>
+
 
 
 
