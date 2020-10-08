@@ -204,13 +204,33 @@ Note que para importação do arquivo CSV Outbound, ligações receptivas, o cam
 
 Shortcuts são os atalhos que podem ser criados para otimizar o atendimento, estão linkados aos serviços, ou seja, cada shortcut criada deve ser relacionada a um serviço. Assim, quando o usuário estiver em atendimento, poderá utilizar o atalho que trará frases prontas de um determinado assunto. Sendo útil na padronização do atendimento e também para otimizar o tempo do usuário/atendente.
 
+_Tela de Shortcuts_
 
+![Shortcuts](/imgs/short_1.PNG "Tela Shortcuts")
 
+O **cadastro** de shortcuts é bem simples, basta clicar no "+" no canto inferior direito da tela principal de Shortcuts e liberará uma nova linha para cadastro, após a liberação inserir:
+- prefixo - atalho que será utilizado pelo agente para buscar o texto
+- Texto - a frase que será utilizada
+- Serviço - abrirá a lista de serviços cadastrados na Organização para que seja selecionado qual receberá a Shortcut que está sendo cadastrada
 
+Após preenchimento, clicar no ícone de salvar (símbolo de um disquete). 
+Para editar um texto já criado, basta ir no campo Texto, fazer as alterações necessárias e clicar em salvar.
 
+_Cadastro de nova Shortcuts_
 
+![Shortcuts](/imgs/short_3.PNG "Cadastro de nova Shortcuts")
 
+A utilização das shortcuts já cadastradas é realizada na Tela de Atendimento pelo usuário clicando "/" (barra), assim a lista de atalhos disponibilizados para o Serviço em que está em atendimento será liberada para que o atendente utilize em seu atendimento.
 
+_Tela de Atendimento - utilização de Shortcuts_
+
+![Shortcuts](/imgs/short_2.PNG "Tela de Atendimento - Shortcuts")
+
+A exclusão de Shortcuts poderá ser realizada clicando no ícone da "lixeira", então ficará liberado outro ícone de exclusão após clicar ali, seu shortcuts será excluído e não haverá possibilidade de resgatá-lo a não ser recriando-o novamente.
+
+_Exclusão de Shortcuts_
+
+![Shortcuts](/imgs/short_4.PNG "Exclusão de Shortcuts")
 
 
 
