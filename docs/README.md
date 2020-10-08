@@ -264,6 +264,11 @@ _Utilização de Pausa - Tela Visão do Agente_
 
 ![Pausa](/imgs/Pausa_5.PNG "Utilização de Pausas - Visão do Agente")
 
+_Utilização de Pausa_
+
+![Pausa](/imgs/2020-10-08_15h31_15.gif "Utilização de Pausas")
+
+
 
 
 ## Canais
