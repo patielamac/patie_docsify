@@ -200,10 +200,29 @@ Note que para importação do arquivo CSV Outbound, ligações receptivas, o cam
 
 
 
-
 <h3>Shortcuts</h3>
 
+Shortcuts são os atalhos que podem ser criados para otimizar o atendimento, estão linkados aos serviços, ou seja, cada shortcut criada deve ser relacionada a um serviço. Assim, quando o usuário estiver em atendimento, poderá utilizar o atalho que trará frases prontas de um determinado assunto. Sendo útil na padronização do atendimento e também para otimizar o tempo do usuário/atendente.
+
+
+
+
+
+
+
+
+
+
+
 <h3>Pausas</h3>
+
+
+
+
+
+
+
+
 
 ## Canais
 
@@ -410,7 +429,7 @@ _Tela Rastreio Interações_
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">HORA</td>
 			<td class="s3" dir="ltr">Hora do Contato</td>
-			<td class="s4" dir="ltr">hh : mm :ss : ms</td>
+			<td class="s4" dir="ltr">hh : mm : ss : ms</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
