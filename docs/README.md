@@ -382,7 +382,7 @@ Relatório que traz a visão
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">HORA</td>
 			<td class="s3" dir="ltr">Hora do Contato</td>
-			<td class="s4" dir="ltr">hh\:mm:ss:ms</td>
+			<td class="s4" dir="ltr">hh:mm:ss:ms</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
