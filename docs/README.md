@@ -56,9 +56,6 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 	</thead>
 	<tbody>
 		<tr style="height:20px;">
-			<th id="0R1" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">2</div>
-			</th>
 			<td class="s1" dir="ltr">gerenciar-empresas</td>
 			<td class="s2" dir="ltr">acesso a tela de empresas para atualizar dados</td>
 		</tr>
