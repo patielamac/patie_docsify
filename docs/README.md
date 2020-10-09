@@ -42,6 +42,175 @@ _Cadastro de usuário_
 
 _**nota:**_ o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
 
+
+<h4>Permissões</h4>
+
+Para configurar as permissões do Usuário, ou seja, quais acessos o usuário terá para executar suas tarefas, veja quais são na tabela abaixo:
+
+<table class="waffle no-grid" cellspacing="0" cellpadding="0">
+	<thead style="background-color:#B0C4DE">
+		<tr>
+			<th id="0C0" style="width:233px" class="column-headers-background">PERMISSÃO</th>
+			<th id="0C1" style="width:895px" class="column-headers-background">DETALHAMENTO</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr style="height:20px;">
+			<th id="0R1" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">2</div>
+			</th>
+			<td class="s1" dir="ltr">gerenciar-empresas</td>
+			<td class="s2" dir="ltr">acesso a tela de empresas para atualizar dados</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R2" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">3</div>
+			</th>
+			<td class="s3" dir="ltr">gerenciar-service</td>
+			<td class="s4" dir="ltr">criar, excluir e editar serviços</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R3" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">4</div>
+			</th>
+			<td class="s1" dir="ltr">gerenciar-usuário</td>
+			<td class="s2" dir="ltr">criar, atualizar, atribuir produtos e serviços, ativar e desativar usuário</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R4" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">5</div>
+			</th>
+			<td class="s3" dir="ltr">gerenciar-tag</td>
+			<td class="s4" dir="ltr">criar, editar e excluir tags</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R5" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">6</div>
+			</th>
+			<td class="s1" dir="ltr">gerenciar-phone</td>
+			<td class="s2" dir="ltr">configurar novo número de telefone e ura atribuindo horários de atendimento, mensagens de boas vindas, serviços e mensagem de indisponibilidade de atendimento</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R6" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">7</div>
+			</th>
+			<td class="s3" dir="ltr">gerenciar-contatos</td>
+			<td class="s4" dir="ltr">Criar novo contato, atualizar e associar um contato a novos números</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R7" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">8</div>
+			</th>
+			<td class="s1" dir="ltr">gerenciar-text</td>
+			<td class="s2" dir="ltr">criação de shortcuts</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R8" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">9</div>
+			</th>
+			<td class="s3" dir="ltr">gerenciar-relatorio</td>
+			<td class="s4" dir="ltr">consultar e extrair relatórios gerenciais</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R9" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">10</div>
+			</th>
+			<td class="s1" dir="ltr">gerenciar-produtos</td>
+			<td class="s2" dir="ltr">criar, excluir e editar produtos</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R10" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">11</div>
+			</th>
+			<td class="s3" dir="ltr">gerenciar-canais</td>
+			<td class="s4" dir="ltr">Tela de solicitação de novas integrações</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R11" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">12</div>
+			</th>
+			<td class="s1" dir="ltr">gerenciar-pa</td>
+			<td class="s2" dir="ltr">Tela para agente - inabilita todos os demais acessos - exclusivo para atendimento de voz ou chat</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R12" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">13</div>
+			</th>
+			<td class="s3" dir="ltr">gerenciar-call</td>
+			<td class="s4" dir="ltr">libera o uso do softphone</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R13" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">14</div>
+			</th>
+			<td class="s1" dir="ltr">tela-atendimento</td>
+			<td class="s2" dir="ltr">Acesso ao usuário na fila de atendimento de voz e chat - tabulações e transferências - atualização de cadastro e associação</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R14" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">15</div>
+			</th>
+			<td class="s3" dir="ltr">gerenciar-atendimento</td>
+			<td class="s4" dir="ltr">Acesso a tela de Gerenciador de Atendimento</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R15" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">16</div>
+			</th>
+			<td class="s1" dir="ltr">gerenciar-canais-email</td>
+			<td class="s2" dir="ltr">Acesso ao cadastro de novo canal de e-mail em canais</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R16" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">17</div>
+			</th>
+			<td class="s3" dir="ltr">gerenciar-canais-boteria</td>
+			<td class="s4" dir="ltr">Acesso ao cadastro de novo canal de bot em boteria (webchat)</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R17" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">18</div>
+			</th>
+			<td class="s1" dir="ltr">gerenciar-canais-whats</td>
+			<td class="s2" dir="ltr">Acesso ao cadastro de novo canal de whatsapp</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R18" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">19</div>
+			</th>
+			<td class="s3" dir="ltr">gerenciar-conectores</td>
+			<td class="s4" dir="ltr">Acesso ao cadastro de conectores - formulários externos que a organização possa precisar</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R19" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">20</div>
+			</th>
+			<td class="s1" dir="ltr">gerenciar-blacklist</td>
+			<td class="s2" dir="ltr">Acesso ao cadatro de telefones na blacklist - inbound e outbound</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R20" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">21</div>
+			</th>
+			<td class="s3" dir="ltr">gerenciar-api</td>
+			<td class="s4" dir="ltr">Acesso aos cadastros de contatos ou busca de histórico via API para organizações que utilizam integração</td>
+		</tr>
+		<tr style="height:20px;">
+			<th id="0R21" style="height: 20px;" class="row-headers-background">
+				<div class="row-header-wrapper" style="line-height: 20px;">22</div>
+			</th>
+			<td class="s1" dir="ltr">gerenciar-pause</td>
+			<td class="s2" dir="ltr">Acesso ao cadastro das Pausas</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+
+
+
+
 <h3>Serviços</h3>
 
 Na tela principal de serviços estão disponibilizados os links para cadastro de um novo serviço onde será inserido:
