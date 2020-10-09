@@ -50,8 +50,8 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 <table class="waffle no-grid" cellspacing="0" cellpadding="0">
 	<thead style="background-color:#B0C4DE">
 		<tr>
-			<th id="0C0" style="width:233px" class="column-headers-background">PERMISSÃO</th>
-			<th id="0C1" style="width:895px" class="column-headers-background">DETALHAMENTO</th>
+			<th id="0C1" style="width:233px" class="column-headers-background">PERMISSÃO</th>
+			<th id="0C2" style="width:895px" class="column-headers-background">DETALHAMENTO</th>
 		</tr>
 	</thead>
 	<tbody>
