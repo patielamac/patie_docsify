@@ -60,42 +60,26 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 			<td class="s2" dir="ltr">acesso a tela de empresas para atualizar dados</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R2" style="height: 20px;" class="row-headers-background">				
-			</th>
 			<td class="s1" dir="ltr">gerenciar-service</td>
 			<td class="s2" dir="ltr">criar, excluir e editar serviços</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R3" style="height: 20px;" class="row-headers-background">				
-			</th>
 			<td class="s1" dir="ltr">gerenciar-usuário</td>
 			<td class="s2" dir="ltr">criar, atualizar, atribuir produtos e serviços, ativar e desativar usuário</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R4" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">5</div>
-			</th>
-			<td class="s3" dir="ltr">gerenciar-tag</td>
-			<td class="s4" dir="ltr">criar, editar e excluir tags</td>
+			<td class="s1" dir="ltr">gerenciar-tag</td>
+			<td class="s2" dir="ltr">criar, editar e excluir tags</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R5" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">6</div>
-			</th>
 			<td class="s1" dir="ltr">gerenciar-phone</td>
 			<td class="s2" dir="ltr">configurar novo número de telefone e ura atribuindo horários de atendimento, mensagens de boas vindas, serviços e mensagem de indisponibilidade de atendimento</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R6" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">7</div>
-			</th>
-			<td class="s3" dir="ltr">gerenciar-contatos</td>
-			<td class="s4" dir="ltr">Criar novo contato, atualizar e associar um contato a novos números</td>
+			<td class="s1" dir="ltr">gerenciar-contatos</td>
+			<td class="s2" dir="ltr">Criar novo contato, atualizar e associar um contato a novos números</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R7" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">8</div>
-			</th>
 			<td class="s1" dir="ltr">gerenciar-text</td>
 			<td class="s2" dir="ltr">criação de shortcuts</td>
 		</tr>
