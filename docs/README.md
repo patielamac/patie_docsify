@@ -60,15 +60,13 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 			<td class="s2" dir="ltr">acesso a tela de empresas para atualizar dados</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R2" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">3</div>
+			<th id="0R2" style="height: 20px;" class="row-headers-background">				
 			</th>
-			<td class="s3" dir="ltr">gerenciar-service</td>
-			<td class="s4" dir="ltr">criar, excluir e editar serviços</td>
+			<td class="s1" dir="ltr">gerenciar-service</td>
+			<td class="s2" dir="ltr">criar, excluir e editar serviços</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R3" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">4</div>
+			<th id="0R3" style="height: 20px;" class="row-headers-background">				
 			</th>
 			<td class="s1" dir="ltr">gerenciar-usuário</td>
 			<td class="s2" dir="ltr">criar, atualizar, atribuir produtos e serviços, ativar e desativar usuário</td>
