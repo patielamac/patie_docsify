@@ -84,100 +84,58 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 			<td class="s2" dir="ltr">criação de shortcuts</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R8" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">9</div>
-			</th>
-			<td class="s3" dir="ltr">gerenciar-relatorio</td>
-			<td class="s4" dir="ltr">consultar e extrair relatórios gerenciais</td>
+			<td class="s1" dir="ltr">gerenciar-relatorio</td>
+			<td class="s2" dir="ltr">consultar e extrair relatórios gerenciais</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R9" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">10</div>
-			</th>
 			<td class="s1" dir="ltr">gerenciar-produtos</td>
 			<td class="s2" dir="ltr">criar, excluir e editar produtos</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R10" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">11</div>
-			</th>
-			<td class="s3" dir="ltr">gerenciar-canais</td>
-			<td class="s4" dir="ltr">Tela de solicitação de novas integrações</td>
+			<td class="s1" dir="ltr">gerenciar-canais</td>
+			<td class="s2" dir="ltr">Tela de solicitação de novas integrações</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R11" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">12</div>
-			</th>
 			<td class="s1" dir="ltr">gerenciar-pa</td>
 			<td class="s2" dir="ltr">Tela para agente - inabilita todos os demais acessos - exclusivo para atendimento de voz ou chat</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R12" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">13</div>
-			</th>
-			<td class="s3" dir="ltr">gerenciar-call</td>
-			<td class="s4" dir="ltr">libera o uso do softphone</td>
+			<td class="s1" dir="ltr">gerenciar-call</td>
+			<td class="s2" dir="ltr">libera o uso do softphone</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R13" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">14</div>
-			</th>
 			<td class="s1" dir="ltr">tela-atendimento</td>
 			<td class="s2" dir="ltr">Acesso ao usuário na fila de atendimento de voz e chat - tabulações e transferências - atualização de cadastro e associação</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R14" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">15</div>
-			</th>
-			<td class="s3" dir="ltr">gerenciar-atendimento</td>
-			<td class="s4" dir="ltr">Acesso a tela de Gerenciador de Atendimento</td>
+			<td class="s1" dir="ltr">gerenciar-atendimento</td>
+			<td class="s2" dir="ltr">Acesso a tela de Gerenciador de Atendimento</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R15" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">16</div>
-			</th>
 			<td class="s1" dir="ltr">gerenciar-canais-email</td>
 			<td class="s2" dir="ltr">Acesso ao cadastro de novo canal de e-mail em canais</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R16" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">17</div>
-			</th>
-			<td class="s3" dir="ltr">gerenciar-canais-boteria</td>
-			<td class="s4" dir="ltr">Acesso ao cadastro de novo canal de bot em boteria (webchat)</td>
+			<td class="s1" dir="ltr">gerenciar-canais-boteria</td>
+			<td class="s2" dir="ltr">Acesso ao cadastro de novo canal de bot em boteria (webchat)</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R17" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">18</div>
-			</th>
 			<td class="s1" dir="ltr">gerenciar-canais-whats</td>
 			<td class="s2" dir="ltr">Acesso ao cadastro de novo canal de whatsapp</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R18" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">19</div>
-			</th>
-			<td class="s3" dir="ltr">gerenciar-conectores</td>
-			<td class="s4" dir="ltr">Acesso ao cadastro de conectores - formulários externos que a organização possa precisar</td>
+			<td class="s1" dir="ltr">gerenciar-conectores</td>
+			<td class="s2" dir="ltr">Acesso ao cadastro de conectores - formulários externos que a organização possa precisar</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R19" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">20</div>
-			</th>
 			<td class="s1" dir="ltr">gerenciar-blacklist</td>
 			<td class="s2" dir="ltr">Acesso ao cadatro de telefones na blacklist - inbound e outbound</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R20" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">21</div>
-			</th>
-			<td class="s3" dir="ltr">gerenciar-api</td>
-			<td class="s4" dir="ltr">Acesso aos cadastros de contatos ou busca de histórico via API para organizações que utilizam integração</td>
+			<td class="s1" dir="ltr">gerenciar-api</td>
+			<td class="s2" dir="ltr">Acesso aos cadastros de contatos ou busca de histórico via API para organizações que utilizam integração</td>
 		</tr>
 		<tr style="height:20px;">
-			<th id="0R21" style="height: 20px;" class="row-headers-background">
-				<div class="row-header-wrapper" style="line-height: 20px;">22</div>
-			</th>
 			<td class="s1" dir="ltr">gerenciar-pause</td>
 			<td class="s2" dir="ltr">Acesso ao cadastro das Pausas</td>
 		</tr>
