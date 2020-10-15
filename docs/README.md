@@ -57,7 +57,7 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 	<tbody>
 		<tr style="height:20px;">
 			<td class="s1" dir="ltr">gerenciar-empresas</td>
-			<td class="s2" dir="ltr">acesso a tela de empresas para atualizar dados</td>
+			<td class="s2" dir="ltr">acesso ao login na plataforma Omni</td>
 		</tr>
 		<tr style="height:20px;">
 			<td class="s1" dir="ltr">gerenciar-service</td>
