@@ -4,6 +4,7 @@
 
 ![Code7 Omni](/imgs/code7-omni.png "Code7 Omni")
 
+**[Documentação](README.md ':class=btn')**
 
 <a class="btn" href="README.md"><b>Documentação</b></a>
 
