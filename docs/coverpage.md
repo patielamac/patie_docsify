@@ -11,5 +11,5 @@
 
 <h6>1.0.0</h6>
 
-<p><img data-origin="linear-gradient(to left bottom, #F0F8FF 0%, #F0F8FF 100%)" alt="color"></p> 
+<p><img data-origin="linear-gradient(to left bottom, #a09be8 0%, #a09be8 100%)" alt="color"></p> 
 
