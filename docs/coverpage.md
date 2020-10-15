@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="coverpage.css">
+</head>
+
 ![Code7 Omni](/imgs/code7-omni.png "Code7 Omni")
 
 **[Documentação](README.md)**
