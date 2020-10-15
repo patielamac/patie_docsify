@@ -6,10 +6,9 @@
 
 **[Documentação](README.md ':class=btn')**
 
-<a class="btn" href="README.md"><b>Documentação</b></a>
 
 
 <h6>1.0.0</h6>
 
-<p><img data-origin="linear-gradient(to left bottom, #a09be8 0%, #a09be8 100%)" alt="color"></p> 
+<p><img data-origin="linear-gradient(to left bottom, #b5b2ed 0%, #b5b2ed 100%)" alt="color"></p> 
 
