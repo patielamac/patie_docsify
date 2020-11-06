@@ -386,9 +386,16 @@ O Net Promoter Score tem como proposta inovar a cultura das pesquisas de pós-ve
 
 A Criação da Pesquisa de Satisfação na plataforma é realizada de forma rápida, objetiva e simples onde o gestor da Organização poderá inserir as perguntas e a variável da pontuação que desejar para cada pergunta. Inicialmente a NPS estará disponibilizada apenas para mídia de voz, onde os serviços cadastrados na URA que terão a possibilidade de serem pontuados na Pesquisa de Satisfação.
 
-*Criando Pesquisa* 
+<h3>Criando Pesquisa</h3>
 
 ![Criando Pesquisa](/imgs/Pesquisa_2.PNG "Tela Pesquisa - NPS")
+
+
+
+
+
+
+
 
 ## Canais
 
