@@ -409,13 +409,61 @@ A Criação da Pesquisa de Satisfação na plataforma é realizada de forma ráp
  - clique na engrenagem no menu lateral
  - pesquisa
  - clique no símbolo de "+" no canto inferior direito da tela - abrirá uma nova tela "Configurar Pesquisa"
- - preencha o campo 'Mídia' - atualmente a liberação é exclusiva para mídia de *Voz* - clique no '+' para ficar gravado a mídia escolhida
+ - selecione o campo 'Mídia' - clique no '+' para ficar gravado a mídia escolhida
  - preencha o campo 'Título" com o nome que desejar para Pesquisa
+ - selecione o campo URA - clique no '+' para ficar gravado a URA escolhida
+ - cadastre a mensagem de boas vindas
+ - selecione a voz de reprodução - clique no símbolo de atualizar para ficar registrado a voz de reprodução que será utilizada para a Mensagem de Boas Vindas
+ - cadastre o Alias da primeira pergunta - será um título que tenha referência ao tipo de pergunta, por exemplo: Atendimento / Informação / Negociação
+ - cadastre a pergunta
+ - selecione a voz de reprodução - clique no símbolo de atualizar para ficar registrado a voz de reprodução que será utilizada para a Pergunta
+ - selecione o range de avaliação - será de acordo com a pergunta realizada
+ 	- para inserir mais perguntas, basta clicar no '+' que será liberado novos campos com Alias, Mensagem, Voz de Reprodução e Range de avaliação.
+ - cadastre a mensagem de encerramento
+ - selecione a voz de reprodução - clique no símbolo de atualizar para ficar registrado a voz de reprodução que será utilizada para a Mensagem de Encerramento 
+ - ative a pesquisa 
+ - salve  
+
+_Demonstração de criação de Pesquisa_
+![Criando Pesquisa](/imgs/cria_pesquisa.gif "Criação de Pesquisa")
 
 
+<h3>Monitoração de Pesquisa</h3>
+
+Por meio do dash de pesquisas será possível monitorar em tempo real ou retroativo os resultados obtidos das pesquisas, por meio dos filtros pode-se delimitar os dados de acordo com a necessidade de pesquisa.
+
+- Defina qual Pesquisa deseja monitorar, a tela trará os demais filtros que são:
+	- Mídia
+	- Canal
+	- Serviço
+	- Data
+	- Alias - título da pergunta criada na Pesquisa
+Após as seleções dos filtros, clique em 'Gerar"	
 
 
+_Demonstração de monitoração de Pesquisa_
+![Dash Pesquisa](/imgs/dash_pesquisa.gif "Monitoração de Pesquisa")
 
+
+<h3>Relatório de Pesquisa</h3>
+
+Para os usuários que tem a permissão de gerar relatórios de Pesquisa, basta seguir o caminho:
+ - Exportações
+ - Novo Relatório
+ - Pesquisa de Satisfação - Relatório Analítico
+ - Defina qual Pesquisa deseja que seja gerado o relatório, a tela trará os demais filtros que são:
+	- Mídia
+	- Canal
+	- Serviço
+	- Alias - título da pergunta criada na Pesquisa
+	- Data
+	
+Após as seleções dos filtros, clique em 'Processar"
+
+![Relatório Pesquisa](/imgs/Pesquisa_5.PNG "Tela Relatório Analítico Pesquisa")
+
+_Demonstração de extração de Relatório de Pesquisa_
+![Relatório Pesquisa](/imgs/relatorio_pesquisa.gif "Relatório Analítico Pesquisa")
 
 ## Canais
 
