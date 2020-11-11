@@ -390,7 +390,11 @@ A Criação da Pesquisa de Satisfação na plataforma é realizada de forma ráp
 
 ![Criando Pesquisa](/imgs/Pesquisa_2.PNG "Tela Pesquisa - NPS")
 
-
+ - clique na engrenagem no menu lateral
+ - pesquisa
+ - clique no símbolo de "+" no canto inferior direito da tela - abrirá uma nova tela "Configurar Pesquisa"
+ - preencha o campo 'Mídia' - atualmente a liberação é exclusiva para mídia de *Voz* - clique no '+' para ficar gravado a mídia escolhida
+ - preencha o campo 'Título" com o nome que desejar para Pesquisa
 
 
 
