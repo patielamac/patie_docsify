@@ -28,13 +28,29 @@ Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
 
 Na tela de cadastro terão campos para trazer as informações de:
 - Cadastro de novos usuários
-- Informações pessoais 
-- Informações do perfil de atendimento 
-- Alteração de usuários já cadastrados 
-- Atualização de Status – Usuário Ativo ou Inativo 
-- Relacionamento de Produtos e Serviços para o usuário
-- Permissões 
+- Informações pessoais
+	- Nome - campo obrigatório
+	- CPF
+	- E-mail - campo obrigatório, pois será utilizado para login do usuário
+	- Telefone - campo obrigatório
+	- Gênero
+	- Data Nascimento
+	- CEP
+	- País
+	- Estado
+	- Cidade
+	- Endereço
+	- Número
+	- Complemento
+- Informações do perfil de atendimento
+	- Serviço Padrão de Voz Outbound - será definido qual serviço ficará registrado para as ligações outbound do usuário, caso não seja preenchido este campo, será definido algum dos serviços que o usuário tenha cadastrado.
+	- Número de chats - trata-se do total de atendimentos que o usuário poderá realizar ao mesmo tempo, caso não tenha, será definido 3 atendimentos automaticamente.
+	- Status - se Ativo ou Inativo
+	- Login automático Softphone - Ativo ou Inativo, esta atribuição será refletida no momento que o usuário faz o login se já ficará ou não disponível para atendimentos.
+	- Serviços - será selecionado os serviços em que o usuário fará seus atendimentos, não há limite máximo de serviços para esta definição, porém ao menos 1 serviço deverá ser cadastrado.
+- Alteração de usuários já cadastrados
 - Nível de acesso – Admin / Gerente / Usuário
+- Permissões
 
 _Cadastro de usuário_
 ![Cadastro usuario](/imgs/Usuario_1.PNG "Cadastro Usuario1")
