@@ -538,8 +538,9 @@ _Demonstração de extração de Relatório de Pesquisa_
 	</tbody>
 </table>
 
-As últimas colunas do relatório terão como título o nome da Alias(título das perguntas) criada na pesquisa com os seus resultados.
+As últimas colunas do relatório terão como título o nome da Alias(título das perguntas) criada na pesquisa com os seus resultados como no exemplo abaixo.
 
+![Relatório Pesquisa](/imgs/Pesquisa_6.PNG "Tela Relatório Analítico Pesquisa")
 
 
 ## Canais
