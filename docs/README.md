@@ -465,6 +465,7 @@ Após as seleções dos filtros, clique em 'Processar"
 _Demonstração de extração de Relatório de Pesquisa_
 ![Relatório Pesquisa](/imgs/relatorio_pesquisa.gif "Relatório Analítico Pesquisa")
 
+
 ## Canais
 
 Em Canais são realizados os cadastros de todas as mídias que a empresa terá para atendimento, voz, whatsapp, webchat, e-mail e mercado livre.
