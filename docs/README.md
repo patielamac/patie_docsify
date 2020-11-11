@@ -470,7 +470,74 @@ Após as seleções dos filtros, clique em 'Processar"
 _Demonstração de extração de Relatório de Pesquisa_
 ![Relatório Pesquisa](/imgs/relatorio_pesquisa.gif "Relatório Analítico Pesquisa")
 
+ **A tabela a seguir traz a informação dos dados encontrados no Relatório Analítico de Pesquisa**
 
+<table class="waffle no-grid" cellspacing="0" cellpadding="0">
+	<thead style="background-color:#B0C4DE">
+		<tr>
+			<th id="0C2" style="width:330px" class="column-headers-background">CAMPO</th>
+			<th id="0C3" style="width:363px" class="column-headers-background">DESCRIÇÃO</th>
+			<th id="0C4" style="width:282px" class="column-headers-background">FORMATO</th>
+			<th id="0C5" style="width:373px" class="column-headers-background">CÁLCULO</th>
+		</tr> 
+	</thead>
+	<tbody>
+			<tr style="height:20px;">
+			<td class="s2" dir="ltr">DATA HORA</td>
+			<td class="s3" dir="ltr">Data do Contato</td>
+			<td class="s4" dir="ltr">dd/mm/aaaa hh&#58;mm&#58;ss&#58;ms</td>
+			<td class="s3"/>
+		</tr>
+			<tr style="height:20px;">
+			<td class="s2" dir="ltr">NOME DA PESQUISA</td>
+			<td class="s3" dir="ltr">Nome criado para Pesquisa</td>
+			<td class="s4" dir="ltr">Texto</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">MIDIA</td>
+			<td class="s3" dir="ltr">Nome da Mídia selecionada</td>
+			<td class="s4" dir="ltr">Alfanumérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">CANAL</td>
+			<td class="s3" dir="ltr">Nome do Canal Selecionado</td>
+			<td class="s4" dir="ltr">Alfanumérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">SERVIÇO</td>
+			<td class="s3" dir="ltr">Nome do serviço selecionado</td>
+			<td class="s4" dir="ltr">Alfanumérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">AGENTE</td>
+			<td class="s3" dir="ltr">Nome do usuário que recebeu a chamada</td>
+			<td class="s4" dir="ltr">Alfanumérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">NUMERO DO CONTATO</td>
+			<td class="s3" dir="ltr">Número do telefone do contato</td>
+			<td class="s4" dir="ltr">Numérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">NOME CONTATO</td>
+			<td class="s3" dir="ltr">Nome do Contato</td>
+			<td class="s4" dir="ltr">Alfanumérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">PROTOCOLO</td>
+			<td class="s3" dir="ltr">Número identificador da chamada</td>
+			<td class="s4" dir="ltr">Numérico</td>
+			<td class="s3"/>
+		</tr>
+	</tbody>
+</table>
 
 
 
