@@ -482,13 +482,13 @@ _Demonstração de extração de Relatório de Pesquisa_
 	</thead>
 	<tbody>
 			<tr style="height:20px;">
-			<td class="s2" dir="ltr">DATA HORA</td>
+			<td class="s2" dir="ltr">DATA</td>
 			<td class="s3" dir="ltr">Data do Contato</td>
 			<td class="s4" dir="ltr">dd/mm/aaaa hh&#58;mm&#58;ss&#58</td>
 			<td class="s3"/>
 		</tr>
 			<tr style="height:20px;">
-			<td class="s2" dir="ltr">NOME DA PESQUISA</td>
+			<td class="s2" dir="ltr">NOME_PESQUISA</td>
 			<td class="s3" dir="ltr">Nome criado para Pesquisa</td>
 			<td class="s4" dir="ltr">Texto</td>
 			<td class="s3"/>
@@ -518,25 +518,27 @@ _Demonstração de extração de Relatório de Pesquisa_
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<td class="s2" dir="ltr">NUMERO DO CONTATO</td>
+			<td class="s2" dir="ltr">NUMERO_CONTATO</td>
 			<td class="s3" dir="ltr">Número do telefone do contato</td>
 			<td class="s4" dir="ltr">Numérico</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<td class="s2" dir="ltr">NOME CONTATO</td>
+			<td class="s2" dir="ltr">NOME_CONTATO</td>
 			<td class="s3" dir="ltr">Nome do Contato</td>
 			<td class="s4" dir="ltr">Alfanumérico</td>
 			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
-			<td class="s2" dir="ltr">PROTOCOLO</td>
+			<td class="s2" dir="ltr">PROTOCOL</td>
 			<td class="s3" dir="ltr">Número identificador da chamada</td>
 			<td class="s4" dir="ltr">Numérico</td>
 			<td class="s3"/>
 		</tr>
 	</tbody>
 </table>
+
+As últimas colunas do relatório terão como título o nome da Alias(título das perguntas) criada na pesquisa com os seus resultados.
 
 
 
