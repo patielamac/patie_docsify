@@ -495,43 +495,36 @@ _Demonstração de extração de Relatório de Pesquisa_
 			<td class="s2" dir="ltr">MIDIA</td>
 			<td class="s3" dir="ltr">Nome da Mídia selecionada</td>
 			<td class="s4" dir="ltr">Alfanumérico</td>
-			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">CANAL</td>
 			<td class="s3" dir="ltr">Nome do Canal Selecionado</td>
 			<td class="s4" dir="ltr">Alfanumérico</td>
-			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">SERVIÇO</td>
 			<td class="s3" dir="ltr">Nome do serviço selecionado</td>
 			<td class="s4" dir="ltr">Alfanumérico</td>
-			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">AGENTE</td>
 			<td class="s3" dir="ltr">Nome do usuário que recebeu a chamada</td>
 			<td class="s4" dir="ltr">Alfanumérico</td>
-			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">NUMERO_CONTATO</td>
 			<td class="s3" dir="ltr">Número do telefone do contato</td>
 			<td class="s4" dir="ltr">Numérico</td>
-			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">NOME_CONTATO</td>
 			<td class="s3" dir="ltr">Nome do Contato</td>
 			<td class="s4" dir="ltr">Alfanumérico</td>
-			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">PROTOCOL</td>
 			<td class="s3" dir="ltr">Número identificador da chamada</td>
 			<td class="s4" dir="ltr">Numérico</td>
-			<td class="s3"/>
 		</tr>
 	</tbody>
 </table>
