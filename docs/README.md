@@ -485,13 +485,11 @@ _Demonstração de extração de Relatório de Pesquisa_
 			<td class="s2" dir="ltr">DATA</td>
 			<td class="s3" dir="ltr">Data do Contato</td>
 			<td class="s4" dir="ltr">dd/mm/aaaa hh&#58;mm&#58;ss&#58</td>
-			<td class="s3"/>
 		</tr>
 			<tr style="height:20px;">
 			<td class="s2" dir="ltr">NOME_PESQUISA</td>
 			<td class="s3" dir="ltr">Nome criado para Pesquisa</td>
 			<td class="s4" dir="ltr">Texto</td>
-			<td class="s3"/>
 		</tr>
 		<tr style="height:20px;">
 			<td class="s2" dir="ltr">MIDIA</td>
