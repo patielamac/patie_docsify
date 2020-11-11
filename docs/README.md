@@ -477,15 +477,14 @@ _Demonstração de extração de Relatório de Pesquisa_
 		<tr>
 			<th id="0C2" style="width:330px" class="column-headers-background">CAMPO</th>
 			<th id="0C3" style="width:363px" class="column-headers-background">DESCRIÇÃO</th>
-			<th id="0C4" style="width:282px" class="column-headers-background">FORMATO</th>
-			<th id="0C5" style="width:373px" class="column-headers-background">CÁLCULO</th>
+			<th id="0C4" style="width:282px" class="column-headers-background">FORMATO</th>			
 		</tr> 
 	</thead>
 	<tbody>
 			<tr style="height:20px;">
 			<td class="s2" dir="ltr">DATA HORA</td>
 			<td class="s3" dir="ltr">Data do Contato</td>
-			<td class="s4" dir="ltr">dd/mm/aaaa hh&#58;mm&#58;ss&#58;ms</td>
+			<td class="s4" dir="ltr">dd/mm/aaaa hh&#58;mm&#58;ss&#58</td>
 			<td class="s3"/>
 		</tr>
 			<tr style="height:20px;">
