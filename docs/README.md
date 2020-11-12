@@ -60,9 +60,9 @@ _**nota:**_ o link de “salvar” apenas ficará disponibilizado na tela após 
 
 
 <h4>Segurança - Senha - Primeiro Acesso</h4>
- Quando é finalizado o cadastro do usuário e salvo, um e-mail é disparado para o novo usuário informando um Token
+ Quando é finalizado o cadastro do usuário e salvo, um e-mail é disparado para o novo usuário informando um Token para que seja criado a senha e realizado o primeiro acesso.
 
-<h3>Senha válida</h3>
+<h3>Senha válida e Login</h3>
 
 A senha deve seguir as seguintes características:
 - Possuir no mínimo 6 e no máximo 20 caracteres;
@@ -70,6 +70,9 @@ A senha deve seguir as seguintes características:
 - Possuir pelo menos uma letra maíuscula e uma mínuscula;
 - Possuir pelo menos um caracter especial ($ * & @ # ?);
 - Não apresentar repetições (ex: Aabbcc, 1122).
+
+![Login](/imgs/login_senha.gif "Login")
+
 
 <h4>Permissões</h4>
 
