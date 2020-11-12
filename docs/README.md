@@ -59,6 +59,18 @@ _Cadastro de usuário_
 _**nota:**_ o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
 
 
+<h4>Segurança - Senha - Primeiro Acesso</h4>
+ Quando é finalizado o cadastro do usuário e salvo, um e-mail é disparado para o novo usuário informando um Token
+
+<h3>Senha válida</h3>
+
+A senha deve seguir as seguintes características:
+- Possuir no mínimo 6 e no máximo 20 caracteres;
+- Possuir pelo menos uma letra e um número;
+- Possuir pelo menos uma letra maíuscula e uma mínuscula;
+- Possuir pelo menos um caracter especial ($ * & @ # ?);
+- Não apresentar repetições (ex: Aabbcc, 1122).
+
 <h4>Permissões</h4>
 
 Para configurar as permissões do Usuário, ou seja, quais acessos o usuário terá para executar suas tarefas, veja quais são na tabela abaixo:
