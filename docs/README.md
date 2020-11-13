@@ -175,6 +175,14 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 			<td class="s1" dir="ltr">gerenciar-pause</td>
 			<td class="s2" dir="ltr">Acesso ao cadastro das Pausas</td>
 		</tr>
+		<tr style="height:20px;">
+			<td class="s1" dir="ltr">gerenciar-pesquisa</td>
+			<td class="s2" dir="ltr">Acesso ao cadastro das Pesquisas para criação e edição</td>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s1" dir="ltr">gerenciar-pesquisa-relatorio</td>
+			<td class="s2" dir="ltr">Acesso ao dash de pesquisas e exportação do relatório analítico</td>
+		</tr>		
 	</tbody>
 </table>
 
