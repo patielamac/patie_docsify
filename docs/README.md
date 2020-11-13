@@ -60,7 +60,12 @@ _**nota:**_ o link de “salvar” apenas ficará disponibilizado na tela após 
 
 
 <h4>Segurança - Senha - Primeiro Acesso</h4>
+
  Quando é finalizado o cadastro do usuário e salvo, um e-mail é disparado para o novo usuário informando um Token para que seja criado a senha e realizado o primeiro acesso.
+
+_Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuário_
+![Primeiro Login](/imgs/login_1.png "Exemplo de E-mail novo usuário")
+
 
 <h3>Senha válida e Login</h3>
 
