@@ -308,7 +308,13 @@ _Tela de Blacklist_
 ![Blacklist](/imgs/Blacklist_00.PNG "Tela dos Canais")
 
 O cadastro dos telefones para Blacklist pode ser realizado individualmente ou por importação de CSV, em ambos os casos, o formato do telefone importado deverá ser
-DDI+DDD+NÚMERO DO TELEFONE
+realizado de acordo com as regras:
+
+- Inbound
+	- DDD + número do telefone
+- outbound
+	- DDI + DDD + número do telefone
+	
 
 _Tela de Importação individual Outbound_
 
@@ -345,6 +351,9 @@ Note que para importação do arquivo CSV Inbound, ligações receptivas, o camp
 _Tela de Importação CSV Outbound_
 
 ![Blacklist](/imgs/Blacklist_csv_outbound.PNG "Modelo CSV Outbound")
+
+![Blacklist](/imgs/Black_outbound2.PNG "Modelo CSV Outbound")
+
 
 Note que para importação do arquivo CSV Outbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 2
 
