@@ -482,6 +482,51 @@ Por meio do dash de pesquisas será possível monitorar em tempo real ou retroat
 	- Alias - título da pergunta criada na Pesquisa
 Após as seleções dos filtros, clique em 'Gerar"	
 
+A tabela a seguir traz explicação dos gráficos que o dash trará
+
+<table class="waffle no-grid" cellspacing="0" cellpadding="0">
+	<thead style="background-color:#B0C4DE">
+		<tr>
+			<th id="0C1" style="width:233px" class="column-headers-background">GRÁFICO</th>
+			<th id="0C2" style="width:895px" class="column-headers-background">DETALHAMENTO</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr style="height:20px;">
+			<td class="s1" dir="ltr">Customer Satisfaction - CS</td>
+			<td class="s2" dir="ltr">Porcentagem de notas por pergunta</td>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s1" dir="ltr">Média Ponderada</td>
+			<td class="s2" dir="ltr">Calculada média ponderada soma de todas as ocorrências e dividindo pelo número de respondentes onde o peso é o número de ocorrências de cada pergunta</td>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s1" dir="ltr">Cálculo Simples</td>
+			<td class="s2" dir="ltr">Utilizada para perguntas que sejam mensuradas nos valores 1, 2 e 3 - só é preenchido quando for perguntas diretas Ex.: Indicaria nossos serviços 1 para não 2 para sim</td>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s1" dir="ltr">Satisfação por Pergunta</td>
+			<td class="s2" dir="ltr">somatória das notas por Alias</td>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s1" dir="ltr">Satisfação por Serviço</td>
+			<td class="s2" dir="ltr">média das notas por serviço</td>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s1" dir="ltr">CS acumulado anual</td>
+			<td class="s2" dir="ltr">média das notas mostrando o acumulado anual</td>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s1" dir="ltr">Performance por Agente</td>
+			<td class="s2" dir="ltr">média das notas por agente</td>
+		</tr>
+				
+	</tbody>
+</table>
+
+
+
+
 
 _Demonstração de monitoração de Pesquisa_
 ![Dash Pesquisa](/imgs/dash_pesquisa.gif "Monitoração de Pesquisa")
