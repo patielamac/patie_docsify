@@ -519,8 +519,7 @@ A tabela a seguir traz explicação dos gráficos que o dash trará
 		<tr style="height:20px;">
 			<td class="s1" dir="ltr">Performance por Agente</td>
 			<td class="s2" dir="ltr">média das notas por agente</td>
-		</tr>
-				
+		</tr>				
 	</tbody>
 </table>
 
