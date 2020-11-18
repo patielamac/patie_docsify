@@ -506,7 +506,7 @@ A tabela a seguir traz explicação dos gráficos que o dash trará
 		</tr>
 		<tr style="height:20px;">
 			<td class="s1" dir="ltr">Satisfação por Pergunta</td>
-			<td class="s2" dir="ltr">somatória das notas por Alias</td>
+			<td class="s2" dir="ltr">média das notas por Alias</td>
 		</tr>
 		<tr style="height:20px;">
 			<td class="s1" dir="ltr">Satisfação por Serviço</td>
