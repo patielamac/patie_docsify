@@ -83,11 +83,18 @@ A senha deve seguir as seguintes características:
 
 Para empresas que desejam aumentar a segurança de login de seus usuários foi implementado o login com Duplo Fator onde por meio do aplicativo "Google Authenticator" é gerado um segundo token para login.
 
+_Cadastro Usuário com Duplo Fator_
+![Duplo Fator](/imgs/duplo_fator_3_2020-11-23_14h44_44.gif "Duplo Fator")
+
+
+_Primeiro Acesso Duplo Fator_
 ![Duplo Fator](/imgs/duplo_fator_1_2020-11-23_14h36_17.gif "Duplo Fator")
 
+
+_Edição de Usuário com Duplo Fator_
 ![Duplo Fator](/imgs/duplo_fator_2_2020-11-23_14h38_16.gif "Duplo Fator")
 
-![Duplo Fator](/imgs/duplo_fator_3_2020-11-23_14h44_44.gif "Duplo Fator")
+
 
 
 <h4>Permissões</h4>
