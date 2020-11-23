@@ -81,7 +81,7 @@ A senha deve seguir as seguintes características:
 
 <h4>Segurança - Opcional Duplo Fator - Primeiro Acesso</h4>
 
-Para empresas que desejam aumentar a segurança de login de seus usuários foi implementado o login com Duplo Fator onde por meio do aplicativo "Google Authenticator" é gerado um segundo token para login.
+Para empresas que desejam aumentar a segurança de login de seus usuários foi implementado o login com Duplo Fator onde por meio do aplicativo ["Google Authenticator"] (https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=pt-BR) é gerado um segundo token para login.
 
 _Cadastro Usuário com Duplo Fator_
 ![Duplo Fator](/imgs/duplo_fator_3_2020-11-23_14h44_44.gif "Duplo Fator")
