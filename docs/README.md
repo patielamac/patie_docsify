@@ -79,6 +79,17 @@ A senha deve seguir as seguintes características:
 ![Login](/imgs/login_senha.gif "Login")
 
 
+<h4>Segurança - Opcional Duplo Fator - Primeiro Acesso</h4>
+
+Para empresas que desejam aumentar a segurança de login de seus usuários foi implementado o login com Duplo Fator onde por meio do aplicativo "Google Authenticator" é gerado um segundo token para login.
+
+![Duplo Fator](/imgs/duplo_fator_1_2020-11-23_14h36_17.gif "Duplo Fator")
+
+![Duplo Fator](/imgs/duplo_fator_2_2020-11-23_14h38_16.gif "Duplo Fator")
+
+![Duplo Fator](/imgs/duplo_fator_3_2020-11-23_14h44_44.gif "Duplo Fator")
+
+
 <h4>Permissões</h4>
 
 Para configurar as permissões do Usuário, ou seja, quais acessos o usuário terá para executar suas tarefas, veja quais são na tabela abaixo:
