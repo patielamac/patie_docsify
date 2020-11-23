@@ -86,8 +86,14 @@ Para empresas que desejam aumentar a segurança de login de seus usuários foi i
 _Cadastro Usuário com Duplo Fator_
 ![Duplo Fator](/imgs/duplo_fator_3_2020-11-23_14h44_44.gif "Duplo Fator")
 
+Após criado o cadastro do usuário com o campo "Autenticação de duplo fator" ativado, no primeiro acesso constará o código QR que será utilizado no Google Authenticator para liberação do token para login. Este código ficará liberado apenas no primeiro acesso, ou nas demais alterações na Edição do usuário. Os demais logins não constarão o código QR uma vez já cadastrado no aplicativo Google Authenticator.
 
 _Primeiro Acesso Duplo Fator_
+![Duplo Fator](/imgs/primeiro_acesso_duplo_fator.gif "Duplo Fator")
+
+Para os logins posteriores ao primeiro acesso, apenas aparecerá o campo para ser inserido o código que o usuário terá pelo aplicativo em seu celular.
+
+_Login Duplo Fator_
 ![Duplo Fator](/imgs/duplo_fator_1_2020-11-23_14h36_17.gif "Duplo Fator")
 
 
