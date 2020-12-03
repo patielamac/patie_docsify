@@ -80,11 +80,11 @@ _Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuá
 
 
 _Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuário_
-![Recuperar Senha](/imgs/primeiro_acesso_recuperar_senha.png "Exemplo recuperar senha")
+![Recuperar Senha](/imgs/primeiro_acesso_recuperar_senha.PNG "Exemplo recuperar senha")
 
 
 _Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuário_
-![Recuperar Senha](/imgs/primeiro_acesso_recuperar_senha2.png "Exemplo recuperar senha")
+![Recuperar Senha](/imgs/primeiro_acesso_recuperar_senha2.PNG "Exemplo recuperar senha")
 
 
 <h3>Senha válida e Login</h3>
