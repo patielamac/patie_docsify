@@ -66,6 +66,26 @@ _**nota:**_ o link de “salvar” apenas ficará disponibilizado na tela após 
 _Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuário_
 ![Primeiro Login](/imgs/login_1.png "Exemplo de E-mail novo usuário")
 
+<h4>Segurança - Senha - Recuperar Senha</h4>
+
+Para se recuperar a senha o processo é parecido com o primeiro acesso, basta clicar no link "Primeiro acesso ou recuperar senha" que o usuário receberá um email com um novo token que será utilizado para criar sua nova senha seguindo os passos:
+- clicar em "Primeiro acessou ou recuperar senha"
+- clicar em "Continuar"
+- inserir o e-mail
+- inserir o token
+- inserir nova senha 
+
+_Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuário_
+![Recuperar Senha](/imgs/login_1.png "Exemplo de E-mail novo usuário")
+
+
+_Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuário_
+![Recuperar Senha](/imgs/primeiro_acesso_recuperar_senha.png "Exemplo recuperar senha")
+
+
+_Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuário_
+![Recuperar Senha](/imgs/primeiro_acesso_recuperar_senha2.png "Exemplo recuperar senha")
+
 
 <h3>Senha válida e Login</h3>
 
