@@ -244,6 +244,7 @@ Na tela principal de serviços estão disponibilizados os links para cadastro de
 - Atendimento (%) - qual a porcentagem de atendimento desejada para o serviço
 - Tempo Atendimento(s) - qual o tempo desejado para que seja inicializado o atendimento
 - Tempo Abandono(s) - qual o tempo aceitável para que o atendimento tenha abandono
+- Número de serviço interno - cadastro deverá ser com 3 dígitos e será utilizado para que o usuário transfira a ligação direto para o serviço solicitado
 - Habilitar tela de Atendimento - se o serviço estará ou não habilitado para que seja atendido na Tela de Atendimento
 
 _Tela de Serviços_
@@ -259,6 +260,8 @@ _Tela de Cadastro de Serviços_
 
 ![Cadastro servicos](/imgs/Servicos_3.PNG "Edição Serviços")
 
+_Tela de Cadastro do Número de serviço interno_
+![Cadastro servicos](/imgs/servico_interno.gif "Edição Serviços")
 
 Estão também disponibilizados os links para que seja:
 - Editado quais usuários que atenderão o serviço
