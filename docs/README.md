@@ -787,12 +787,15 @@ Na Tela de Edição (somente liberada se o grupo de contato não estiver associa
 **Controles Automatizados**
 ### Monitoramento
 
-## Broadcast - HSM
-A funcionalidade da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, campanhas e estratégia de envios com monitoramento para envio de mensagens de whatsapp em massa.
+## Broadcast
+A funcionalidade da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, campanhas e estratégia de envios com monitoramento para envio de mensagens de whatsapp e SMS em massa.
 
-São pré-requisitos para o envio:
+São pré-requisitos para o envio de *Whatsapp*:
 - Número de telefone cadastrado no Canal de Whatsapp
 - Aprovação dos HSM dentro das normas geradas pelo Facebook para que as mensagens possam ser enviadas.
+
+São pré-requisitos para o envio de *SMS*:
+- Liberação de um Serviço de Entrada que será realizado por meio de chamado para que seja criado uma integração para envio.
 
     
 ### Criação - Grupos de Contatos
@@ -805,11 +808,78 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 - Optar ou por "Utilizar contatos Omni" ou "Fazer upload de arquivo"
 - Salvar
 
-**Filtros em Grupo de Contatos
 
 ### Criação de Campanha
+
+A criação de grupo de Campanhas será realizada na tela de Campanha clicando no ícone de "+" no canto superior direito da tela que levará a tela de Configurar Campanha
+
+![Configurar Campanha](/imgs/campanha_nova.PNG "Configurar Campanha") 
+
+Na tela Configurar Campanha deverão ser preenchidos os campos:
+- Campanha - com o nome da Campanha que será criada
+- Canal - onde será definido se a campanha será de Whatsapp ou SMS
+
+![Configurar Campanha](/imgs/config_campanha_1.PNG "Configurar Campanha") 
+
+* Note que a campanha já estará ativa como default no checkbox
+Após o preenchimento dos campos, clique em salvar.
+
+_Para Campanha de Whatsapp_
+![Configurar Campanha](/imgs/config_campanha_whats.PNG "Configurar Campanha") 
+
+_Para Campanha de SMS_
+![Configurar Campanha](/imgs/config_campanha_SMS.PNG "Configurar Campanha") 
+
+
 ### Criação de Envios
+
+A criação de grupo dos Envios será realizada na tela de Envios clicando no ícone de "+" no canto superior direito da tela que levará a tela de Configurar Envio onde deverão ser preenchidos os campos:
+- Nome do agendamento
+- Agendamento - informando a Data que deverá ser realizado o envio da mensagem
+- Horário - informando o horário desejado para que seja enviada mensagem
+- Grupos de Contatos - selecionando na lista disponível o Grupo de Contatos, criado previamente, que será utilizado para a Campanha
+- Campanha - selecionando na lista dispoínvel a Campanha criada previamente para o envio, esta campanha será de Whatsapp ou de SMS
+
+#### Mensagem de Envio - para Campanhas de Whatsapp
+Nas Campanhas de Whatsapp a mensagem HSM - High Structured Message. As mensagens deste tipo obedecem a uma estrutura rígida pré-aprovada pelo WhatsApp para as notificações automatizadas que você será autorizado a enviar aos usuários.
+Deverá ser selecionado a HSM previamente liberada no sistema e definido quais variáveis serão utilizadas nos espaços já definidos no corpo do HSM.
+
+_Para Envio de Whatsapp_
+![Configurar Envio](/imgs/config_envio_whats.PNG "Configurar Envio para Campanha de Whatsapp") 
+
+_Para Envio de Whatsapp_
+![Configurar Envio](/imgs/config_envio_whats2.PNG "Configurar Envio para Campanha de Whatsapp") 
+
+
+#### Mensagem de Evnio - para Campanhas de SMS
+
+Para Campanhas geradas de SMS não há restrição do texto a ser enviado e nem do posicionamento das variáveis que serão inseridas no texto clicando no "+" que fica no canto esquerdo ao lado do "Valor Variável".
+
+
+
+_Para Envio de SMS_
+![Configurar Envio](/imgs/config_envio_SMS.PNG "Configurar Envio para Campanha de SMS") 
+
+
+_Para Envio de SMS_
+![Configurar Envio](/imgs/config_envio_SMS_2.PNG "Configurar Envio para Campanha de SMS") 
+
+
+
 ### Monitoramento
+Na tela de Monitoramento será apontado os resultados das Campanhas de Whatsapp ou de SMS onde poderá filtrar por:
+- Data
+- Canal - atualmente por Whatsapp ou SMS
+- Campanha - campo obrigatório para que sejam alimentados as informações no Dash
+
+_Monitoramento_
+![Monitoramento](/imgs/monitoramento_sms_1.PNG "Monitoramento de Campanhas") 
+
+_Monitoramento_
+![Monitoramento](/imgs/monitoramento_sms_2.PNG "Monitoramento de Campanhas") 
+
+
+
 ## Relatórios
 
 
