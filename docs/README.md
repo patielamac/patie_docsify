@@ -478,34 +478,47 @@ _Utilização de Pausa_
 
 
 
-## Pesquisa de Satisfação - NPS
+## Pesquisa de Satisfação
 
+# NPS
 O Net Promoter Score (NPS) é uma métrica de lealdade do cliente, com o objetivo de medir o grau de lealdade dos clientes das empresas de qualquer segmento, trazendo reflexos da experiência e satisfação dos clientes. Perguntas adicionais podem ser incluídas para ajudar a compreender a percepção de vários produtos, serviços e linhas de negócios. Estas perguntas adicionais ajudam a empresa a avaliar a importância relativa dessas outras partes do negócio na pontuação geral. Isto é especialmente útil para orientar os recursos e resolver questões que mais impactam o NPS.
 
 O Net Promoter Score tem como proposta inovar a cultura das pesquisas de pós-venda para que elas consigam ter uma visão real dos serviços prestados pela empresa e consequentemente ajudá-la a evoluir e conquistar um patamar de solidez e excelência no mercado. O NPS se garante como importante peça na expansão dos negócios e aumento do retorno de investimento.
 
+# CSAT
+A sigla CSAT remete à Customer Satisfaction Score. Como o próprio nome em inglês já indica, é uma Escala de Satisfação do Cliente. Esse tipo de pesquisa é utilizado para avaliar a imagem que o consumidor tem da marca e leva em conta pontos de interação, como:
+- Atendimento antes, durante e depois da compra;
+- Logística de entrega;
+- Produto ou serviço;
+- Agilidade na resolução de problemas;
+- Todo o processo de vendas.
+O CSAT é uma pesquisa de curto prazo, geralmente aplicada por meio de perguntas do tipo: “como você classificaria sua experiência com a marca?”. Pode conter questões sobre cada um dos pontos que mencionamos acima, além de um espaço para comentários adicionais ou até para justificar a avaliação.
+
 A Criação da Pesquisa de Satisfação na plataforma é realizada de forma rápida, objetiva e simples onde o gestor da Organização poderá inserir as perguntas e a variável da pontuação que desejar para cada pergunta. 
 
 
-![Pesquisa](/imgs/Pesquisa_1.PNG "Tela Pesquisa - NPS")
+![Pesquisa](/imgs/Pesquisa_1.PNG "Tela Pesquisa")
 
 
 <h3>Criando Pesquisa</h3>
 
 
-![Criando Pesquisa](/imgs/Pesquisa_2.PNG "Tela Pesquisa - NPS")
+![Criando Pesquisa](/imgs/Pesquisa_2.PNG "Tela Pesquisa")
 
  - clique na engrenagem no menu lateral
  - pesquisa
  - clique no símbolo de "+" no canto inferior direito da tela - abrirá uma nova tela "Configurar Pesquisa"
- - selecione o campo 'Mídia' - clique no '+' para ficar gravado a mídia escolhida
+ - selecione o campo 'Mídia' - poderá optar por Voice, Whatsapp, Chat ou E-mail
+ - selecione o 'Tipo de pesquisa' - CSAT ou NPS
  - preencha o campo 'Título" com o nome que desejar para Pesquisa
- - selecione o campo URA - clique no '+' para ficar gravado a URA escolhida
+ - selecione o Serviço - clique no '+' para ficar gravado a URA escolhida
+ - para mídia de Voz selecione o campo URA - clique no '+' para ficar gravado a URA escolhida
  - cadastre a mensagem de boas vindas
- - selecione a voz de reprodução - clique no símbolo de atualizar para ficar registrado a voz de reprodução que será utilizada para a Mensagem de Boas Vindas
+ - para pesquisas de mídia Email aparecerá o campo *Assunto Email* para ser preenchido e em seguida o espaço para que seja escrito o Corpo do email que será enviado para pesquisa.
+ - para pesquisas de mídia Voice, abaixo da Mensagem de Boas Vindas, deverá ser selecionado a voz de reprodução - clique no símbolo de atualizar para ficar registrado a voz de reprodução que será utilizada
  - cadastre o Alias da primeira pergunta - será um título que tenha referência ao tipo de pergunta, por exemplo: Atendimento / Informação / Negociação
  - cadastre a pergunta
- - selecione a voz de reprodução - clique no símbolo de atualizar para ficar registrado a voz de reprodução que será utilizada para a Pergunta
+ - selecione a voz de reprodução, para o cadastro de Pesquisa de voz - clique no símbolo de atualizar para ficar registrado a voz de reprodução que será utilizada para a Pergunta
  - selecione o range de avaliação - será de acordo com a pergunta realizada
  	- para inserir mais perguntas, basta clicar no '+' que será liberado novos campos com Alias, Mensagem, Voz de Reprodução e Range de avaliação.
  - cadastre a mensagem de encerramento
@@ -513,8 +526,28 @@ A Criação da Pesquisa de Satisfação na plataforma é realizada de forma ráp
  - ative a pesquisa 
  - salve  
 
-_Demonstração de criação de Pesquisa_
+_Demonstração de criação de Pesquisa Voz_
 ![Criando Pesquisa](/imgs/cria_pesquisa.gif "Criação de Pesquisa")
+
+
+_Demonstração de criação de Pesquisa Whatsapp e Chat_
+![Criando Pesquisa](/imgs/cria_pesquisa_chat.gif "Criação de Pesquisa")
+
+
+<h3>Criando Pesquisa Email</h3>
+
+Para criação de Pesquisa de E-mail deve-se notar que, ao ser finalizado o atendimento por email na plataforma, o cliente receberá um e-mail automático de acordo com a  configuração realizada que contém um link que o levará para uma página onde responderá a Pesquisa.
+Atenção no preenchimentos dos campos:
+1. Assunto Email - trata-se do título que será enviado o e-mail para o cliente
+2. Corpo do Email - espaço para ser escrito o texto que estará no corpo do email que será enviado para o cliente
+3. Adicionar Link - para que o email seja enviado com o link que abrirá a página com as perguntas, deve ser adicionado o link clicando no botão verde "Adicionar Link"
+A partir daí o fluxo de cadastro das perguntas seguem da mesma forma que as demais mídias.
+
+
+_Demonstração de criação de Pesquisa Email_
+![Criando Pesquisa Email](/imgs/cria_pesquisa_email.gif "Criação de Pesquisa Email")
+
+
 
 
 <h3>Monitoração de Pesquisa</h3>
