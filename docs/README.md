@@ -15,12 +15,12 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 
 ![Code7 Omni](/imgs/Apresenta.PNG "Apresentação Code7 Omni")
 
-## Cadastros
+# Cadastros
 Todos os cadastros principais da plataforma serão realizados no link do menu lateral - imagem de uma engrenagem.
 
 ![Acesso Cadastros](/imgs/Cadastros_00.PNG "Acesso aos Cadastros")
 
-<h3>Usuário</h3>
+## Usuário
 A Tela de usuários traz os usuários já cadastrados na organização e também a possibilidade de criar novo cadastro bem como editar um já existente.
 Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
 
@@ -59,14 +59,14 @@ _Cadastro de usuário_
 _**nota:**_ o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
 
 
-<h4>Segurança - Senha - Primeiro Acesso</h4>
+<h3>Segurança - Senha - Primeiro Acesso</h3>
 
  Quando é finalizado o cadastro do usuário e salvo, um e-mail é disparado para o novo usuário informando um Token para que seja criado a senha e realizado o primeiro acesso.
 
 _Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuário_
 ![Primeiro Login](/imgs/login_1.png "Exemplo de E-mail novo usuário")
 
-<h4>Segurança - Senha - Recuperar Senha</h4>
+<h3>Segurança - Senha - Recuperar Senha</h3>
 
 Para se recuperar a senha o processo é parecido com o primeiro acesso, basta clicar no link "Primeiro acesso ou recuperar senha" que o usuário receberá um email com um novo token que será utilizado para criar sua nova senha seguindo os passos:
 - clicar em "Primeiro acessou ou recuperar senha"
@@ -99,7 +99,7 @@ A senha deve seguir as seguintes características:
 ![Login](/imgs/login_senha.gif "Login")
 
 
-<h4>Segurança - Opcional Duplo Fator - Primeiro Acesso</h4>
+<h3>Segurança - Opcional Duplo Fator - Primeiro Acesso</h3>
 
 Para empresas que desejam aumentar a segurança de login de seus usuários foi implementado o login com Duplo Fator onde por meio do aplicativo [Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=pt-BR) é gerado um segundo token para login.
 
@@ -123,7 +123,7 @@ _Edição de Usuário com Duplo Fator_
 
 
 
-<h4>Permissões</h4>
+<h3>Permissões</h3>
 
 Para configurar as permissões do Usuário, ou seja, quais acessos o usuário terá para executar suas tarefas, veja quais são na tabela abaixo:
 
@@ -236,7 +236,7 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 
 
 
-<h3>Serviços</h3>
+## Serviços
 
 Na tela principal de serviços estão disponibilizados os links para cadastro de um novo serviço onde será inserido:
 - Nome
@@ -275,7 +275,7 @@ _Links de edição_
 ![Cadastro servicos](/imgs/Servicos_4.PNG "Links para Edição Serviços")
 
 
-<h3>Tags</h3>
+## Tags
 
 O cadastro das Tags além da finalização do atendimento traz opções de cadastro para que seja realizado:
 - registro da informação (como foi realizado o atendimento, se houve venda, cancelamento ou novas negociações)
@@ -294,7 +294,7 @@ _Cadastro de nova Tag_
 
 ![Cadastro tag](/imgs/Tag_2.PNG "Cadastro TAG")
 
-<h3>Contatos</h3>
+## Contatos
 Os Contatos podem ser cadastrados individualmente ou por meio de importação de arquivo CSV, temos como único campo obrigatório o Nome do contato.
 
 ![Contatos](/imgs/Contatos_1.PNG "Tela Contatos")
@@ -347,7 +347,7 @@ Notar que:
     ["Faturamento","20.000"|"Advogado","Dr. Augusto Martins"|"Secretária","Gabriela Santos"]
 
 
-<h3>Blacklist</h3>
+## Blacklist
 O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para contatos, é realizado para Inbound e Outbound separadamente.
 
 _Tela de Blacklist_
@@ -406,7 +406,7 @@ Note que para importação do arquivo CSV Outbound, ligações receptivas, o cam
 
 
 
-<h3>Shortcuts</h3>
+## Shortcuts
 
 Shortcuts são os atalhos que podem ser criados para otimizar o atendimento, estão linkados aos serviços, ou seja, cada shortcut criada deve ser relacionada a um serviço. Assim, quando o usuário estiver em atendimento, poderá utilizar o atalho que trará frases prontas de um determinado assunto. Sendo útil na padronização do atendimento e também para otimizar o tempo do usuário/atendente.
 
@@ -439,7 +439,7 @@ _Exclusão de Shortcuts_
 ![Shortcuts](/imgs/short_4.PNG "Exclusão de Shortcuts")
 
 
-<h3>Pausas</h3>
+## Pausas
 
 Utilizadas para identificar as paradas dos usuários, o cadastro das Pausas auxilia na gestão da Equipe para mensurar inclusive como indicar de produtividade, pois constará a informação em relatórios de gestão.
 
@@ -478,14 +478,14 @@ _Utilização de Pausa_
 
 
 
-## Pesquisa de Satisfação
+# Pesquisa de Satisfação
 
-# NPS
+## NPS
 O Net Promoter Score (NPS) é uma métrica de lealdade do cliente, com o objetivo de medir o grau de lealdade dos clientes das empresas de qualquer segmento, trazendo reflexos da experiência e satisfação dos clientes. Perguntas adicionais podem ser incluídas para ajudar a compreender a percepção de vários produtos, serviços e linhas de negócios. Estas perguntas adicionais ajudam a empresa a avaliar a importância relativa dessas outras partes do negócio na pontuação geral. Isto é especialmente útil para orientar os recursos e resolver questões que mais impactam o NPS.
 
 O Net Promoter Score tem como proposta inovar a cultura das pesquisas de pós-venda para que elas consigam ter uma visão real dos serviços prestados pela empresa e consequentemente ajudá-la a evoluir e conquistar um patamar de solidez e excelência no mercado. O NPS se garante como importante peça na expansão dos negócios e aumento do retorno de investimento.
 
-# CSAT
+## CSAT
 A sigla CSAT remete à Customer Satisfaction Score. Como o próprio nome em inglês já indica, é uma Escala de Satisfação do Cliente. Esse tipo de pesquisa é utilizado para avaliar a imagem que o consumidor tem da marca e leva em conta pontos de interação, como:
 - Atendimento antes, durante e depois da compra;
 - Logística de entrega;
@@ -500,7 +500,7 @@ A Criação da Pesquisa de Satisfação na plataforma é realizada de forma ráp
 ![Pesquisa](/imgs/Pesquisa_1.PNG "Tela Pesquisa")
 
 
-<h3>Criando Pesquisa</h3>
+## Criando Pesquisa
 
 
 ![Criando Pesquisa](/imgs/Pesquisa_2.PNG "Tela Pesquisa")
@@ -695,7 +695,7 @@ As últimas colunas do relatório terão como título o nome da Alias(título da
 ![Relatório Pesquisa](/imgs/Pesquisa_6.PNG "Tela Relatório Analítico Pesquisa")
 
 
-## Canais
+# Canais
 
 Em Canais são realizados os cadastros de todas as mídias que a empresa terá para atendimento, voz, whatsapp, webchat, e-mail e mercado livre.
 
@@ -703,7 +703,7 @@ _Tela de Canais_
 
 ![Canais](/imgs/Canais_1.PNG "Tela Blacklist")
 
-### Telefone
+## Telefone
 
 O Cadastro e Configuração do telefone para atendimento é realizado de forma prática e bem intuitiva
 Na tela principal, clique no **+** para cadastrar o telefone, preenchendo os campos:
@@ -724,7 +724,7 @@ Após definição do telefone que ficará disponibilizado para receber as ligaç
 - Serviços que farão parte do atendimento
 - Mensagem para ligações não atendidas
 
-<h4>Horário de Atendimento</h4>
+<h3>Horário de Atendimento</h3>
 
 A configuração dos horários de atendimento poderão ser com Atendimento sempre aberto (24x7) ou poderá ser Configurado os horários por dia da semana de acordo com a necessidade da organização, neste caso, você optará pelo fuso horário e poderá inserir o dia da semana e quais os horários iniciais e finais de cada dia.
 
@@ -738,32 +738,35 @@ Conhecida também como mensagem de saudação, que será enviada assim que o con
 _Configuração Mensagem de Boas Vindas_
 ![Canais Telefone](/imgs/Telefone_4.PNG "Configuração Mensagem de Boas Vindas")
 
-<h4>Mensagem com Atendimento Fechado</h4>
+<h3>Mensagem com Atendimento Fechado</h3>
 
 Utilizada quando o contato realiza uma ligação para a URA fora do seu horário de atendimento, então é realizada uma gravação para informar que não estão atendendo no momento. Poderá ser cadastrada internamente na plataforma, onde o Texto é escrito, transformado em áudio pelo robô e definido qual voz será utilizada na gravação ou a organização poderá importar um arquivo próprio de áudio .mp3 ou .wav.
 
 _Configuração Mensagem de Atendimento Fechado_
 ![Canais Telefone](/imgs/Telefone_5.PNG "Configuração Mensagem de Atendimento Fechado")
 
-<h4>Cadastro dos Serviços</h4>
+<h3>Cadastro dos Serviços</h3>
 
 A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a critério da organização, de forma que melhor lhe atenda. Clicando no ícone de editar do Menu de Atendimento poderá ser escolhido qual serviço será escolhido e em qual ordem de discagem na URA ele ficará.
 
 <h4>Mensagem para ligações não atendidas</h4>
 
-### Whatsapp
-### Boteria
-### E-mail
-### Canal de Integração Mercado Livre
-## Tela de Atendimento
-## Gerenciamento de Atendimento
-## Visão dos Agentes
+## Whatsapp
+## Boteria
+## E-mail
+## Canal de Integração Mercado Livre
+## Facebook
+## Reclame Aqui
+## Telegram
 
-## Discador
+# Tela de Atendimento
+# Gerenciamento de Atendimento
+# Visão dos Agentes
+# Discador
 
 A funcionalidade do discador da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, estratégia e campanhas que irão fazer parte da discagem em massa
 
-### Grupo de Contatos
+## Grupo de Contatos
 Na Tela de Grupo de Contatos se cria e edita os contatos que receberão as ligações de sua Campanha.
 
 ![Grupo Contatos](/imgs/Grupo_Contatos_Discador.PNG "Discador Grupo Contatos")
@@ -811,10 +814,34 @@ Na Tela de Edição (somente liberada se o grupo de contato não estiver associa
     
 **Consulta - Grupo de Contatos**
 
-### Estratégia
+A Tela de verificação do grupo de contatos possibilitará a revisita das informações dos contatos que constam no grupo, onde poderá: 
+ - excluir contato individual - somente se não houver campanha associada ao grupo de contatos
+ - consultar os contatos importados no grupo 
+
+
+
+## Estratégia
 **Criação - Estratégia de Discagem**
+Será em Estratégia onde as configurações de modo de discagem serão configuradas, para iniciar as configurações de Estratégia, o seu grupo de contato já deverá estar criado.
+A primeira Tela da Estratégia contém filtros para pesquisa, ações em lote e tabela trazendo informações das estratégias já criadas com os campos:
+- Estratégia - nome da Estratégia
+- Sequência
+- Cadência
+- Regiões DDD
+- Móvel
+- Fixo
+- Ativo - status
+- Alterações em Lote com os filtros de - Status, Status Móvel, Status fixo, Status móvel e fixo, Alterar Sequência e Alterar Cadência. Onde:
+
+
+
+
+
+
+
 **Edição - Estratégia**
-### Campanha
+
+## Campanha
 **Criação de uma nova Campanha**
 **Controles Manuais**
 **Controles Automatizados**
