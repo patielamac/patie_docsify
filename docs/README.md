@@ -822,6 +822,7 @@ A Tela de verificação do grupo de contatos possibilitará a revisita das infor
 
 ## Estratégia
 **Criação - Estratégia de Discagem**
+
 Será em Estratégia onde as configurações de modo de discagem serão configuradas, para iniciar as configurações de Estratégia, o seu grupo de contato já deverá estar criado.
 A primeira Tela da Estratégia contém filtros para pesquisa, ações em lote e tabela trazendo informações das estratégias já criadas com os campos:
 - Estratégia - nome da Estratégia
@@ -833,13 +834,43 @@ A primeira Tela da Estratégia contém filtros para pesquisa, ações em lote e 
 - Ativo - status
 - Alterações em Lote com os filtros de - Status, Status Móvel, Status fixo, Status móvel e fixo, Alterar Sequência e Alterar Cadência. Onde:
 
+![Estratégia](/imgs/estrategia_tab1.png "Estratégias para criação de Discagem") 
 
 
+As configurações da discagem de sua campanha será feita pela Estratégia, onde irá inserir:
+- Estratégia - o nome da estratégia de sua campanha
+- Sequência - a forma da discagem, sendo vertical onde o discador vai ligar para o primeiro telefone de cada contato e horizontal onde o discador vai ligar para todos os telefones de um contato e para depois começar a discar para o próximo contato.
+- Cadência - estrutura de tentativa de contatos
+- Renitência - os limitadores de número de tentativas e o intervalo de tempo para cada uma das situações de:
+	- Abandono - ligações abandonadas
+	- Caixa Postal - quando a chamada vai para caixa postal
+	- Ocupado - quando a chamada está ocupada
+	- Não conectado - quando a chamada não é realizada
+	- Não atendido - chamada realizada porém não é atendida pelo contato
+- Número inexistente ou incorreto - para situações onde é identificado a inexistência do número
 
+![Estratégia](/imgs/estrategia_tela1.png "Estratégias para criação de Discagem") 
 
+![Estratégia](/imgs/estrategia_tela2.png "Estratégias para criação de Discagem") 
+
+- Filtros
+	- Móvel - ativa liberação de discagem para fone móvel
+	- Fixo - ativa liberação de discagem para fone fixo
+	- Regiões DDI - fixo 55
+	- Regiões DDD - poderá ser definido por DDD quais serão discados e quais serão os horários de início e fim da discagem por DDD escolhido. 
+	
+![Estratégia Filtros](/imgs/estrategia_tela3.png "Estratégias Filtros para configuração")
 
 
 **Edição - Estratégia**
+
+A edição de uma estratégia já criada limita-se em alterações nos campos:
+- Sequência
+- Cadência
+- Renitência
+- Filtros
+- Ativar ou Inativar a Estratégia 
+
 
 ## Campanha
 **Criação de uma nova Campanha**
