@@ -873,7 +873,29 @@ A edição de uma estratégia já criada limita-se em alterações nos campos:
 
 
 ## Campanha
+
 **Criação de uma nova Campanha**
+
+A Campanha entrelaça todas as informações do Grupo de Contatos e Estratégia que foram criados para que seja realizada a discagem, no menu Campanha poderá ser realizado pesquisas das campanhas existentes, cadastro de novas campanhas e controlar cada campanha apresentada na tabela que traz os campos de: 
+- Campanha - nome da campanha
+- Serviço - nome do serviço que receberá as chamadas
+- Estratégia - nome da estratégia utilizada por campanha
+- Controle - iniciar, pausar, encerrar, repetir e reiniciar 
+
+![Controle - Campanha](/imgs/campanha_tela3.png "Controles para gerenciar a Campanha")
+
+A criação da campanha é realizada em duas partes, onde a primeira serão cadastrados:
+- Nome da Campanha
+- Serviço
+- Grupos de Contatos
+- Estratégia 
+
+A segunda parte será a definição de como será realizado o controle da Campanha de forma **Manual** ou **Automática**. 
+
+
+Com os Controles Manuais o administrador da campanha poderá definir os momentos de início, pausa, encerramento ou reinício da campanha pela tela inicial mostrada anteriormente. 
+
+
 **Controles Manuais**
 **Controles Automatizados**
 ### Monitoramento
