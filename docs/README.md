@@ -20,7 +20,7 @@ Todos os cadastros principais da plataforma serão realizados no link do menu la
 
 ![Acesso Cadastros](/imgs/Cadastros_00.PNG ':class=sombracaixa' )
 
-## Usuário
+## Usuário - versão 3.xx
 A Tela de usuários traz os usuários já cadastrados na organização e também a possibilidade de criar novo cadastro bem como editar um já existente.
 Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
 
@@ -120,8 +120,6 @@ _Login Duplo Fator_
 
 _Edição de Usuário com Duplo Fator_
 ![Duplo Fator](/imgs/duplo_fator_2_2020-11-23_14h38_16.gif ':class=sombracaixa' )
-
-
 
 
 <h3>Permissões</h3>
@@ -233,11 +231,11 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 
 
 
+## Usuário - versão 4.xx
 
 
 
-
-## Serviços
+## Serviços - versão 3.xx
 
 Na tela principal de serviços estão disponibilizados os links para cadastro de um novo serviço onde será inserido:
 - Nome
@@ -275,8 +273,9 @@ _Links de edição_
 
 ![Cadastro servicos](/imgs/Servicos_4.PNG ':class=sombracaixa' )
 
+## Serviços - versão 4.xx
 
-## Tags
+## Tags - versão 3.xx
 
 O cadastro das Tags além da finalização do atendimento traz opções de cadastro para que seja realizado:
 - registro da informação (como foi realizado o atendimento, se houve venda, cancelamento ou novas negociações)
@@ -295,7 +294,10 @@ _Cadastro de nova Tag_
 
 ![Cadastro tag](/imgs/Tag_2.PNG ':class=sombracaixa' )
 
-## Contatos
+## Tags - versão 4.xx
+
+## Contatos - versão 3.xx
+
 Os Contatos podem ser cadastrados individualmente ou por meio de importação de arquivo CSV, temos como único campo obrigatório o Nome do contato.
 
 ![Contatos](/imgs/Contatos_1.PNG ':class=sombracaixa' )
@@ -348,7 +350,9 @@ Notar que:
     ["Faturamento","20.000"|"Advogado","Dr. Augusto Martins"|"Secretária","Gabriela Santos"]
 
 
-## Blacklist
+## Contatos - versão 4.xx
+
+## Blacklist - versão 3.xx
 O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para contatos, é realizado para Inbound e Outbound separadamente.
 
 _Tela de Blacklist_
@@ -405,9 +409,9 @@ _Tela de Importação CSV Outbound_
 
 Note que para importação do arquivo CSV Outbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 2
 
+## Blacklist - versão 4.xx
 
-
-## Shortcuts
+## Shortcuts - versão 3.xx
 
 Shortcuts são os atalhos que podem ser criados para otimizar o atendimento, estão linkados aos serviços, ou seja, cada shortcut criada deve ser relacionada a um serviço. Assim, quando o usuário estiver em atendimento, poderá utilizar o atalho que trará frases prontas de um determinado assunto. Sendo útil na padronização do atendimento e também para otimizar o tempo do usuário/atendente.
 
@@ -439,8 +443,10 @@ _Exclusão de Shortcuts_
 
 ![Shortcuts](/imgs/short_4.PNG ':class=sombracaixa' )
 
+## Shortcuts - versão 4.xx
 
-## Pausas
+
+## Pausas - versão 3.xx
 
 Utilizadas para identificar as paradas dos usuários, o cadastro das Pausas auxilia na gestão da Equipe para mensurar inclusive como indicar de produtividade, pois constará a informação em relatórios de gestão.
 
@@ -476,7 +482,7 @@ _Utilização de Pausa_
 ![Pausa](/imgs/2020-10-08_15h31_15.gif ':class=sombracaixa' )
 
 
-
+## Pausas - versão 4.xx
 
 
 # Pesquisa de Satisfação
@@ -547,8 +553,6 @@ A partir daí o fluxo de cadastro das perguntas seguem da mesma forma que as dem
 
 _Demonstração de criação de Pesquisa Email_
 ![Criando Pesquisa Email](/imgs/cria_pesquisa_email.gif ':class=sombracaixa' )
-
-
 
 
 <h3>Monitoração de Pesquisa</h3>
@@ -883,7 +887,7 @@ A Campanha entrelaça todas as informações do Grupo de Contatos e Estratégia 
 - Estratégia - nome da estratégia utilizada por campanha
 - Controle - iniciar, pausar, encerrar, repetir e reiniciar 
 
-![Controle - Campanha](/imgs/campanha_tela3.png ':class=sombracaixa' )
+![Controle - Campanha](/imgs/campanha_tela1.png ':class=sombracaixa' )
 
 A criação da campanha é realizada em duas partes, onde a primeira serão cadastrados:
 - Nome da Campanha
@@ -892,14 +896,82 @@ A criação da campanha é realizada em duas partes, onde a primeira serão cada
 - Estratégia 
 
 A segunda parte será a definição de como será realizado o controle da Campanha de forma **Manual** ou **Automática**. 
+**Controles Manuais**
 
+![Controle Manual - Campanha](/imgs/campanha_tela4.png ':class=sombracaixa' )
 
 Com os Controles Manuais o administrador da campanha poderá definir os momentos de início, pausa, encerramento ou reinício da campanha pela tela inicial mostrada anteriormente. 
 
-
-**Controles Manuais**
 **Controles Automatizados**
+
+Os **Controles Automatizados** deverão ser configurados com maior atenção pois todos os detalhes das ações de discagem serão cadastrados para que a automação ocorra.  
+Deverá ser informado:
+- Vigência - data de início e encerramento
+- Agendamento de pausas
+- Vigência Diária - será selecionado os dias da semana e seus horários de início e finalização da discagem 
+
+![Controle Automatizado - Campanha](/imgs/campanha_tela3.png ':class=sombracaixa' )
+
+* A edição das configurações poderá ser realizada desde que não tenha sido iniciado a discagem, para editar campanhas que estejam em discagem é necessário que seja alterado seu Status para Pausa. 
+
 ### Monitoramento
+
+A Tela monitoramento é um dashboard tratá todas as informações das campanhas que estão em discagem, onde poderá visualizar as informações em Tempo Real ou Definir um período de tempo filtrando por Campanha. 
+O dash de monitoramento, quando visualizado em tempo real, trará informações como:
+- Status dos Agentes
+	- disponíveis - total de agentes disponíveis para atendimento na campanha
+ 	- em chamada - total de agentes que estão em atendimento
+ 	- em pausa - total de agentes em pausa
+ 	- offline - total de agentes que estão cadastrados no serviço da campanha e que não estão conectados.
+ - Status da Campanha
+ 	- em discagem - total de telefones de contato que estão sendo discados
+ 	- conectados - é uma visão de todos os telefones que tiveram atendimento (chamada finalizada) na campanha
+ 	- não conectados – é uma visão de todos os telefones com status diferente de atendimento (chamada finalizada) na campanha
+ 	- trabalhados - é uma visão de todos os telefones conectados + não conectados + em discagem na campanha
+ - Gráficos
+	- Campanha
+	 	- Trabalhados
+	 	- Não Trabalhados
+	 	- Finalizados
+		- Total de Telefones
+	- Agentes disponíveis x Discando agora
+	 	- Disponíveis
+	 	- Discando
+	- Resumo da campanha por grupo de contato
+	 	- Trabalhados
+	 	- Não Trabalhados
+	 	- Finalizados
+	 	- Total de Telefones
+	 - Campanha x Estratégia
+		- Atendido
+		- Ocupado
+		- Não Atendido 
+
+O dash de monitoramento, quando visualizado em **tempo real**, trará informações como:
+- Conectados
+- Não conectados
+- Trabalhados
+- Gráficos
+  - Campanha
+     - Trabalhados
+     - Não Trabalhados
+     - Finalizados
+     - Total de Telefones
+  - Resumo da campanha por grupo de contato
+     - Trabalhados
+     - Não trabalhados
+     - Finalizados
+     - Total de Telefones
+  - Campanha x Estratégia
+     - Atendido
+     - Ocupado
+     - Não Atendido 
+
+![Controle Automatizado - Campanha](/imgs/campanha_tela5.png ':class=sombracaixa' )
+
+![Controle Automatizado - Campanha](/imgs/campanha_tela6.png ':class=sombracaixa' )
+
+
 
 ## Broadcast
 A funcionalidade da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, campanhas e estratégia de envios com monitoramento para envio de mensagens de whatsapp e SMS em massa.
