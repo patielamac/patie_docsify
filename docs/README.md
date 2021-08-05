@@ -810,7 +810,11 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
     - No campo de telefone, quando for um telefone fixo - deverá ter 12 caracteres - DDI+DDD+número válido para telefone fixo ex.: 554734322422
     - No campo telefone, quando for um telefone móvel - deverá ter 13 caracteres onde a 5ª posição sempre será o número 9 - DDI+DDD+número válido para telefone fixo ex.: 5548**9**98288774
     - Se o contato estiver com fones incorretos, ele não será importado
-    - Não há obrigatoriedade de todos os campos estarem preenchidos para importação, com exceção do obrigatório comentado no item 1. 
+    - Não há obrigatoriedade de todos os campos estarem preenchidos para importação, com exceção do obrigatório comentado no item 1.
+
+
+
+
 **Edição Grupo de Contatos**
 Na Tela de Edição (somente liberada se o grupo de contato não estiver associado a uma campanha) de grupo de contatos é possível:
     - Importar outro arquivo CSV para um grupo já existente
