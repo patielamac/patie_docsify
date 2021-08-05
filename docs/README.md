@@ -767,9 +767,11 @@ A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a cr
 # Tela de Atendimento
 # Gerenciamento de Atendimento
 # Visão dos Agentes
+
 # Discador
 
 A funcionalidade do discador da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, estratégia e campanhas que irão fazer parte da discagem em massa
+
 
 ## Grupo de Contatos
 Na Tela de Grupo de Contatos se cria e edita os contatos que receberão as ligações de sua Campanha.
@@ -886,6 +888,8 @@ A Campanha entrelaça todas as informações do Grupo de Contatos e Estratégia 
 - Serviço - nome do serviço que receberá as chamadas
 - Estratégia - nome da estratégia utilizada por campanha
 - Controle - iniciar, pausar, encerrar, repetir e reiniciar 
+
+![Tela - Campanha](/imgs/campanha_tela7.png ':class=sombracaixa' )
 
 ![Controle - Campanha](/imgs/campanha_tela1.png ':class=sombracaixa' )
 
