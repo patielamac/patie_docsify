@@ -13,18 +13,18 @@ Portal de negócios e atendimento customizável e flexível para empresas onde �
 
 Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canais de telefonia convencional do tipo ISDN. Isso quer dizer qualidade total de voz, com a compatibilização de custos que só os sistemas digitais podem viabilizar. 
 
-![Code7 Omni](/imgs/Apresenta.PNG "Apresentação Code7 Omni")
+![Code7 Omni](/imgs/Apresenta.PNG ':class=sombracaixa' )
 
 # Cadastros
 Todos os cadastros principais da plataforma serão realizados no link do menu lateral - imagem de uma engrenagem.
 
-![Acesso Cadastros](/imgs/Cadastros_00.PNG "Acesso aos Cadastros")
+![Acesso Cadastros](/imgs/Cadastros_00.PNG ':class=sombracaixa' )
 
 ## Usuário
 A Tela de usuários traz os usuários já cadastrados na organização e também a possibilidade de criar novo cadastro bem como editar um já existente.
 Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
 
-![Cadastro usuario](/imgs/Tela_Cadastro.PNG "Tela Usuario")
+![Cadastro usuario](/imgs/Tela_Cadastro.PNG ':class=sombracaixa' )
 
 Na tela de cadastro terão campos para trazer as informações de:
 - Cadastro de novos usuários
@@ -53,8 +53,8 @@ Na tela de cadastro terão campos para trazer as informações de:
 - Permissões
 
 _Cadastro de usuário_
-![Cadastro usuario](/imgs/Usuario_1.PNG "Cadastro Usuario1")
-![Cadastro usuario](/imgs/Usuario_2.PNG "Cadastro Usuario2")
+![Cadastro usuario](/imgs/Usuario_1.PNG ':class=sombracaixa' )
+![Cadastro usuario](/imgs/Usuario_2.PNG ':class=sombracaixa' )
 
 _**nota:**_ o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
 
@@ -64,7 +64,7 @@ _**nota:**_ o link de “salvar” apenas ficará disponibilizado na tela após 
  Quando é finalizado o cadastro do usuário e salvo, um e-mail é disparado para o novo usuário informando um Token para que seja criado a senha e realizado o primeiro acesso.
 
 _Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuário_
-![Primeiro Login](/imgs/login_1.png "Exemplo de E-mail novo usuário")
+![Primeiro Login](/imgs/login_1.png ':class=sombracaixa' )
 
 <h3>Segurança - Senha - Recuperar Senha</h3>
 
@@ -76,15 +76,15 @@ Para se recuperar a senha o processo é parecido com o primeiro acesso, basta cl
 - inserir nova senha 
 
 _Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuário_
-![Recuperar Senha](/imgs/login_1.png "Exemplo de E-mail novo usuário")
+![Recuperar Senha](/imgs/login_1.png ':class=sombracaixa' )
 
 
 _Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuário_
-![Recuperar Senha](/imgs/primeiro_acesso_recuperar_senha.png "Exemplo recuperar senha")
+![Recuperar Senha](/imgs/primeiro_acesso_recuperar_senha.png ':class=sombracaixa' )
 
 
 _Exemplo de e-mail recebido para reset de senha ou primeiro acesso de novo usuário_
-![Recuperar Senha](/imgs/primeiro_acesso_recuperar_senha2.png "Exemplo recuperar senha")
+![Recuperar Senha](/imgs/primeiro_acesso_recuperar_senha2.png ':class=sombracaixa' )
 
 
 <h3>Senha válida e Login</h3>
@@ -96,7 +96,7 @@ A senha deve seguir as seguintes características:
 - Possuir pelo menos um caracter especial ($ * & @ # ?);
 - Não apresentar repetições (ex: Aabbcc, 1122).
 
-![Login](/imgs/login_senha.gif "Login")
+![Login](/imgs/login_senha.gif ':class=sombracaixa' )
 
 
 <h3>Segurança - Opcional Duplo Fator - Primeiro Acesso</h3>
@@ -104,7 +104,7 @@ A senha deve seguir as seguintes características:
 Para empresas que desejam aumentar a segurança de login de seus usuários foi implementado o login com Duplo Fator onde por meio do aplicativo [Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=pt-BR) é gerado um segundo token para login.
 
 _Cadastro Usuário com Duplo Fator_
-![Duplo Fator](/imgs/duplo_fator_3_2020-11-23_14h44_44.gif "Duplo Fator")
+![Duplo Fator](/imgs/duplo_fator_3_2020-11-23_14h44_44.gif ':class=sombracaixa' )
 
 Após criado o cadastro do usuário com o campo "Autenticação de duplo fator" ativado, no primeiro acesso constará o código QR que será utilizado no Google Authenticator para liberação do token para login. Este código ficará liberado apenas no primeiro acesso, ou nas demais alterações na Edição do usuário. Os demais logins não constarão o código QR uma vez já cadastrado no aplicativo Google Authenticator.
 
@@ -115,11 +115,11 @@ _Primeiro Acesso Duplo Fator_
 Para os logins posteriores ao primeiro acesso, apenas aparecerá o campo para ser inserido o código que o usuário terá pelo aplicativo em seu celular.
 
 _Login Duplo Fator_
-![Duplo Fator](/imgs/duplo_fator_1_2020-11-23_14h36_17.gif "Duplo Fator")
+![Duplo Fator](/imgs/duplo_fator_1_2020-11-23_14h36_17.gif ':class=sombracaixa' )
 
 
 _Edição de Usuário com Duplo Fator_
-![Duplo Fator](/imgs/duplo_fator_2_2020-11-23_14h38_16.gif "Duplo Fator")
+![Duplo Fator](/imgs/duplo_fator_2_2020-11-23_14h38_16.gif ':class=sombracaixa' )
 
 
 
@@ -250,19 +250,19 @@ Na tela principal de serviços estão disponibilizados os links para cadastro de
 
 _Tela de Serviços_
 
-![Cadastro servicos](/imgs/Servicos_1.PNG "Tela Serviços")
+![Cadastro servicos](/imgs/Servicos_1.PNG ':class=sombracaixa' )
 
 _Edição de Usuários_
 
-![Cadastro servicos](/imgs/Servicos_2.PNG "Edição Usuários")
+![Cadastro servicos](/imgs/Servicos_2.PNG ':class=sombracaixa' )
 
 
 _Tela de Cadastro de Serviços_
 
-![Cadastro servicos](/imgs/Servicos_3.PNG "Edição Serviços")
+![Cadastro servicos](/imgs/Servicos_3.PNG ':class=sombracaixa' )
 
 _Tela de Cadastro do Número de serviço interno_
-![Cadastro servicos](/imgs/servico_interno.gif "Edição Serviços")
+![Cadastro servicos](/imgs/servico_interno.gif ':class=sombracaixa' )
 
 Estão também disponibilizados os links para que seja:
 - Editado quais usuários que atenderão o serviço
@@ -273,7 +273,7 @@ Estão também disponibilizados os links para que seja:
 
 _Links de edição_
 
-![Cadastro servicos](/imgs/Servicos_4.PNG "Links para Edição Serviços")
+![Cadastro servicos](/imgs/Servicos_4.PNG ':class=sombracaixa' )
 
 
 ## Tags
@@ -288,29 +288,29 @@ O cadastro das Tags além da finalização do atendimento traz opções de cadas
 
 _Tela principal Tags_
 
-![Cadastro tag](/imgs/Tag_1.PNG "Tela TAG")
+![Cadastro tag](/imgs/Tag_1.PNG ':class=sombracaixa' )
 
 
 _Cadastro de nova Tag_
 
-![Cadastro tag](/imgs/Tag_2.PNG "Cadastro TAG")
+![Cadastro tag](/imgs/Tag_2.PNG ':class=sombracaixa' )
 
 ## Contatos
 Os Contatos podem ser cadastrados individualmente ou por meio de importação de arquivo CSV, temos como único campo obrigatório o Nome do contato.
 
-![Contatos](/imgs/Contatos_1.PNG "Tela Contatos")
+![Contatos](/imgs/Contatos_1.PNG ':class=sombracaixa' )
 
 O **Cadastro individual** é realizado ao clicar no **+** no canto superior esquerdo da tela onde terá acesso aos campos de Cadastro
 
 
 _Acesso aos tipos de Cadastro_
 
-![Contatos](/imgs/Contatos_4.PNG "Acesso aos Tipo de Cadastro")
+![Contatos](/imgs/Contatos_4.PNG ':class=sombracaixa' )
 
 
 _Tela Cadastro Individual_
 
-![Contatos](/imgs/Contatos_2.PNG "Tela de Cadastro Individual")
+![Contatos](/imgs/Contatos_2.PNG ':class=sombracaixa' )
 
 
 Na tela de Cadastro Individual poderá ser inserido:
@@ -322,7 +322,7 @@ Na tela de Cadastro Individual poderá ser inserido:
 
 _Cadastro Campos Customizados_
 
-![Contatos](/imgs/Contatos_5.PNG "Campos Customizados")
+![Contatos](/imgs/Contatos_5.PNG ':class=sombracaixa' )
 
 
 Para realizar o cadastro em massa, utiliza-se a importação de Arquivo CSV que é acessado no canto superior direito da tela demonstrado na imagem _Acesso aos tipos de Cadastro_
@@ -331,7 +331,7 @@ na tela de Importação com arquivo CSV está disponibilizado um modelo do arqui
 
 _Tela Importação CSV_
 
-![Contatos](/imgs/Contatos_CSV.PNG "Importação CSV")
+![Contatos](/imgs/Contatos_CSV.PNG ':class=sombracaixa' )
 
 Notar que:
 - os campos são separados por ponto e vírgula (;)
@@ -353,7 +353,7 @@ O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para cont
 
 _Tela de Blacklist_
 
-![Blacklist](/imgs/Blacklist_00.PNG "Tela dos Canais")
+![Blacklist](/imgs/Blacklist_00.PNG ':class=sombracaixa' )
 
 O cadastro dos telefones para Blacklist pode ser realizado individualmente ou por importação de CSV, em ambos os casos, o formato do telefone importado deverá ser
 realizado de acordo com as regras:
@@ -366,7 +366,7 @@ realizado de acordo com as regras:
 
 _Tela de Importação individual Outbound_
 
-![Blacklist](/imgs/Black_outbound.PNG "Cadastro Blacklist Outbound")
+![Blacklist](/imgs/Black_outbound.PNG ':class=sombracaixa' )
 
 
 - Registrar o número do Telefone e clicar em Salvar
@@ -374,12 +374,12 @@ _Tela de Importação individual Outbound_
 
 _Tela de Importação individual Inbound_
 
-![Blacklist](/imgs/Black_inbound.PNG "Cadastro Blacklist intbound")
+![Blacklist](/imgs/Black_inbound.PNG ':class=sombracaixa' )
 
 
 _Tela de Importação individual Inbound lista flow_
 
-![Blacklist](/imgs/Black_inbound_2.PNG "Lista URA para Bloqueio")
+![Blacklist](/imgs/Black_inbound_2.PNG ':class=sombracaixa' )
 
 
 - Selecionar a URA
@@ -390,7 +390,7 @@ Para importação de telefones por arquivo CSV, o modelo do documento está disp
 
 _Tela de Importação CSV Inbound_
 
-![Blacklist](/imgs/Blacklist_csv_inbound.PNG "Modelo CSV Inbound")
+![Blacklist](/imgs/Blacklist_csv_inbound.PNG ':class=sombracaixa' )
 
 Note que para importação do arquivo CSV Inbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 1
 
@@ -398,9 +398,9 @@ Note que para importação do arquivo CSV Inbound, ligações receptivas, o camp
 
 _Tela de Importação CSV Outbound_
 
-![Blacklist](/imgs/Blacklist_csv_outbound.PNG "Modelo CSV Outbound")
+![Blacklist](/imgs/Blacklist_csv_outbound.PNG ':class=sombracaixa' )
 
-![Blacklist](/imgs/Black_outbound2.PNG "Modelo CSV Outbound")
+![Blacklist](/imgs/Black_outbound2.PNG ':class=sombracaixa' )
 
 
 Note que para importação do arquivo CSV Outbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 2
@@ -413,7 +413,7 @@ Shortcuts são os atalhos que podem ser criados para otimizar o atendimento, est
 
 _Tela de Shortcuts_
 
-![Shortcuts](/imgs/short_1.PNG "Tela Shortcuts")
+![Shortcuts](/imgs/short_1.PNG ':class=sombracaixa' )
 
 O **cadastro** de shortcuts é bem simples, basta clicar no "+" no canto inferior direito da tela principal de Shortcuts e liberará uma nova linha para cadastro, após a liberação inserir:
 - prefixo - atalho que será utilizado pelo agente para buscar o texto
@@ -425,19 +425,19 @@ Para editar um texto já criado, basta ir no campo Texto, fazer as alterações 
 
 _Cadastro de nova Shortcuts_
 
-![Shortcuts](/imgs/short_3.PNG "Cadastro de nova Shortcuts")
+![Shortcuts](/imgs/short_3.PNG ':class=sombracaixa' )
 
 A utilização das shortcuts já cadastradas é realizada na Tela de Atendimento pelo usuário clicando "/" (barra), assim a lista de atalhos disponibilizados para o Serviço em que está em atendimento será liberada para que o atendente utilize em seu atendimento.
 
 _Tela de Atendimento - utilização de Shortcuts_
 
-![Shortcuts](/imgs/short_2.PNG "Tela de Atendimento - Shortcuts")
+![Shortcuts](/imgs/short_2.PNG ':class=sombracaixa' )
 
 A exclusão de Shortcuts poderá ser realizada clicando no ícone da "lixeira", então ficará liberado outro ícone de exclusão após clicar ali, seu shortcuts será excluído e não haverá possibilidade de resgatá-lo a não ser recriando-o novamente.
 
 _Exclusão de Shortcuts_
 
-![Shortcuts](/imgs/short_4.PNG "Exclusão de Shortcuts")
+![Shortcuts](/imgs/short_4.PNG ':class=sombracaixa' )
 
 
 ## Pausas
@@ -446,34 +446,34 @@ Utilizadas para identificar as paradas dos usuários, o cadastro das Pausas auxi
 
 _Tela Pausa_
 
-![Pausa](/imgs/Pausa_1.PNG "Tela de Pausas")
+![Pausa](/imgs/Pausa_1.PNG ':class=sombracaixa' )
 
 Seu cadastro é simples, basta clicar no "+" no canto inferior da tela e cadastrar no campo "Motivo da Pausa", 
 
 _Cadastro de Pausa_
 
-![Pausa](/imgs/Pausa_2.PNG "Cadastro de Pausas")
+![Pausa](/imgs/Pausa_2.PNG ':class=sombracaixa' )
 
 A exclusão é realizada clicando no ícone da "lixeira" 
 
 _Exclusão de Pausa_
 
-![Pausa](/imgs/Pausa_3.PNG "Exclusão de Pausas")
+![Pausa](/imgs/Pausa_3.PNG ':class=sombracaixa' )
 
 O usuário, quando for entrar em pausa, encontrará a listagem para optar pelo motivo da Pausa que está realizando
 
 _Utilização de Pausa_
 
-![Pausa](/imgs/Pausa_4.PNG "Utilização de Pausas")
+![Pausa](/imgs/Pausa_4.PNG ':class=sombracaixa' )
 
 
 _Utilização de Pausa - Tela Visão do Agente_
 
-![Pausa](/imgs/Pausa_5.PNG "Utilização de Pausas - Visão do Agente")
+![Pausa](/imgs/Pausa_5.PNG ':class=sombracaixa' )
 
 _Utilização de Pausa_
 
-![Pausa](/imgs/2020-10-08_15h31_15.gif "Utilização de Pausas")
+![Pausa](/imgs/2020-10-08_15h31_15.gif ':class=sombracaixa' )
 
 
 
@@ -498,13 +498,13 @@ O CSAT é uma pesquisa de curto prazo, geralmente aplicada por meio de perguntas
 A Criação da Pesquisa de Satisfação na plataforma é realizada de forma rápida, objetiva e simples onde o gestor da Organização poderá inserir as perguntas e a variável da pontuação que desejar para cada pergunta. 
 
 
-![Pesquisa](/imgs/Pesquisa_1.PNG "Tela Pesquisa")
+![Pesquisa](/imgs/Pesquisa_1.PNG ':class=sombracaixa' )
 
 
 ## Criando Pesquisa
 
 
-![Criando Pesquisa](/imgs/Pesquisa_2.PNG "Tela Pesquisa")
+![Criando Pesquisa](/imgs/Pesquisa_2.PNG ':class=sombracaixa' )
 
  - clique na engrenagem no menu lateral
  - pesquisa
@@ -528,11 +528,11 @@ A Criação da Pesquisa de Satisfação na plataforma é realizada de forma ráp
  - salve  
 
 _Demonstração de criação de Pesquisa Voz_
-![Criando Pesquisa](/imgs/cria_pesquisa.gif "Criação de Pesquisa")
+![Criando Pesquisa](/imgs/cria_pesquisa.gif ':class=sombracaixa' )
 
 
 _Demonstração de criação de Pesquisa Whatsapp e Chat_
-![Criando Pesquisa](/imgs/cria_pesquisa_chat.gif "Criação de Pesquisa")
+![Criando Pesquisa](/imgs/cria_pesquisa_chat.gif ':class=sombracaixa' )
 
 
 <h3>Criando Pesquisa Email</h3>
@@ -546,7 +546,7 @@ A partir daí o fluxo de cadastro das perguntas seguem da mesma forma que as dem
 
 
 _Demonstração de criação de Pesquisa Email_
-![Criando Pesquisa Email](/imgs/cria_pesquisa_email.gif "Criação de Pesquisa Email")
+![Criando Pesquisa Email](/imgs/cria_pesquisa_email.gif ':class=sombracaixa' )
 
 
 
@@ -609,7 +609,7 @@ A tabela a seguir traz explicação dos gráficos que o dash trará
 
 
 _Demonstração de monitoração de Pesquisa_
-![Dash Pesquisa](/imgs/dash_pesquisa.gif "Monitoração de Pesquisa")
+![Dash Pesquisa](/imgs/dash_pesquisa.gif ':class=sombracaixa' )
 
 
 <h3>Relatório de Pesquisa</h3>
@@ -627,10 +627,10 @@ Para os usuários que tem a permissão de gerar relatórios de Pesquisa, basta s
 	
 Após as seleções dos filtros, clique em 'Processar"
 
-![Relatório Pesquisa](/imgs/Pesquisa_5.PNG "Tela Relatório Analítico Pesquisa")
+![Relatório Pesquisa](/imgs/Pesquisa_5.PNG ':class=sombracaixa' )
 
 _Demonstração de extração de Relatório de Pesquisa_
-![Relatório Pesquisa](/imgs/relatorio_pesquisa.gif "Relatório Analítico Pesquisa")
+![Relatório Pesquisa](/imgs/relatorio_pesquisa.gif ':class=sombracaixa' )
 
  **A tabela a seguir traz a informação dos dados encontrados no Relatório Analítico de Pesquisa**
 
@@ -693,7 +693,7 @@ _Demonstração de extração de Relatório de Pesquisa_
 
 As últimas colunas do relatório terão como título o nome da Alias(título das perguntas) criada na pesquisa com os seus resultados como no exemplo abaixo.
 
-![Relatório Pesquisa](/imgs/Pesquisa_6.PNG "Tela Relatório Analítico Pesquisa")
+![Relatório Pesquisa](/imgs/Pesquisa_6.PNG ':class=sombracaixa' )
 
 
 # Canais
@@ -702,7 +702,7 @@ Em Canais são realizados os cadastros de todas as mídias que a empresa terá p
 
 _Tela de Canais_
 
-![Canais](/imgs/Canais_1.PNG "Tela Blacklist")
+![Canais](/imgs/Canais_1.PNG ':class=sombracaixa' )
 
 ## Telefone
 
@@ -713,10 +713,10 @@ Na tela principal, clique no **+** para cadastrar o telefone, preenchendo os cam
 - Escolha um nome,
 
 _Tela de cadastro e gerenciamento da rota da ligação, onde é realizado a configuração da fila de atendimento_
-![Canais Telefone](/imgs/Telefone_10.PNG "Tela Cadastro Telefone")
+![Canais Telefone](/imgs/Telefone_10.PNG ':class=sombracaixa' )
 
 _Tela de definição do telefone_
-![Canais Telefone](/imgs/Telefone_11.PNG "Escolha o número do Telefone")
+![Canais Telefone](/imgs/Telefone_11.PNG ':class=sombracaixa' )
 
 Após definição do telefone que ficará disponibilizado para receber as ligações, deve-se configurar a fila de atendimento por serviço:
 - Horário de Atendimento - seleção do dia da semana e horários inicial e final do atendimento
@@ -730,21 +730,21 @@ Após definição do telefone que ficará disponibilizado para receber as ligaç
 A configuração dos horários de atendimento poderão ser com Atendimento sempre aberto (24x7) ou poderá ser Configurado os horários por dia da semana de acordo com a necessidade da organização, neste caso, você optará pelo fuso horário e poderá inserir o dia da semana e quais os horários iniciais e finais de cada dia.
 
 _Configuração dos Horários de Atendimento_
-![Canais Telefone](/imgs/Telefone_3.PNG "Configuração dos Horários")
+![Canais Telefone](/imgs/Telefone_3.PNG ':class=sombracaixa' )
 
 <h4>Mensagem de Boas Vindas</h4>
 
 Conhecida também como mensagem de saudação, que será enviada assim que o contato for atendido pela URA. Poderá ser cadastrada internamente na plataforma, onde o Texto é escrito, transformado em áudio pelo robô e definido qual voz será utilizada na gravação ou a organização poderá importar um arquivo próprio de áudio .mp3 ou .wav.
 
 _Configuração Mensagem de Boas Vindas_
-![Canais Telefone](/imgs/Telefone_4.PNG "Configuração Mensagem de Boas Vindas")
+![Canais Telefone](/imgs/Telefone_4.PNG ':class=sombracaixa' )
 
 <h3>Mensagem com Atendimento Fechado</h3>
 
 Utilizada quando o contato realiza uma ligação para a URA fora do seu horário de atendimento, então é realizada uma gravação para informar que não estão atendendo no momento. Poderá ser cadastrada internamente na plataforma, onde o Texto é escrito, transformado em áudio pelo robô e definido qual voz será utilizada na gravação ou a organização poderá importar um arquivo próprio de áudio .mp3 ou .wav.
 
 _Configuração Mensagem de Atendimento Fechado_
-![Canais Telefone](/imgs/Telefone_5.PNG "Configuração Mensagem de Atendimento Fechado")
+![Canais Telefone](/imgs/Telefone_5.PNG ':class=sombracaixa' )
 
 <h3>Cadastro dos Serviços</h3>
 
@@ -770,7 +770,7 @@ A funcionalidade do discador da plataforma Code7 Omni traz agilidade e facilidad
 ## Grupo de Contatos
 Na Tela de Grupo de Contatos se cria e edita os contatos que receberão as ligações de sua Campanha.
 
-![Grupo Contatos](/imgs/Grupo_Contatos_Discador.PNG "Discador Grupo Contatos")
+![Grupo Contatos](/imgs/Grupo_Contatos_Discador.PNG ':class=sombracaixa' )
 
 As informações da tela inicial do Grupo de Contatos são:
 * Tabela dos grupos já criados:
@@ -788,14 +788,14 @@ As informações da tela inicial do Grupo de Contatos são:
 **Importação de um Novo Grupo de Contatos**
 Para criação de um Grupo de contato, deverá ser importado um arquivo CSV respeitando a formatação do modelo que está disponibilizado na plataforma.
 
-![Novo Grupo Contatos](/imgs/Inserir_grupo.PNG "Inserir Grupo Contatos")
+![Novo Grupo Contatos](/imgs/Inserir_grupo.PNG ':class=sombracaixa' )
 
  - Selecione o ícone com o **“+”** na tela principal
  - No campo Grupo de Contatos, insira um nome para seu novo grupo que será importado, escolha bem o nome, pois uma vez criado ele não ficará disponível para alteração do nome.
  - Clique no ícone de upload escolha seu arquivo CSV e faça a importação.
  - Para baixar o modelo que deverá ser utilizado, clique no “Clique aqui” e faça o download do modelo do arquivo.
  
- ![Importar Grupo Contatos](/imgs/Importar_grupo_contato.PNG "Importar Grupo Contatos")
+ ![Importar Grupo Contatos](/imgs/Importar_grupo_contato.PNG ':class=sombracaixa' )
  
  Ainda sobre o CSV - o que você precisa saber:
     - O nome do contato é campo obrigatório
@@ -811,7 +811,7 @@ Na Tela de Edição (somente liberada se o grupo de contato não estiver associa
     - Desativar um grupo de contato
     - Ativar um grupo de Contato
     
-![Editar Grupo Contatos](/imgs/Editar_grupo_contato.PNG "Editar Grupo Contatos") 
+![Editar Grupo Contatos](/imgs/Editar_grupo_contato.PNG ':class=sombracaixa' ) 
     
 **Consulta - Grupo de Contatos**
 
@@ -835,7 +835,7 @@ A primeira Tela da Estratégia contém filtros para pesquisa, ações em lote e 
 - Ativo - status
 - Alterações em Lote com os filtros de - Status, Status Móvel, Status fixo, Status móvel e fixo, Alterar Sequência e Alterar Cadência. Onde:
 
-![Estratégia](/imgs/estrategia_tab1.png "Estratégias para criação de Discagem") 
+![Estratégia](/imgs/estrategia_tab1.png ':class=sombracaixa' ) 
 
 
 As configurações da discagem de sua campanha será feita pela Estratégia, onde irá inserir:
@@ -850,9 +850,9 @@ As configurações da discagem de sua campanha será feita pela Estratégia, ond
 	- Não atendido - chamada realizada porém não é atendida pelo contato
 - Número inexistente ou incorreto - para situações onde é identificado a inexistência do número
 
-![Estratégia](/imgs/estrategia_tela1.png "Estratégias para criação de Discagem") 
+![Estratégia](/imgs/estrategia_tela1.png ':class=sombracaixa' ) 
 
-![Estratégia](/imgs/estrategia_tela2.png "Estratégias para criação de Discagem") 
+![Estratégia](/imgs/estrategia_tela2.png ':class=sombracaixa' ) 
 
 - Filtros
 	- Móvel - ativa liberação de discagem para fone móvel
@@ -860,7 +860,7 @@ As configurações da discagem de sua campanha será feita pela Estratégia, ond
 	- Regiões DDI - fixo 55
 	- Regiões DDD - poderá ser definido por DDD quais serão discados e quais serão os horários de início e fim da discagem por DDD escolhido. 
 	
-![Estratégia Filtros](/imgs/estrategia_tela3.png "Estratégias Filtros para configuração")
+![Estratégia Filtros](/imgs/estrategia_tela3.png ':class=sombracaixa' )
 
 
 **Edição - Estratégia**
@@ -883,7 +883,7 @@ A Campanha entrelaça todas as informações do Grupo de Contatos e Estratégia 
 - Estratégia - nome da estratégia utilizada por campanha
 - Controle - iniciar, pausar, encerrar, repetir e reiniciar 
 
-![Controle - Campanha](/imgs/campanha_tela3.png "Controles para gerenciar a Campanha")
+![Controle - Campanha](/imgs/campanha_tela3.png ':class=sombracaixa' )
 
 A criação da campanha é realizada em duas partes, onde a primeira serão cadastrados:
 - Nome da Campanha
@@ -920,7 +920,7 @@ A criação de grupo de contatos poderá ser realizada de duas formas:
 
 _Grupo de Contatos_
 
-![Tela Grupo de Contatos](/imgs/grupo_contatos_1.PNG "Tela Grupo de Contatos") 
+![Tela Grupo de Contatos](/imgs/grupo_contatos_1.PNG ':class=sombracaixa' ) 
 
 Na Tela do Grupo de Contatos, pode ser realizada Ações em Lote para Ativar ou Inativar Grupos além de Editar(ícone do lápis) ou Verificar(ícone da lupa) cada grupo já criado.
 
@@ -928,13 +928,13 @@ Na Tela do Grupo de Contatos, pode ser realizada Ações em Lote para Ativar ou 
 _Editar Grupo de Contatos_
 
 
-![Tela Grupo de Contatos](/imgs/grupo_contatos_editar.PNG "Tela Grupo de Contatos") 
+![Tela Grupo de Contatos](/imgs/grupo_contatos_editar.PNG ':class=sombracaixa' ) 
 
 
 _Verificar Grupo de Contatos_
 
 
-![Tela Grupo de Contatos](/imgs/grupo_contatos_verificar.PNG "Tela Grupo de Contatos") 
+![Tela Grupo de Contatos](/imgs/grupo_contatos_verificar.PNG ':class=sombracaixa' ) 
 
   
 **Tela de Importação de Grupo de Contatos**
@@ -946,7 +946,7 @@ _Verificar Grupo de Contatos_
 _Criação de Grupo de Contatos_
 
 
-![Tela Grupo de Contatos](/imgs/grupo_contatos_2.PNG "Tela Grupo de Contatos") 
+![Tela Grupo de Contatos](/imgs/grupo_contatos_2.PNG ':class=sombracaixa' ) 
 
 
 
@@ -954,13 +954,13 @@ _Criação de Grupo de Contatos_
 
 A criação de grupo de Campanhas será realizada na tela de Campanha clicando no ícone de "+" no canto superior direito da tela que levará a tela de Configurar Campanha
 
-![Configurar Campanha](/imgs/campanha_nova.PNG "Configurar Campanha") 
+![Configurar Campanha](/imgs/campanha_nova.PNG ':class=sombracaixa' ) 
 
 Na tela Configurar Campanha deverão ser preenchidos os campos:
 - Campanha - com o nome da Campanha que será criada
 - Canal - onde será definido se a campanha será de Whatsapp ou SMS
 
-![Configurar Campanha](/imgs/config_campanha_1.PNG "Configurar Campanha") 
+![Configurar Campanha](/imgs/config_campanha_1.PNG ':class=sombracaixa' ) 
 
 
 
@@ -970,14 +970,14 @@ Na tela Configurar Campanha deverão ser preenchidos os campos:
 _Para Campanha de Whatsapp_
 
 
-![Configurar Campanha](/imgs/config_campanha_whats.PNG "Configurar Campanha") 
+![Configurar Campanha](/imgs/config_campanha_whats.PNG ':class=sombracaixa' ) 
 
 
 
 _Para Campanha de SMS_
 
 
-![Configurar Campanha](/imgs/config_campanha_SMS.PNG "Configurar Campanha") 
+![Configurar Campanha](/imgs/config_campanha_SMS.PNG ':class=sombracaixa' ) 
 
 
 ### Criação de Envios
@@ -999,14 +999,14 @@ Deverá ser selecionado a HSM previamente liberada no sistema e definido quais v
 _Para Envio de Whatsapp_
 
 
-![Configurar Envio](/imgs/config_envio_whats.PNG "Configurar Envio para Campanha de Whatsapp") 
+![Configurar Envio](/imgs/config_envio_whats.PNG ':class=sombracaixa' ) 
 
 
 
 _Para Envio de Whatsapp_
 
 
-![Configurar Envio](/imgs/config_envio_whats2.PNG "Configurar Envio para Campanha de Whatsapp") 
+![Configurar Envio](/imgs/config_envio_whats2.PNG ':class=sombracaixa' ) 
 
 
 
@@ -1020,13 +1020,13 @@ Para Campanhas geradas de SMS não há restrição do texto a ser enviado e nem 
 _Para Envio de SMS_
 
 
-![Configurar Envio](/imgs/config_envio_SMS.PNG "Configurar Envio para Campanha de SMS") 
+![Configurar Envio](/imgs/config_envio_SMS.PNG ':class=sombracaixa' ) 
 
 
 _Para Envio de SMS_
 
 
-![Configurar Envio](/imgs/config_envio_SMS_2.PNG "Configurar Envio para Campanha de SMS") 
+![Configurar Envio](/imgs/config_envio_SMS_2.PNG ':class=sombracaixa' ) 
 
 
 
@@ -1040,14 +1040,14 @@ Na tela de Monitoramento será apontado os resultados das Campanhas de Whatsapp 
 _Monitoramento_
 
 
-![Monitoramento](/imgs/monitoramento_sms_1.PNG "Monitoramento de Campanhas") 
+![Monitoramento](/imgs/monitoramento_sms_1.PNG ':class=sombracaixa' ) 
 
 
 
 _Monitoramento_
 
 
-![Monitoramento](/imgs/monitoramento_sms_2.PNG "Monitoramento de Campanhas") 
+![Monitoramento](/imgs/monitoramento_sms_2.PNG ':class=sombracaixa' ) 
 
 
 
@@ -1060,27 +1060,27 @@ Relatório que traz a visão de cada atendimento realizado na plataforma com as 
 
 _Tela Rastreio Interações_
 
- ![Rastreio de Interações](/imgs/Rastreio_1.PNG "Filtros para Rastreio")
+ ![Rastreio de Interações](/imgs/Rastreio_1.PNG ':class=sombracaixa' )
  
  Para extração do Relatório o campo obrigátorio é o "Mídia" os demais campos são opcionais.
  
  _Tela Filtros de Mídia_
  
- ![Rastreio de Interações](/imgs/Rastreio_2.PNG "Filtros de Mídia")
+ ![Rastreio de Interações](/imgs/Rastreio_2.PNG ':class=sombracaixa' )
  
  Há opção de filtros por Data, usuário, horário, Protocolo, Serviços e demais campos
  
  _Exemplo de outros Filtros_
  
- ![Rastreio de Interações](/imgs/Rastreio_3.PNG "Filtros de Usuários")
+ ![Rastreio de Interações](/imgs/Rastreio_3.PNG ':class=sombracaixa' )
  
- ![Rastreio de Interações](/imgs/Rastreio_4.PNG "Filtros de Data")
+ ![Rastreio de Interações](/imgs/Rastreio_4.PNG ':class=sombracaixa' )
  
  A visualização da extração poderá ser feita diretamente na tela do sistema, ou também poderá ser realizado download em CSV para facilitar a análise das informações.
  
   _Tabela de Resultados_
   
- ![Rastreio de Interações](/imgs/Rastreio_5.PNG "Tabela ou Download por CSV")
+ ![Rastreio de Interações](/imgs/Rastreio_5.PNG ':class=sombracaixa' )
  
  
  
