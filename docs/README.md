@@ -371,167 +371,14 @@ _Utilização de Pausa_
 
 ## Pausas - versão 4.xx
 
-# Segurança
+## Pesquisa de Satisfação
 
-Módulo onde ..
-
-![Tela Segurança](/imgs/seguranca1.PNG':class=sombracaixa')
-
-
-## Gerenciamento de Perfil
-
-## Usuários
-
-## Takeout
-
-**Takeout - o que é?** É um módulo no Code7 Omni que permite aos usuários, previamente autorizados, a fazer download de todos os arquivos, incluindo fotos, vídeos, áudios e mensagens armazenados na Empresa para utilização em outras plataformas ou armazenamento local.
-
-**Como extrair o documento?** O módulo Takeout está liberado na nova versão 4 do Code7 Omni em Segurança. 
-
-![Tela Segurança](/imgs/seguranca2.PNG':class=sombracaixa')
-
-Clique em Takeout
-
-![Tela Segurança](/imgs/seguranca3.PNG':class=sombracaixa')
-
-Abrirá a Tela com as ações para:
-- Atualizar a tela
-- Gerar Novo takeout
-- Filtro para buscar por Status
-- Cancelar takeout quando estiver sendo gerado
-- Reiniciar takeout quando estiver com status de erro 
-
- Ao clicar em “Novo Takeout” uma janela com a informação do processo de extração dos dados, clique em “Exportar” 
-
-
-## Grupos de usuário
-
-# Contatos
-## Meus contatos - versão 3.xx
-
-Os Contatos podem ser cadastrados individualmente ou por meio de importação de arquivo CSV, temos como único campo obrigatório o Nome do contato.
-
-![Contatos](/imgs/Contatos_1.PNG ':class=sombracaixa' )
-
-O **Cadastro individual** é realizado ao clicar no **+** no canto superior esquerdo da tela onde terá acesso aos campos de Cadastro
-
-
-_Acesso aos tipos de Cadastro_
-
-![Contatos](/imgs/Contatos_4.PNG ':class=sombracaixa' )
-
-
-_Tela Cadastro Individual_
-
-![Contatos](/imgs/Contatos_2.PNG ':class=sombracaixa' )
-
-
-Na tela de Cadastro Individual poderá ser inserido:
-- uma Imagem/Avatar do contato
-- alternado o tipo de cadastro se Corporativo ou Pessoa Física
-- adicionado até 10 números de Telefones por contato
-- adicionar campos Customizados - campos coringa - que poderão ser criados de acordo com a necessidade de cada organização
-
-
-_Cadastro Campos Customizados_
-
-![Contatos](/imgs/Contatos_5.PNG ':class=sombracaixa' )
-
-
-Para realizar o cadastro em massa, utiliza-se a importação de Arquivo CSV que é acessado no canto superior direito da tela demonstrado na imagem _Acesso aos tipos de Cadastro_
-na tela de Importação com arquivo CSV está disponibilizado um modelo do arquivo com os campos e formatos para que ocorra a importação.
-
-
-_Tela Importação CSV_
-
-![Contatos](/imgs/Contatos_CSV.PNG ':class=sombracaixa' )
-
-Notar que:
-- os campos são separados por ponto e vírgula (;)
-- apenas o campo nome é obrigatório
-- o campo "contact_gender" aceita apenas Masculino / Feminino / Não Informado ou poderá ser deixado em branco
-- o cadastro do número do telefone deverá ser feito com DDI + DDD + NÚMERO DO TELEFONE
-- há uma particularidade para cadastro dos campos customizados
-    - todos campos criados customizados deverão ficar entre  chaves []    
-    - entre aspas duplas deverão ficar o Nome do Campo seguido de vírgula e o valor do campo também entre aspas duplas
-    - cada campo customizado deverá ser separado por pipe |
-    
-    Como no exemplo abaixo:
-    
-    ["Faturamento","20.000"|"Advogado","Dr. Augusto Martins"|"Secretária","Gabriela Santos"]
-
-
-## Meus contatos - versão 4.xx
-
-
-## Blacklist - versão 3.xx
-
-O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para contatos, é realizado para Inbound e Outbound separadamente.
-
-_Tela de Blacklist_
-
-![Blacklist](/imgs/Blacklist_00.PNG ':class=sombracaixa' )
-
-O cadastro dos telefones para Blacklist pode ser realizado individualmente ou por importação de CSV, em ambos os casos, o formato do telefone importado deverá ser
-realizado de acordo com as regras:
-
-- Inbound
-	- DDD + número do telefone
-- outbound
-	- DDI + DDD + número do telefone
-	
-
-_Tela de Importação individual Outbound_
-
-![Blacklist](/imgs/Black_outbound.PNG ':class=sombracaixa' )
-
-
-- Registrar o número do Telefone e clicar em Salvar
-
-
-_Tela de Importação individual Inbound_
-
-![Blacklist](/imgs/Black_inbound.PNG ':class=sombracaixa' )
-
-
-_Tela de Importação individual Inbound lista flow_
-
-![Blacklist](/imgs/Black_inbound_2.PNG ':class=sombracaixa' )
-
-
-- Selecionar a URA
-- Registrar o número do Telefone e clicar em Salvar
-
-Para importação de telefones por arquivo CSV, o modelo do documento está disponível para download na tela de importação
-
-
-_Tela de Importação CSV Inbound_
-
-![Blacklist](/imgs/Blacklist_csv_inbound.PNG ':class=sombracaixa' )
-
-Note que para importação do arquivo CSV Inbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 1
-
-
-
-_Tela de Importação CSV Outbound_
-
-![Blacklist](/imgs/Blacklist_csv_outbound.PNG ':class=sombracaixa' )
-
-![Blacklist](/imgs/Black_outbound2.PNG ':class=sombracaixa' )
-
-
-Note que para importação do arquivo CSV Outbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 2
-
-## Blacklist - versão 4.xx
-
-# Pesquisa de Satisfação
-
-## NPS
+### NPS
 O Net Promoter Score (NPS) é uma métrica de lealdade do cliente, com o objetivo de medir o grau de lealdade dos clientes das empresas de qualquer segmento, trazendo reflexos da experiência e satisfação dos clientes. Perguntas adicionais podem ser incluídas para ajudar a compreender a percepção de vários produtos, serviços e linhas de negócios. Estas perguntas adicionais ajudam a empresa a avaliar a importância relativa dessas outras partes do negócio na pontuação geral. Isto é especialmente útil para orientar os recursos e resolver questões que mais impactam o NPS.
 
 O Net Promoter Score tem como proposta inovar a cultura das pesquisas de pós-venda para que elas consigam ter uma visão real dos serviços prestados pela empresa e consequentemente ajudá-la a evoluir e conquistar um patamar de solidez e excelência no mercado. O NPS se garante como importante peça na expansão dos negócios e aumento do retorno de investimento.
 
-## CSAT
+### CSAT
 A sigla CSAT remete à Customer Satisfaction Score. Como o próprio nome em inglês já indica, é uma Escala de Satisfação do Cliente. Esse tipo de pesquisa é utilizado para avaliar a imagem que o consumidor tem da marca e leva em conta pontos de interação, como:
 - Atendimento antes, durante e depois da compra;
 - Logística de entrega;
@@ -546,7 +393,7 @@ A Criação da Pesquisa de Satisfação na plataforma é realizada de forma ráp
 ![Pesquisa](/imgs/Pesquisa_1.PNG ':class=sombracaixa' )
 
 
-## Criando Pesquisa
+### Criando Pesquisa
 
 
 ![Criando Pesquisa](/imgs/Pesquisa_2.PNG ':class=sombracaixa' )
@@ -737,6 +584,161 @@ _Demonstração de extração de Relatório de Pesquisa_
 As últimas colunas do relatório terão como título o nome da Alias(título das perguntas) criada na pesquisa com os seus resultados como no exemplo abaixo.
 
 ![Relatório Pesquisa](/imgs/Pesquisa_6.PNG ':class=sombracaixa' )
+
+
+# Segurança
+
+Módulo onde ..
+
+![Tela Segurança](/imgs/seguranca1.PNG':class=sombracaixa')
+
+
+## Gerenciamento de Perfil
+
+## Usuários
+
+## Takeout
+
+**Takeout - o que é?** É um módulo no Code7 Omni que permite aos usuários, previamente autorizados, a fazer download de todos os arquivos, incluindo fotos, vídeos, áudios e mensagens armazenados na Empresa para utilização em outras plataformas ou armazenamento local.
+
+**Como extrair o documento?** O módulo Takeout está liberado na nova versão 4 do Code7 Omni em Segurança. 
+
+![Tela Segurança](/imgs/seguranca2.PNG':class=sombracaixa')
+
+Clique em Takeout
+
+![Tela Segurança](/imgs/seguranca3.PNG':class=sombracaixa')
+
+Abrirá a Tela com as ações para:
+- Atualizar a tela
+- Gerar Novo takeout
+- Filtro para buscar por Status
+- Cancelar takeout quando estiver sendo gerado
+- Reiniciar takeout quando estiver com status de erro 
+
+ Ao clicar em “Novo Takeout” uma janela com a informação do processo de extração dos dados, clique em “Exportar” 
+
+
+## Grupos de usuário
+
+# Contatos
+## Meus contatos - versão 3.xx
+
+Os Contatos podem ser cadastrados individualmente ou por meio de importação de arquivo CSV, temos como único campo obrigatório o Nome do contato.
+
+![Contatos](/imgs/Contatos_1.PNG ':class=sombracaixa' )
+
+O **Cadastro individual** é realizado ao clicar no **+** no canto superior esquerdo da tela onde terá acesso aos campos de Cadastro
+
+
+_Acesso aos tipos de Cadastro_
+
+![Contatos](/imgs/Contatos_4.PNG ':class=sombracaixa' )
+
+
+_Tela Cadastro Individual_
+
+![Contatos](/imgs/Contatos_2.PNG ':class=sombracaixa' )
+
+
+Na tela de Cadastro Individual poderá ser inserido:
+- uma Imagem/Avatar do contato
+- alternado o tipo de cadastro se Corporativo ou Pessoa Física
+- adicionado até 10 números de Telefones por contato
+- adicionar campos Customizados - campos coringa - que poderão ser criados de acordo com a necessidade de cada organização
+
+
+_Cadastro Campos Customizados_
+
+![Contatos](/imgs/Contatos_5.PNG ':class=sombracaixa' )
+
+
+Para realizar o cadastro em massa, utiliza-se a importação de Arquivo CSV que é acessado no canto superior direito da tela demonstrado na imagem _Acesso aos tipos de Cadastro_
+na tela de Importação com arquivo CSV está disponibilizado um modelo do arquivo com os campos e formatos para que ocorra a importação.
+
+
+_Tela Importação CSV_
+
+![Contatos](/imgs/Contatos_CSV.PNG ':class=sombracaixa' )
+
+Notar que:
+- os campos são separados por ponto e vírgula (;)
+- apenas o campo nome é obrigatório
+- o campo "contact_gender" aceita apenas Masculino / Feminino / Não Informado ou poderá ser deixado em branco
+- o cadastro do número do telefone deverá ser feito com DDI + DDD + NÚMERO DO TELEFONE
+- há uma particularidade para cadastro dos campos customizados
+    - todos campos criados customizados deverão ficar entre  chaves []    
+    - entre aspas duplas deverão ficar o Nome do Campo seguido de vírgula e o valor do campo também entre aspas duplas
+    - cada campo customizado deverá ser separado por pipe |
+    
+    Como no exemplo abaixo:
+    
+    ["Faturamento","20.000"|"Advogado","Dr. Augusto Martins"|"Secretária","Gabriela Santos"]
+
+
+## Meus contatos - versão 4.xx
+
+
+## Blacklist - versão 3.xx
+
+O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para contatos, é realizado para Inbound e Outbound separadamente.
+
+_Tela de Blacklist_
+
+![Blacklist](/imgs/Blacklist_00.PNG ':class=sombracaixa' )
+
+O cadastro dos telefones para Blacklist pode ser realizado individualmente ou por importação de CSV, em ambos os casos, o formato do telefone importado deverá ser
+realizado de acordo com as regras:
+
+- Inbound
+	- DDD + número do telefone
+- outbound
+	- DDI + DDD + número do telefone
+	
+
+_Tela de Importação individual Outbound_
+
+![Blacklist](/imgs/Black_outbound.PNG ':class=sombracaixa' )
+
+
+- Registrar o número do Telefone e clicar em Salvar
+
+
+_Tela de Importação individual Inbound_
+
+![Blacklist](/imgs/Black_inbound.PNG ':class=sombracaixa' )
+
+
+_Tela de Importação individual Inbound lista flow_
+
+![Blacklist](/imgs/Black_inbound_2.PNG ':class=sombracaixa' )
+
+
+- Selecionar a URA
+- Registrar o número do Telefone e clicar em Salvar
+
+Para importação de telefones por arquivo CSV, o modelo do documento está disponível para download na tela de importação
+
+
+_Tela de Importação CSV Inbound_
+
+![Blacklist](/imgs/Blacklist_csv_inbound.PNG ':class=sombracaixa' )
+
+Note que para importação do arquivo CSV Inbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 1
+
+
+
+_Tela de Importação CSV Outbound_
+
+![Blacklist](/imgs/Blacklist_csv_outbound.PNG ':class=sombracaixa' )
+
+![Blacklist](/imgs/Black_outbound2.PNG ':class=sombracaixa' )
+
+
+Note que para importação do arquivo CSV Outbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 2
+
+## Blacklist - versão 4.xx
+
 
 
 # Canais
