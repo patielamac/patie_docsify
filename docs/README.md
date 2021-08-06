@@ -371,6 +371,41 @@ _Utilização de Pausa_
 
 ## Pausas - versão 4.xx
 
+# Segurança
+
+Módulo onde ..
+
+![Tela Segurança](/imgs/seguranca1.PNG':class=sombracaixa')
+
+
+## Gerenciamento de Perfil
+
+## Usuários
+
+## Takeout
+
+**Takeout - o que é?** É um módulo no Code7 Omni que permite aos usuários, previamente autorizados, a fazer download de todos os arquivos, incluindo fotos, vídeos, áudios e mensagens armazenados na Empresa para utilização em outras plataformas ou armazenamento local.
+
+**Como extrair o documento?** O módulo Takeout está liberado na nova versão 4 do Code7 Omni em Segurança. 
+
+![Tela Segurança](/imgs/seguranca2.PNG':class=sombracaixa')
+
+Clique em Takeout
+
+![Tela Segurança](/imgs/seguranca3.PNG':class=sombracaixa')
+
+Abrirá a Tela com as ações para:
+- Atualizar a tela
+- Gerar Novo takeout
+- Filtro para buscar por Status
+- Cancelar takeout quando estiver sendo gerado
+- Reiniciar takeout quando estiver com status de erro 
+
+ Ao clicar em “Novo Takeout” uma janela com a informação do processo de extração dos dados, clique em “Exportar” 
+
+
+## Grupos de usuário
+
 # Contatos
 ## Meus contatos - versão 3.xx
 
