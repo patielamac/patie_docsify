@@ -15,6 +15,215 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 
 ![Code7 Omni](/imgs/Apresenta.PNG ':class=sombracaixa' )
 
+# Monitoração
+## Atendimento
+## Agentes
+# Dashboards
+## Inbound
+## Outbound
+## Omni View
+## IVR
+## Chats
+## Pesquisa
+
+# Relatórios
+
+## Rastreio de Interações
+
+Relatório que traz a visão de cada atendimento realizado na plataforma com as informações de Data/Hora, qual tipo de mídia, qual usuário,tempo de atendimento e qual foi a finalização do atendimento realizado - por meio da TAG.
+
+_Tela Rastreio Interações_
+
+ ![Rastreio de Interações](/imgs/Rastreio_1.PNG ':class=sombracaixa' )
+ 
+ Para extração do Relatório o campo obrigátorio é o "Mídia" os demais campos são opcionais.
+ 
+ _Tela Filtros de Mídia_
+ 
+ ![Rastreio de Interações](/imgs/Rastreio_2.PNG ':class=sombracaixa' )
+ 
+ Há opção de filtros por Data, usuário, horário, Protocolo, Serviços e demais campos
+ 
+ _Exemplo de outros Filtros_
+ 
+ ![Rastreio de Interações](/imgs/Rastreio_3.PNG ':class=sombracaixa' )
+ 
+ ![Rastreio de Interações](/imgs/Rastreio_4.PNG ':class=sombracaixa' )
+ 
+ A visualização da extração poderá ser feita diretamente na tela do sistema, ou também poderá ser realizado download em CSV para facilitar a análise das informações.
+ 
+  _Tabela de Resultados_
+  
+ ![Rastreio de Interações](/imgs/Rastreio_5.PNG ':class=sombracaixa' )
+ 
+ 
+ 
+ **A tabela a seguir traz a informação dos dados encontrados no Relatório Rastreio de Interações**
+ 
+
+<table class="waffle no-grid" cellspacing="0" cellpadding="0">
+	<thead style="background-color:#B0C4DE">
+		<tr>
+			<th id="0C2" style="width:330px" class="column-headers-background">CAMPO</th>
+			<th id="0C3" style="width:363px" class="column-headers-background">DESCRIÇÃO</th>
+			<th id="0C4" style="width:282px" class="column-headers-background">FORMATO</th>
+			<th id="0C5" style="width:373px" class="column-headers-background">CÁLCULO</th>
+		</tr> 
+	</thead>
+	<tbody>
+			<tr style="height:20px;">
+			<td class="s2" dir="ltr">DATA</td>
+			<td class="s3" dir="ltr">Data do Contato</td>
+			<td class="s4" dir="ltr">aaaa-mm-dd</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">HORA</td>
+			<td class="s3" dir="ltr">Hora do Contato</td>
+			<td class="s4" dir="ltr">hh&#58;mm&#58;ss&#58;ms</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">PROTOCOLO</td>
+			<td class="s3" dir="ltr">Número do protocolo de atendimento</td>
+			<td class="s4" dir="ltr">Número Inteiro</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">SERVIÇOS</td>
+			<td class="s3" dir="ltr">Nome do Serviço em que foi realizado o Atendimento</td>
+			<td class="s4" dir="ltr">Alfanumérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">AGENTE</td>
+			<td class="s3" dir="ltr">Nome do usuário</td>
+			<td class="s4" dir="ltr">Alfanumérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">ORIGEM</td>
+			<td class="s3" dir="ltr">Integração utilizada para realizar o atendimento (ex: Portal, Zendesk, Salesforce)</td>
+			<td class="s4" dir="ltr">Alfanumérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">TIPO (apenas para voz)</td>
+			<td class="s3" dir="ltr">Outbound / Inbound</td>
+			<td class="s4" dir="ltr">Texto</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">PARA (apenas para voz)</td>
+			<td class="s3" dir="ltr">Número/Ramal que recebeu o contato</td>
+			<td class="s4" dir="ltr">Numérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">CONTATO</td>
+			<td class="s3" dir="ltr">Nome do Contato - apenas após tabulação do atendimento estará disponível no relatório</td>
+			<td class="s4" dir="ltr">Alfanumérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">A PARTIR DE</td>
+			<td class="s3" dir="ltr">Número/Ramal que realizou o contato</td>
+			<td class="s4" dir="ltr">Numérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">DURAÇÃO</td>
+			<td class="s3" dir="ltr">Tempo de atendimento</td>
+			<td class="s4" dir="ltr">hh&#58;mm&#58;ss</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">STATUS</td>
+			<td class="s3" dir="ltr">Resultado da chamada - Abandoned/Bad Phone/ Bad Number / Dequeued</td>
+			<td class="s4" dir="ltr">Texto</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">Tag</td>
+			<td class="s3" dir="ltr">Tabulação</td>
+			<td class="s4" dir="ltr">Alfanumérico</td>
+			<td class="s3"/>
+		</tr>
+		<tr style="height:20px;">
+			<td class="s2" dir="ltr">JITTER (apenas para voz)</td>
+			<td class="s3" dir="ltr">Atraso entre pacotes, quanto menor o seu valor melhor a qualidade da chamada.</td>
+			<td class="s4" dir="ltr">Unidade em Milissegundos (MS)</td>
+			<td class="s3" dir="ltr">Alta se for &lt; 70<br>Media se for &gt;= 71 e &lt;= 150<br>Baixa se for &gt;= 151</td>
+				</tr>
+				<tr style="height:20px;">
+					<td class="s2" dir="ltr">PERDA DE PACOTE (apenas para voz)</td>
+					<td class="s3" dir="ltr">Indica se há falta de qualidade na conexão, na perda de pacotes quanto menor o valor melhor a sua qualidade da chamada.</td>
+					<td class="s4" dir="ltr">%</td>
+					<td class="s3" dir="ltr">Alta se for &lt;= 1%<br>Media se for &gt;= 1% e &lt;= 5%<br>Baixa se for &gt; 5%</td>
+						</tr>
+						<tr style="height:20px;">
+							<td class="s2" dir="ltr">QUALIDADE DE CHAMADA (apenas para voz)</td>
+							<td class="s3" dir="ltr">Traz a informação do nível de qualidade da chamda realizada</td>
+							<td class="s4"/>
+							<td class="s3"/>
+						</tr>
+						<tr style="height:20px;">
+							<td class="s2" dir="ltr">Histórico</td>
+							<td class="s3" dir="ltr">Link para visualização do histórico do atendimento realizado</td>
+							<td class="s4" dir="ltr">Texto </td>
+							<td class="s3" dir="ltr">
+								<span style="font-weight:bold;">Alta: </span>
+								<br>    - Jitter menor que 70 + Perda de pacotes menor que 1%<br>
+										<span style="font-weight:bold;">Média: </span>
+										<br>    - Jitter entre 71 e 150 e Perda de pacotes menor que 1%<br>    - Jitter menor que 70 e Perda de pacotes entre 1% e 5%<br>
+													<span style="font-weight:bold;">Baixo: </span>
+													<br>    - Jitter maior ou igual a 151<br>    - Perda de pacotes maior que 5%<br>    - Jitter entre 71 e 150 e Perda de pacotes entre 1% e 5%</td>
+														</tr>
+														<tr style="height:20px;">
+															<td class="s2" dir="ltr">Status - Abandoned</td>
+															<td class="s3" dir="ltr">Desistência do cliente enquanto aguarda na fila</td>
+															<td class="s4" dir="ltr">Texto</td>
+															<td class="s3"/>
+														</tr>
+														<tr style="height:20px;">
+															<td class="s2" dir="ltr">Status - Bad Phone</td>
+															<td class="s3" dir="ltr">Numero indisponivel naquele momento (Ocupado ou não atende)</td>
+															<td class="s4" dir="ltr">Texto</td>
+															<td class="s3"/>
+														</tr>
+														<tr style="height:20px;">
+															<td class="s2" dir="ltr">Status - Bad Number</td>
+															<td class="s3" dir="ltr">Numero inexistente ou com erro</td>
+															<td class="s4" dir="ltr">Texto</td>
+															<td class="s3"/>
+														</tr>
+														<tr style="height:20px;">
+															<td class="s2" dir="ltr">Status - Dequeued</td>
+															<td class="s3" dir="ltr">Desenfileirado, atingiu o tempo limite de espera na fila até ser atendido.</td>
+															<td class="s4" dir="ltr">Texto</td>
+															<td class="s3"/>
+														</tr>
+														<tr style="height:20px;">
+															<td class="s2" dir="ltr">Status - Service Completed</td>
+															<td class="s3" dir="ltr">Atendimento finalizado e tabulado - Atendimento por chat</td>
+															<td class="s4" dir="ltr">Texto</td>
+															<td class="s3"/>
+														</tr>
+														<tr style="height:20px;">
+															<td class="s2" dir="ltr">Status - Service Transfered</td>
+															<td class="s3" dir="ltr">Atendimento transferido - Atendimento por chat</td>
+															<td class="s4" dir="ltr">Texto</td>
+															<td class="s3"/>
+														</tr>
+													</tbody>
+												</table>
+
+
+
+
+## Relatório IVR
+
+
 # Administrativo
 
 ## Empresas
@@ -626,6 +835,71 @@ Abrirá a Tela com as ações para:
 
 ## Grupos de usuário
 
+# Canais
+
+Em Canais são realizados os cadastros de todas as mídias que a empresa terá para atendimento, voz, whatsapp, webchat, e-mail e mercado livre.
+
+_Tela de Canais_
+
+![Canais](/imgs/Canais_1.PNG ':class=sombracaixa' )
+
+## Telefone
+
+O Cadastro e Configuração do telefone para atendimento é realizado de forma prática e bem intuitiva
+Na tela principal, clique no **+** para cadastrar o telefone, preenchendo os campos:
+- Escolha o pais de origem,
+- Escolha o código de área - estarão as opções do número de telefone que poderá utilizar pra seu atendimento,
+- Escolha um nome,
+
+_Tela de cadastro e gerenciamento da rota da ligação, onde é realizado a configuração da fila de atendimento_
+![Canais Telefone](/imgs/Telefone_10.PNG ':class=sombracaixa' )
+
+_Tela de definição do telefone_
+![Canais Telefone](/imgs/Telefone_11.PNG ':class=sombracaixa' )
+
+Após definição do telefone que ficará disponibilizado para receber as ligações, deve-se configurar a fila de atendimento por serviço:
+- Horário de Atendimento - seleção do dia da semana e horários inicial e final do atendimento
+- Mensagem de Boas Vindas
+- Mensagem com Atendimento Fechado
+- Serviços que farão parte do atendimento
+- Mensagem para ligações não atendidas
+
+<h3>Horário de Atendimento</h3>
+
+A configuração dos horários de atendimento poderão ser com Atendimento sempre aberto (24x7) ou poderá ser Configurado os horários por dia da semana de acordo com a necessidade da organização, neste caso, você optará pelo fuso horário e poderá inserir o dia da semana e quais os horários iniciais e finais de cada dia.
+
+_Configuração dos Horários de Atendimento_
+![Canais Telefone](/imgs/Telefone_3.PNG ':class=sombracaixa' )
+
+<h4>Mensagem de Boas Vindas</h4>
+
+Conhecida também como mensagem de saudação, que será enviada assim que o contato for atendido pela URA. Poderá ser cadastrada internamente na plataforma, onde o Texto é escrito, transformado em áudio pelo robô e definido qual voz será utilizada na gravação ou a organização poderá importar um arquivo próprio de áudio .mp3 ou .wav.
+
+_Configuração Mensagem de Boas Vindas_
+![Canais Telefone](/imgs/Telefone_4.PNG ':class=sombracaixa' )
+
+<h3>Mensagem com Atendimento Fechado</h3>
+
+Utilizada quando o contato realiza uma ligação para a URA fora do seu horário de atendimento, então é realizada uma gravação para informar que não estão atendendo no momento. Poderá ser cadastrada internamente na plataforma, onde o Texto é escrito, transformado em áudio pelo robô e definido qual voz será utilizada na gravação ou a organização poderá importar um arquivo próprio de áudio .mp3 ou .wav.
+
+_Configuração Mensagem de Atendimento Fechado_
+![Canais Telefone](/imgs/Telefone_5.PNG ':class=sombracaixa' )
+
+<h3>Cadastro dos Serviços</h3>
+
+A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a critério da organização, de forma que melhor lhe atenda. Clicando no ícone de editar do Menu de Atendimento poderá ser escolhido qual serviço será escolhido e em qual ordem de discagem na URA ele ficará.
+
+<h4>Mensagem para ligações não atendidas</h4>
+
+## Whatsapp
+## Boteria
+## E-mail
+## Mercado Livre
+## Facebook
+## Reclame Aqui
+## Telegram
+
+# Conectores
 
 # Contatos
 ## Meus contatos - versão 3.xx
@@ -747,73 +1021,7 @@ Note que para importação do arquivo CSV Outbound, ligações receptivas, o cam
 
 
 
-# Canais
-
-Em Canais são realizados os cadastros de todas as mídias que a empresa terá para atendimento, voz, whatsapp, webchat, e-mail e mercado livre.
-
-_Tela de Canais_
-
-![Canais](/imgs/Canais_1.PNG ':class=sombracaixa' )
-
-## Telefone
-
-O Cadastro e Configuração do telefone para atendimento é realizado de forma prática e bem intuitiva
-Na tela principal, clique no **+** para cadastrar o telefone, preenchendo os campos:
-- Escolha o pais de origem,
-- Escolha o código de área - estarão as opções do número de telefone que poderá utilizar pra seu atendimento,
-- Escolha um nome,
-
-_Tela de cadastro e gerenciamento da rota da ligação, onde é realizado a configuração da fila de atendimento_
-![Canais Telefone](/imgs/Telefone_10.PNG ':class=sombracaixa' )
-
-_Tela de definição do telefone_
-![Canais Telefone](/imgs/Telefone_11.PNG ':class=sombracaixa' )
-
-Após definição do telefone que ficará disponibilizado para receber as ligações, deve-se configurar a fila de atendimento por serviço:
-- Horário de Atendimento - seleção do dia da semana e horários inicial e final do atendimento
-- Mensagem de Boas Vindas
-- Mensagem com Atendimento Fechado
-- Serviços que farão parte do atendimento
-- Mensagem para ligações não atendidas
-
-<h3>Horário de Atendimento</h3>
-
-A configuração dos horários de atendimento poderão ser com Atendimento sempre aberto (24x7) ou poderá ser Configurado os horários por dia da semana de acordo com a necessidade da organização, neste caso, você optará pelo fuso horário e poderá inserir o dia da semana e quais os horários iniciais e finais de cada dia.
-
-_Configuração dos Horários de Atendimento_
-![Canais Telefone](/imgs/Telefone_3.PNG ':class=sombracaixa' )
-
-<h4>Mensagem de Boas Vindas</h4>
-
-Conhecida também como mensagem de saudação, que será enviada assim que o contato for atendido pela URA. Poderá ser cadastrada internamente na plataforma, onde o Texto é escrito, transformado em áudio pelo robô e definido qual voz será utilizada na gravação ou a organização poderá importar um arquivo próprio de áudio .mp3 ou .wav.
-
-_Configuração Mensagem de Boas Vindas_
-![Canais Telefone](/imgs/Telefone_4.PNG ':class=sombracaixa' )
-
-<h3>Mensagem com Atendimento Fechado</h3>
-
-Utilizada quando o contato realiza uma ligação para a URA fora do seu horário de atendimento, então é realizada uma gravação para informar que não estão atendendo no momento. Poderá ser cadastrada internamente na plataforma, onde o Texto é escrito, transformado em áudio pelo robô e definido qual voz será utilizada na gravação ou a organização poderá importar um arquivo próprio de áudio .mp3 ou .wav.
-
-_Configuração Mensagem de Atendimento Fechado_
-![Canais Telefone](/imgs/Telefone_5.PNG ':class=sombracaixa' )
-
-<h3>Cadastro dos Serviços</h3>
-
-A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a critério da organização, de forma que melhor lhe atenda. Clicando no ícone de editar do Menu de Atendimento poderá ser escolhido qual serviço será escolhido e em qual ordem de discagem na URA ele ficará.
-
-<h4>Mensagem para ligações não atendidas</h4>
-
-## Whatsapp
-## Boteria
-## E-mail
-## Mercado Livre
-## Facebook
-## Reclame Aqui
-## Telegram
-
 # Tela de Atendimento
-# Gerenciamento de Atendimento
-# Visão dos Agentes
 
 # Campanhas
 ## Discador
@@ -1180,205 +1388,6 @@ _Monitoramento_
 
 ![Monitoramento](/imgs/monitoramento_sms_2.PNG ':class=sombracaixa' ) 
 
-
-
-# Relatórios
-
-
-## Rastreio de Interações
-
-Relatório que traz a visão de cada atendimento realizado na plataforma com as informações de Data/Hora, qual tipo de mídia, qual usuário,tempo de atendimento e qual foi a finalização do atendimento realizado - por meio da TAG.
-
-_Tela Rastreio Interações_
-
- ![Rastreio de Interações](/imgs/Rastreio_1.PNG ':class=sombracaixa' )
- 
- Para extração do Relatório o campo obrigátorio é o "Mídia" os demais campos são opcionais.
- 
- _Tela Filtros de Mídia_
- 
- ![Rastreio de Interações](/imgs/Rastreio_2.PNG ':class=sombracaixa' )
- 
- Há opção de filtros por Data, usuário, horário, Protocolo, Serviços e demais campos
- 
- _Exemplo de outros Filtros_
- 
- ![Rastreio de Interações](/imgs/Rastreio_3.PNG ':class=sombracaixa' )
- 
- ![Rastreio de Interações](/imgs/Rastreio_4.PNG ':class=sombracaixa' )
- 
- A visualização da extração poderá ser feita diretamente na tela do sistema, ou também poderá ser realizado download em CSV para facilitar a análise das informações.
- 
-  _Tabela de Resultados_
-  
- ![Rastreio de Interações](/imgs/Rastreio_5.PNG ':class=sombracaixa' )
- 
- 
- 
- **A tabela a seguir traz a informação dos dados encontrados no Relatório Rastreio de Interações**
- 
-
-<table class="waffle no-grid" cellspacing="0" cellpadding="0">
-	<thead style="background-color:#B0C4DE">
-		<tr>
-			<th id="0C2" style="width:330px" class="column-headers-background">CAMPO</th>
-			<th id="0C3" style="width:363px" class="column-headers-background">DESCRIÇÃO</th>
-			<th id="0C4" style="width:282px" class="column-headers-background">FORMATO</th>
-			<th id="0C5" style="width:373px" class="column-headers-background">CÁLCULO</th>
-		</tr> 
-	</thead>
-	<tbody>
-			<tr style="height:20px;">
-			<td class="s2" dir="ltr">DATA</td>
-			<td class="s3" dir="ltr">Data do Contato</td>
-			<td class="s4" dir="ltr">aaaa-mm-dd</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">HORA</td>
-			<td class="s3" dir="ltr">Hora do Contato</td>
-			<td class="s4" dir="ltr">hh&#58;mm&#58;ss&#58;ms</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">PROTOCOLO</td>
-			<td class="s3" dir="ltr">Número do protocolo de atendimento</td>
-			<td class="s4" dir="ltr">Número Inteiro</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">SERVIÇOS</td>
-			<td class="s3" dir="ltr">Nome do Serviço em que foi realizado o Atendimento</td>
-			<td class="s4" dir="ltr">Alfanumérico</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">AGENTE</td>
-			<td class="s3" dir="ltr">Nome do usuário</td>
-			<td class="s4" dir="ltr">Alfanumérico</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">ORIGEM</td>
-			<td class="s3" dir="ltr">Integração utilizada para realizar o atendimento (ex: Portal, Zendesk, Salesforce)</td>
-			<td class="s4" dir="ltr">Alfanumérico</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">TIPO (apenas para voz)</td>
-			<td class="s3" dir="ltr">Outbound / Inbound</td>
-			<td class="s4" dir="ltr">Texto</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">PARA (apenas para voz)</td>
-			<td class="s3" dir="ltr">Número/Ramal que recebeu o contato</td>
-			<td class="s4" dir="ltr">Numérico</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">CONTATO</td>
-			<td class="s3" dir="ltr">Nome do Contato - apenas após tabulação do atendimento estará disponível no relatório</td>
-			<td class="s4" dir="ltr">Alfanumérico</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">A PARTIR DE</td>
-			<td class="s3" dir="ltr">Número/Ramal que realizou o contato</td>
-			<td class="s4" dir="ltr">Numérico</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">DURAÇÃO</td>
-			<td class="s3" dir="ltr">Tempo de atendimento</td>
-			<td class="s4" dir="ltr">hh&#58;mm&#58;ss</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">STATUS</td>
-			<td class="s3" dir="ltr">Resultado da chamada - Abandoned/Bad Phone/ Bad Number / Dequeued</td>
-			<td class="s4" dir="ltr">Texto</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">Tag</td>
-			<td class="s3" dir="ltr">Tabulação</td>
-			<td class="s4" dir="ltr">Alfanumérico</td>
-			<td class="s3"/>
-		</tr>
-		<tr style="height:20px;">
-			<td class="s2" dir="ltr">JITTER (apenas para voz)</td>
-			<td class="s3" dir="ltr">Atraso entre pacotes, quanto menor o seu valor melhor a qualidade da chamada.</td>
-			<td class="s4" dir="ltr">Unidade em Milissegundos (MS)</td>
-			<td class="s3" dir="ltr">Alta se for &lt; 70<br>Media se for &gt;= 71 e &lt;= 150<br>Baixa se for &gt;= 151</td>
-				</tr>
-				<tr style="height:20px;">
-					<td class="s2" dir="ltr">PERDA DE PACOTE (apenas para voz)</td>
-					<td class="s3" dir="ltr">Indica se há falta de qualidade na conexão, na perda de pacotes quanto menor o valor melhor a sua qualidade da chamada.</td>
-					<td class="s4" dir="ltr">%</td>
-					<td class="s3" dir="ltr">Alta se for &lt;= 1%<br>Media se for &gt;= 1% e &lt;= 5%<br>Baixa se for &gt; 5%</td>
-						</tr>
-						<tr style="height:20px;">
-							<td class="s2" dir="ltr">QUALIDADE DE CHAMADA (apenas para voz)</td>
-							<td class="s3" dir="ltr">Traz a informação do nível de qualidade da chamda realizada</td>
-							<td class="s4"/>
-							<td class="s3"/>
-						</tr>
-						<tr style="height:20px;">
-							<td class="s2" dir="ltr">Histórico</td>
-							<td class="s3" dir="ltr">Link para visualização do histórico do atendimento realizado</td>
-							<td class="s4" dir="ltr">Texto </td>
-							<td class="s3" dir="ltr">
-								<span style="font-weight:bold;">Alta: </span>
-								<br>    - Jitter menor que 70 + Perda de pacotes menor que 1%<br>
-										<span style="font-weight:bold;">Média: </span>
-										<br>    - Jitter entre 71 e 150 e Perda de pacotes menor que 1%<br>    - Jitter menor que 70 e Perda de pacotes entre 1% e 5%<br>
-													<span style="font-weight:bold;">Baixo: </span>
-													<br>    - Jitter maior ou igual a 151<br>    - Perda de pacotes maior que 5%<br>    - Jitter entre 71 e 150 e Perda de pacotes entre 1% e 5%</td>
-														</tr>
-														<tr style="height:20px;">
-															<td class="s2" dir="ltr">Status - Abandoned</td>
-															<td class="s3" dir="ltr">Desistência do cliente enquanto aguarda na fila</td>
-															<td class="s4" dir="ltr">Texto</td>
-															<td class="s3"/>
-														</tr>
-														<tr style="height:20px;">
-															<td class="s2" dir="ltr">Status - Bad Phone</td>
-															<td class="s3" dir="ltr">Numero indisponivel naquele momento (Ocupado ou não atende)</td>
-															<td class="s4" dir="ltr">Texto</td>
-															<td class="s3"/>
-														</tr>
-														<tr style="height:20px;">
-															<td class="s2" dir="ltr">Status - Bad Number</td>
-															<td class="s3" dir="ltr">Numero inexistente ou com erro</td>
-															<td class="s4" dir="ltr">Texto</td>
-															<td class="s3"/>
-														</tr>
-														<tr style="height:20px;">
-															<td class="s2" dir="ltr">Status - Dequeued</td>
-															<td class="s3" dir="ltr">Desenfileirado, atingiu o tempo limite de espera na fila até ser atendido.</td>
-															<td class="s4" dir="ltr">Texto</td>
-															<td class="s3"/>
-														</tr>
-														<tr style="height:20px;">
-															<td class="s2" dir="ltr">Status - Service Completed</td>
-															<td class="s3" dir="ltr">Atendimento finalizado e tabulado - Atendimento por chat</td>
-															<td class="s4" dir="ltr">Texto</td>
-															<td class="s3"/>
-														</tr>
-														<tr style="height:20px;">
-															<td class="s2" dir="ltr">Status - Service Transfered</td>
-															<td class="s3" dir="ltr">Atendimento transferido - Atendimento por chat</td>
-															<td class="s4" dir="ltr">Texto</td>
-															<td class="s3"/>
-														</tr>
-													</tbody>
-												</table>
-
-
-
-
-## Relatório IVR
 
 # Exportações
 ## Relatório de Usuários
