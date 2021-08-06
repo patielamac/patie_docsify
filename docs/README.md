@@ -815,12 +815,14 @@ A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a cr
 # Gerenciamento de Atendimento
 # Visão dos Agentes
 
-# Discador
+# Campanhas
+## Discador
 
-A funcionalidade do discador da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, estratégia e campanhas que irão fazer parte da discagem em massa
+A funcionalidade do discador da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, estratégia e campanhas que irão fazer parte da discagem em massa. Podendo ser configurado de acordo com os melhores horários de discagem e lançados ao operador assim que atendidas, otimizando tempo e melhorando o CPC, realizando o aumento do Fluxo de Ligações sendo configurado de forma estratégica para ter a maior assertividade possível nas campanhas.
 
 
-## Grupo de Contatos
+<h2>Grupo de Contatos</h2>
+
 Na Tela de Grupo de Contatos se cria e edita os contatos que receberão as ligações de sua Campanha.
 
 ![Grupo Contatos](/imgs/Grupo_Contatos_Discador.PNG ':class=sombracaixa' )
@@ -860,8 +862,6 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
     - Não há obrigatoriedade de todos os campos estarem preenchidos para importação, com exceção do obrigatório comentado no item 1.
 
 
-
-
 **Edição Grupo de Contatos**
 Na Tela de Edição (somente liberada se o grupo de contato não estiver associado a uma campanha) de grupo de contatos é possível:
     - Importar outro arquivo CSV para um grupo já existente
@@ -878,7 +878,8 @@ A Tela de verificação do grupo de contatos possibilitará a revisita das infor
 
 
 
-## Estratégia
+<h2>Estratégia</h2>
+
 **Criação - Estratégia de Discagem**
 
 Será em Estratégia onde as configurações de modo de discagem serão configuradas, para iniciar as configurações de Estratégia, o seu grupo de contato já deverá estar criado.
@@ -930,7 +931,7 @@ A edição de uma estratégia já criada limita-se em alterações nos campos:
 - Ativar ou Inativar a Estratégia 
 
 
-## Campanha
+<h2>Campanha</h2>
 
 **Criação de uma nova Campanha**
 
@@ -969,7 +970,8 @@ Deverá ser informado:
 
 * A edição das configurações poderá ser realizada desde que não tenha sido iniciado a discagem, para editar campanhas que estejam em discagem é necessário que seja alterado seu Status para Pausa. 
 
-### Monitoramento
+
+<h2>Monitoramento</h2>
 
 A Tela monitoramento é um dashboard tratá todas as informações das campanhas que estão em discagem, onde poderá visualizar as informações em Tempo Real ou Definir um período de tempo filtrando por Campanha. 
 O dash de monitoramento, quando visualizado em tempo real, trará informações como:
@@ -1029,6 +1031,7 @@ O dash de monitoramento, quando visualizado em **tempo real**, trará informaç�
 
 
 ## Broadcast
+
 A funcionalidade da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, campanhas e estratégia de envios com monitoramento para envio de mensagens de whatsapp e SMS em massa.
 
 São pré-requisitos para o envio de *Whatsapp*:
@@ -1178,10 +1181,10 @@ _Monitoramento_
 
 
 
-## Relatórios
+# Relatórios
 
 
-### Rastreio de Interações
+## Rastreio de Interações
 
 Relatório que traz a visão de cada atendimento realizado na plataforma com as informações de Data/Hora, qual tipo de mídia, qual usuário,tempo de atendimento e qual foi a finalização do atendimento realizado - por meio da TAG.
 
@@ -1374,7 +1377,8 @@ _Tela Rastreio Interações_
 
 
 
-### Relatório IVR
+## Relatório IVR
+
 ## Exportações
 **Relatório de Usuários**
 **Relatório de Chamadas**
