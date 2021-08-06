@@ -428,7 +428,7 @@ _Demonstração de criação de Pesquisa Whatsapp e Chat_
 ![Criando Pesquisa](/imgs/cria_pesquisa_chat.gif ':class=sombracaixa' )
 
 
-<h3>Criando Pesquisa Email</h3>
+<h2>Criando Pesquisa Email</h2>
 
 Para criação de Pesquisa de E-mail deve-se notar que, ao ser finalizado o atendimento por email na plataforma, o cliente receberá um e-mail automático de acordo com a  configuração realizada que contém um link que o levará para uma página onde responderá a Pesquisa.
 Atenção no preenchimentos dos campos:
@@ -442,7 +442,7 @@ _Demonstração de criação de Pesquisa Email_
 ![Criando Pesquisa Email](/imgs/cria_pesquisa_email.gif ':class=sombracaixa' )
 
 
-<h3>Monitoração de Pesquisa</h3>
+<h2>Monitoração de Pesquisa</h2>
 
 Por meio do dash de pesquisas será possível monitorar em tempo real ou retroativo os resultados obtidos das pesquisas, por meio dos filtros pode-se delimitar os dados de acordo com a necessidade de pesquisa.
 
@@ -503,7 +503,7 @@ _Demonstração de monitoração de Pesquisa_
 ![Dash Pesquisa](/imgs/dash_pesquisa.gif ':class=sombracaixa' )
 
 
-<h3>Relatório de Pesquisa</h3>
+<h2>Relatório de Pesquisa</h2>
 
 Para os usuários que tem a permissão de gerar relatórios de Pesquisa, basta seguir o caminho:
  - Exportações
@@ -600,11 +600,11 @@ Módulo onde ..
 
 ## Takeout
 
-<h2>Takeout - O que é?</h2>
+<h3>Takeout - O que é?</h3>
 
 É um módulo no Code7 Omni que permite aos usuários, previamente autorizados, a fazer download de todos os arquivos, incluindo fotos, vídeos, áudios e mensagens armazenados na Empresa para utilização em outras plataformas ou armazenamento local.
 
-<h2>Como extrair o documento?</h2>
+<h3>Como extrair o documento?</h3>
 
 O módulo Takeout está liberado na nova versão 4 do Code7 Omni em Segurança. 
 
@@ -625,6 +625,7 @@ Abrirá a Tela com as ações para:
 
 
 ## Grupos de usuário
+
 
 # Contatos
 ## Meus contatos - versão 3.xx
