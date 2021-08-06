@@ -15,12 +15,14 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 
 ![Code7 Omni](/imgs/Apresenta.PNG ':class=sombracaixa' )
 
-# Cadastros
+# Administrativo
+
+## Cadastros
 Todos os cadastros principais da plataforma serão realizados no link do menu lateral - imagem de uma engrenagem.
 
 ![Acesso Cadastros](/imgs/Cadastros_00.PNG ':class=sombracaixa' )
 
-## Usuário - versão 3.xx
+### Usuário - versão 3.xx
 A Tela de usuários traz os usuários já cadastrados na organização e também a possibilidade de criar novo cadastro bem como editar um já existente.
 Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
 
@@ -231,11 +233,11 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 
 
 
-## Usuário - versão 4.xx
+### Usuário - versão 4.xx
 
 
 
-## Serviços - versão 3.xx
+### Serviços - versão 3.xx
 
 Na tela principal de serviços estão disponibilizados os links para cadastro de um novo serviço onde será inserido:
 - Nome
