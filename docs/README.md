@@ -373,8 +373,8 @@ _Utilização de Pausa_
 
 ### Pausas - versão 4.xx
 
-## Contatos
-### Meus contatos - versão 3.xx
+# Contatos
+## Meus contatos - versão 3.xx
 
 Os Contatos podem ser cadastrados individualmente ou por meio de importação de arquivo CSV, temos como único campo obrigatório o Nome do contato.
 
@@ -428,10 +428,10 @@ Notar que:
     ["Faturamento","20.000"|"Advogado","Dr. Augusto Martins"|"Secretária","Gabriela Santos"]
 
 
-### Meus contatos - versão 4.xx
+## Meus contatos - versão 4.xx
 
 
-### Blacklist - versão 3.xx
+## Blacklist - versão 3.xx
 
 O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para contatos, é realizado para Inbound e Outbound separadamente.
 
@@ -489,15 +489,7 @@ _Tela de Importação CSV Outbound_
 
 Note que para importação do arquivo CSV Outbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 2
 
-### Blacklist - versão 4.xx
-
-
-## Pausas - versão 3.xx
-
-
-
-## Pausas - versão 4.xx
-
+## Blacklist - versão 4.xx
 
 # Pesquisa de Satisfação
 
