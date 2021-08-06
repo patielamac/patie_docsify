@@ -18,11 +18,14 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 # Administrativo
 
 ## Cadastros
+
+### Empresas
+### Usuários - versão 3.xx
+
 Todos os cadastros principais da plataforma serão realizados no link do menu lateral - imagem de uma engrenagem.
 
 ![Acesso Cadastros](/imgs/Cadastros_00.PNG ':class=sombracaixa' )
 
-### Usuário - versão 3.xx
 A Tela de usuários traz os usuários já cadastrados na organização e também a possibilidade de criar novo cadastro bem como editar um já existente.
 Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
 
@@ -233,7 +236,7 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 
 
 
-### Usuário - versão 4.xx
+### Usuários - versão 4.xx
 
 
 
@@ -275,9 +278,9 @@ _Links de edição_
 
 ![Cadastro servicos](/imgs/Servicos_4.PNG ':class=sombracaixa' )
 
-## Serviços - versão 4.xx
+### Serviços - versão 4.xx
 
-## Tags - versão 3.xx
+### Tags - versão 3.xx
 
 O cadastro das Tags além da finalização do atendimento traz opções de cadastro para que seja realizado:
 - registro da informação (como foi realizado o atendimento, se houve venda, cancelamento ou novas negociações)
@@ -296,9 +299,82 @@ _Cadastro de nova Tag_
 
 ![Cadastro tag](/imgs/Tag_2.PNG ':class=sombracaixa' )
 
-## Tags - versão 4.xx
+### Tags - versão 4.xx
 
-## Contatos - versão 3.xx
+### Shortcuts - versão 3.xx
+
+Shortcuts são os atalhos que podem ser criados para otimizar o atendimento, estão linkados aos serviços, ou seja, cada shortcut criada deve ser relacionada a um serviço. Assim, quando o usuário estiver em atendimento, poderá utilizar o atalho que trará frases prontas de um determinado assunto. Sendo útil na padronização do atendimento e também para otimizar o tempo do usuário/atendente.
+
+_Tela de Shortcuts_
+
+![Shortcuts](/imgs/short_1.PNG ':class=sombracaixa' )
+
+O **cadastro** de shortcuts é bem simples, basta clicar no "+" no canto inferior direito da tela principal de Shortcuts e liberará uma nova linha para cadastro, após a liberação inserir:
+- prefixo - atalho que será utilizado pelo agente para buscar o texto
+- Texto - a frase que será utilizada
+- Serviço - abrirá a lista de serviços cadastrados na Organização para que seja selecionado qual receberá a Shortcut que está sendo cadastrada
+
+Após preenchimento, clicar no ícone de salvar (símbolo de um disquete). 
+Para editar um texto já criado, basta ir no campo Texto, fazer as alterações necessárias e clicar em salvar.
+
+_Cadastro de nova Shortcuts_
+
+![Shortcuts](/imgs/short_3.PNG ':class=sombracaixa' )
+
+A utilização das shortcuts já cadastradas é realizada na Tela de Atendimento pelo usuário clicando "/" (barra), assim a lista de atalhos disponibilizados para o Serviço em que está em atendimento será liberada para que o atendente utilize em seu atendimento.
+
+_Tela de Atendimento - utilização de Shortcuts_
+
+![Shortcuts](/imgs/short_2.PNG ':class=sombracaixa' )
+
+A exclusão de Shortcuts poderá ser realizada clicando no ícone da "lixeira", então ficará liberado outro ícone de exclusão após clicar ali, seu shortcuts será excluído e não haverá possibilidade de resgatá-lo a não ser recriando-o novamente.
+
+_Exclusão de Shortcuts_
+
+![Shortcuts](/imgs/short_4.PNG ':class=sombracaixa' )
+
+
+### Shortcuts - versão 4.xx
+
+### Pausas - versão 3.xx
+Utilizadas para identificar as paradas dos usuários, o cadastro das Pausas auxilia na gestão da Equipe para mensurar inclusive como indicar de produtividade, pois constará a informação em relatórios de gestão.
+
+_Tela Pausa_
+
+![Pausa](/imgs/Pausa_1.PNG ':class=sombracaixa' )
+
+Seu cadastro é simples, basta clicar no "+" no canto inferior da tela e cadastrar no campo "Motivo da Pausa", 
+
+_Cadastro de Pausa_
+
+![Pausa](/imgs/Pausa_2.PNG ':class=sombracaixa' )
+
+A exclusão é realizada clicando no ícone da "lixeira" 
+
+_Exclusão de Pausa_
+
+![Pausa](/imgs/Pausa_3.PNG ':class=sombracaixa' )
+
+O usuário, quando for entrar em pausa, encontrará a listagem para optar pelo motivo da Pausa que está realizando
+
+_Utilização de Pausa_
+
+![Pausa](/imgs/Pausa_4.PNG ':class=sombracaixa' )
+
+
+_Utilização de Pausa - Tela Visão do Agente_
+
+![Pausa](/imgs/Pausa_5.PNG ':class=sombracaixa' )
+
+_Utilização de Pausa_
+
+![Pausa](/imgs/2020-10-08_15h31_15.gif ':class=sombracaixa' )
+
+
+### Pausas - versão 4.xx
+
+## Contatos
+### Meus contatos - versão 3.xx
 
 Os Contatos podem ser cadastrados individualmente ou por meio de importação de arquivo CSV, temos como único campo obrigatório o Nome do contato.
 
@@ -352,9 +428,11 @@ Notar que:
     ["Faturamento","20.000"|"Advogado","Dr. Augusto Martins"|"Secretária","Gabriela Santos"]
 
 
-## Contatos - versão 4.xx
+### Meus contatos - versão 4.xx
 
-## Blacklist - versão 3.xx
+
+### Blacklist - versão 3.xx
+
 O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para contatos, é realizado para Inbound e Outbound separadamente.
 
 _Tela de Blacklist_
@@ -411,77 +489,11 @@ _Tela de Importação CSV Outbound_
 
 Note que para importação do arquivo CSV Outbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 2
 
-## Blacklist - versão 4.xx
-
-## Shortcuts - versão 3.xx
-
-Shortcuts são os atalhos que podem ser criados para otimizar o atendimento, estão linkados aos serviços, ou seja, cada shortcut criada deve ser relacionada a um serviço. Assim, quando o usuário estiver em atendimento, poderá utilizar o atalho que trará frases prontas de um determinado assunto. Sendo útil na padronização do atendimento e também para otimizar o tempo do usuário/atendente.
-
-_Tela de Shortcuts_
-
-![Shortcuts](/imgs/short_1.PNG ':class=sombracaixa' )
-
-O **cadastro** de shortcuts é bem simples, basta clicar no "+" no canto inferior direito da tela principal de Shortcuts e liberará uma nova linha para cadastro, após a liberação inserir:
-- prefixo - atalho que será utilizado pelo agente para buscar o texto
-- Texto - a frase que será utilizada
-- Serviço - abrirá a lista de serviços cadastrados na Organização para que seja selecionado qual receberá a Shortcut que está sendo cadastrada
-
-Após preenchimento, clicar no ícone de salvar (símbolo de um disquete). 
-Para editar um texto já criado, basta ir no campo Texto, fazer as alterações necessárias e clicar em salvar.
-
-_Cadastro de nova Shortcuts_
-
-![Shortcuts](/imgs/short_3.PNG ':class=sombracaixa' )
-
-A utilização das shortcuts já cadastradas é realizada na Tela de Atendimento pelo usuário clicando "/" (barra), assim a lista de atalhos disponibilizados para o Serviço em que está em atendimento será liberada para que o atendente utilize em seu atendimento.
-
-_Tela de Atendimento - utilização de Shortcuts_
-
-![Shortcuts](/imgs/short_2.PNG ':class=sombracaixa' )
-
-A exclusão de Shortcuts poderá ser realizada clicando no ícone da "lixeira", então ficará liberado outro ícone de exclusão após clicar ali, seu shortcuts será excluído e não haverá possibilidade de resgatá-lo a não ser recriando-o novamente.
-
-_Exclusão de Shortcuts_
-
-![Shortcuts](/imgs/short_4.PNG ':class=sombracaixa' )
-
-## Shortcuts - versão 4.xx
+### Blacklist - versão 4.xx
 
 
 ## Pausas - versão 3.xx
 
-Utilizadas para identificar as paradas dos usuários, o cadastro das Pausas auxilia na gestão da Equipe para mensurar inclusive como indicar de produtividade, pois constará a informação em relatórios de gestão.
-
-_Tela Pausa_
-
-![Pausa](/imgs/Pausa_1.PNG ':class=sombracaixa' )
-
-Seu cadastro é simples, basta clicar no "+" no canto inferior da tela e cadastrar no campo "Motivo da Pausa", 
-
-_Cadastro de Pausa_
-
-![Pausa](/imgs/Pausa_2.PNG ':class=sombracaixa' )
-
-A exclusão é realizada clicando no ícone da "lixeira" 
-
-_Exclusão de Pausa_
-
-![Pausa](/imgs/Pausa_3.PNG ':class=sombracaixa' )
-
-O usuário, quando for entrar em pausa, encontrará a listagem para optar pelo motivo da Pausa que está realizando
-
-_Utilização de Pausa_
-
-![Pausa](/imgs/Pausa_4.PNG ':class=sombracaixa' )
-
-
-_Utilização de Pausa - Tela Visão do Agente_
-
-![Pausa](/imgs/Pausa_5.PNG ':class=sombracaixa' )
-
-_Utilização de Pausa_
-
-![Pausa](/imgs/2020-10-08_15h31_15.gif ':class=sombracaixa' )
 
 
 ## Pausas - versão 4.xx
