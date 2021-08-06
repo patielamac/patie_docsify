@@ -373,12 +373,16 @@ _Utilização de Pausa_
 
 ## Pesquisa de Satisfação
 
-### NPS
+
+<h2>NPS</h2>
+
 O Net Promoter Score (NPS) é uma métrica de lealdade do cliente, com o objetivo de medir o grau de lealdade dos clientes das empresas de qualquer segmento, trazendo reflexos da experiência e satisfação dos clientes. Perguntas adicionais podem ser incluídas para ajudar a compreender a percepção de vários produtos, serviços e linhas de negócios. Estas perguntas adicionais ajudam a empresa a avaliar a importância relativa dessas outras partes do negócio na pontuação geral. Isto é especialmente útil para orientar os recursos e resolver questões que mais impactam o NPS.
 
 O Net Promoter Score tem como proposta inovar a cultura das pesquisas de pós-venda para que elas consigam ter uma visão real dos serviços prestados pela empresa e consequentemente ajudá-la a evoluir e conquistar um patamar de solidez e excelência no mercado. O NPS se garante como importante peça na expansão dos negócios e aumento do retorno de investimento.
 
-### CSAT
+
+<h2>CSAT</h2>
+
 A sigla CSAT remete à Customer Satisfaction Score. Como o próprio nome em inglês já indica, é uma Escala de Satisfação do Cliente. Esse tipo de pesquisa é utilizado para avaliar a imagem que o consumidor tem da marca e leva em conta pontos de interação, como:
 - Atendimento antes, durante e depois da compra;
 - Logística de entrega;
@@ -389,12 +393,9 @@ O CSAT é uma pesquisa de curto prazo, geralmente aplicada por meio de perguntas
 
 A Criação da Pesquisa de Satisfação na plataforma é realizada de forma rápida, objetiva e simples onde o gestor da Organização poderá inserir as perguntas e a variável da pontuação que desejar para cada pergunta. 
 
-
 ![Pesquisa](/imgs/Pesquisa_1.PNG ':class=sombracaixa' )
 
-
-### Criando Pesquisa
-
+<h2>Criando Pesquisa</h2>
 
 ![Criando Pesquisa](/imgs/Pesquisa_2.PNG ':class=sombracaixa' )
 
