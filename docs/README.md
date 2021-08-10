@@ -1058,8 +1058,9 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
  - Clique no ícone de upload escolha seu arquivo CSV e faça a importação.
  - Para baixar o modelo que deverá ser utilizado, clique no “Clique aqui” e faça o download do modelo do arquivo.
 
-**Clique no link abaixo para checar todos os campos do modelo de arquivo para importação dos contatos:** 
-<a href="/imgs/CSV_Discador.pdf" download>Clique aqui </a>
+**Clique no link abaixo para checar todos os campos do modelo de arquivo para importação dos contatos:**
+
+<a href="imgs/CSV_Discador.pdf" download>Clique aqui </a>
  
  ![Importar Grupo Contatos](/imgs/Importar_grupo_contato.PNG ':class=sombracaixa' )
  
