@@ -1068,8 +1068,7 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
 					
 				<tbody>
 					<tr style="height: 20px">
-						<th id="0R0" style="height: 20px;" class="row-headers-background">
-							
+												
 						</th>
 						<td class="s1" dir="ltr">NOME DO CAMPO</td>
 						<td class="s2" dir="ltr">DESCRIÇÃO</td>
@@ -1077,8 +1076,7 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
 						<td class="s2" dir="ltr">TIPO</td>
 					</tr>
 					<tr style="height: 20px">
-						<th id="0R1" style="height: 20px;" class="row-headers-background">
-							
+													
 						</th>
 						<td class="s4" dir="ltr">contact_cpf</td>
 						<td class="s5" dir="ltr">Número do CPF</td>
