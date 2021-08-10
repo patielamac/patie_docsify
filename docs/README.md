@@ -1058,7 +1058,7 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
  - Clique no ícone de upload escolha seu arquivo CSV e faça a importação.
  - Para baixar o modelo que deverá ser utilizado, clique no “Clique aqui” e faça o download do modelo do arquivo.
 
-Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
+**Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:** 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link type="text/css" rel="stylesheet" href="resources/sheet.css">
 		<style type="text/css">.ritz .waffle a { color: inherit; }.ritz .waffle .s6{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:left;color:#000000;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:top;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s1{border-bottom:1px SOLID #000000;background-color:#3d85c6;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s4{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:left;color:#000000;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s7{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#3d85c6;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s2{border-bottom:1px SOLID #000000;background-color:#3d85c6;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s0{border-bottom:1px SOLID #000000;background-color:#3d85c6;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s5{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:left;color:#000000;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s3{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#0b5394;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}</style>
@@ -1069,7 +1069,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 				<tbody>
 					<tr style="height: 20px">
 						<th id="0R0" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">1</div>
+							
 						</th>
 						<td class="s1" dir="ltr">NOME DO CAMPO</td>
 						<td class="s2" dir="ltr">DESCRIÇÃO</td>
@@ -1078,7 +1078,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R1" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">2</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_cpf</td>
 						<td class="s5" dir="ltr">Número do CPF</td>
@@ -1087,7 +1087,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R2" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">3</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_phone</td>
 						<td class="s5" dir="ltr">Telefone do Contato</td>
@@ -1096,7 +1096,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R3" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">4</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_name*</td>
 						<td class="s5" dir="ltr">Nome do Contato</td>
@@ -1105,7 +1105,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R4" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">5</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_email</td>
 						<td class="s5" dir="ltr">e-mail do contato</td>
@@ -1114,7 +1114,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R5" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">6</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_gender</td>
 						<td class="s5" dir="ltr">Gênero do contato</td>
@@ -1123,7 +1123,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R6" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">7</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_birth_date</td>
 						<td class="s5" dir="ltr">Data de Aniversário</td>
@@ -1132,7 +1132,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R7" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">8</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_addres</td>
 						<td class="s5" dir="ltr">Endereço</td>
@@ -1141,7 +1141,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R8" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">9</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_address_number</td>
 						<td class="s5" dir="ltr">Número do endereço</td>
@@ -1150,7 +1150,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R9" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">10</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_address_complement</td>
 						<td class="s5" dir="ltr">Complemento do endereço</td>
@@ -1159,7 +1159,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R10" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">11</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_zipcode</td>
 						<td class="s5" dir="ltr">Código Postal - CEP</td>
@@ -1168,7 +1168,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R11" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">12</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_city</td>
 						<td class="s5" dir="ltr">Cidade</td>
@@ -1177,7 +1177,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R12" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">13</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_state</td>
 						<td class="s5" dir="ltr">Estado</td>
@@ -1186,7 +1186,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R13" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">14</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_country</td>
 						<td class="s5" dir="ltr">País</td>
@@ -1195,7 +1195,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R14" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">15</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_instagram</td>
 						<td class="s5" dir="ltr">Instagram do Contato</td>
@@ -1204,7 +1204,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R15" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">16</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_facebook</td>
 						<td class="s5" dir="ltr">Facebook do Contato</td>
@@ -1213,7 +1213,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R16" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">17</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_twitter</td>
 						<td class="s5" dir="ltr">Twitter do contato</td>
@@ -1222,7 +1222,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R17" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">18</div>
+							
 						</th>
 						<td class="s4" dir="ltr">contact_whatsapp</td>
 						<td class="s5" dir="ltr">Whatsapp do Contato</td>
@@ -1231,7 +1231,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R18" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">19</div>
+							
 						</th>
 						<td class="s4" dir="ltr">razao_social</td>
 						<td class="s5" dir="ltr">Razão Social</td>
@@ -1240,7 +1240,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R19" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">20</div>
+							
 						</th>
 						<td class="s4" dir="ltr">nome_fantasia</td>
 						<td class="s5" dir="ltr">Nome Fantasia</td>
@@ -1249,7 +1249,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R20" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">21</div>
+							
 						</th>
 						<td class="s4" dir="ltr">cnpj</td>
 						<td class="s5" dir="ltr">CNPJ do Contato</td>
@@ -1258,7 +1258,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R21" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">22</div>
+							
 						</th>
 						<td class="s4" dir="ltr">id_externo</td>
 						<td class="s5" dir="ltr">Campo para ser inserido ID externo do contato</td>
@@ -1267,7 +1267,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R22" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">23</div>
+							
 						</th>
 						<td class="s4" dir="ltr">integradors</td>
 						<td class="s5" dir="ltr">Campo Coringa - para informações extras. Seu delimitador é [ ] cada campo deverá ser escirto entre &quot; &quot; aspas e separados por vírgula ,</td>
@@ -1276,7 +1276,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R23" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">24</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_celular</td>
 						<td class="s5" dir="ltr">Telefone para discagem</td>
@@ -1285,7 +1285,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R24" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">25</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_celular_tipo</td>
 						<td class="s5" dir="ltr">Tipo do Telefone</td>
@@ -1294,7 +1294,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R25" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">26</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_celular_ddi</td>
 						<td class="s5" dir="ltr">DDI código Discagem Direta Internacional</td>
@@ -1303,7 +1303,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R26" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">27</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_celular_ddd</td>
 						<td class="s5" dir="ltr">DDD código Discagem Direta à Distância</td>
@@ -1312,7 +1312,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R27" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">28</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_trabalho</td>
 						<td class="s5" dir="ltr">Telefone para discagem</td>
@@ -1321,7 +1321,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R28" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">29</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_trabalho_tipo</td>
 						<td class="s5" dir="ltr">Tipo do Telefone</td>
@@ -1330,7 +1330,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R29" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">30</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_trabalho_ddi</td>
 						<td class="s5" dir="ltr">DDI código Discagem Direta Internacional</td>
@@ -1339,7 +1339,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R30" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">31</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_trabalho_ddd</td>
 						<td class="s5" dir="ltr">DDD código Discagem Direta à Distância</td>
@@ -1348,7 +1348,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R31" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">32</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_contato</td>
 						<td class="s5" dir="ltr">Telefone para discagem</td>
@@ -1357,7 +1357,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R32" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">33</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_contato_tipo</td>
 						<td class="s5" dir="ltr">Tipo do Telefone</td>
@@ -1366,7 +1366,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R33" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">34</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_contato_ddi</td>
 						<td class="s5" dir="ltr">DDI código Discagem Direta Internacional</td>
@@ -1375,7 +1375,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R34" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">35</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_contato_ddd</td>
 						<td class="s5" dir="ltr">DDD código Discagem Direta à Distância</td>
@@ -1384,7 +1384,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R35" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">36</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_recado</td>
 						<td class="s5" dir="ltr">Telefone para discagem</td>
@@ -1393,7 +1393,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R36" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">37</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_recado_tipo</td>
 						<td class="s5" dir="ltr">Tipo do Telefone</td>
@@ -1402,7 +1402,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R37" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">38</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_recado_ddi</td>
 						<td class="s5" dir="ltr">DDI código Discagem Direta Internacional</td>
@@ -1411,7 +1411,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R38" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">39</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_recado_ddd</td>
 						<td class="s5" dir="ltr">DDD código Discagem Direta à Distância</td>
@@ -1420,7 +1420,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R39" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">40</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_comercial</td>
 						<td class="s5" dir="ltr">Telefone para discagem</td>
@@ -1429,7 +1429,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R40" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">41</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_comercial_tipo</td>
 						<td class="s5" dir="ltr">Tipo do Telefone</td>
@@ -1438,7 +1438,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R41" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">42</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_comercial_ddi</td>
 						<td class="s5" dir="ltr">DDI código Discagem Direta Internacional</td>
@@ -1447,7 +1447,7 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 					</tr>
 					<tr style="height: 20px">
 						<th id="0R42" style="height: 20px;" class="row-headers-background">
-							<div class="row-header-wrapper" style="line-height: 20px">43</div>
+							
 						</th>
 						<td class="s4" dir="ltr">fone_comercial_ddd</td>
 						<td class="s5" dir="ltr">DDD código Discagem Direta à Distância</td>
