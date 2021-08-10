@@ -1059,21 +1059,10 @@ Para criação de um Grupo de contato, deverá ser importado um arquivo CSV resp
  - Para baixar o modelo que deverá ser utilizado, clique no “Clique aqui” e faça o download do modelo do arquivo.
 
 Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<link type="text/css" rel="stylesheet" href="resources/sheet.css">
-		<style type="text/css">.ritz .waffle a { color: inherit; }.ritz .waffle .s6{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:left;color:#000000;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:top;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s1{border-bottom:1px SOLID #000000;background-color:#3d85c6;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s4{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:left;color:#000000;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s7{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#3d85c6;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s2{border-bottom:1px SOLID #000000;background-color:#3d85c6;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s0{border-bottom:1px SOLID #000000;background-color:#3d85c6;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s5{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:left;color:#000000;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s3{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#0b5394;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Montserrat',Arial;font-size:11pt;vertical-align:middle;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}</style>
-		<div class="ritz grid-container" dir="ltr">
-			<table class="waffle no-grid" cellspacing="0" cellpadding="0">
-				<thead>
-					<tr>
-						<th class="row-header freezebar-origin-ltr"/>
-						<th id="0C0" style="width:100px;" class="column-headers-background">A</th>
-						<th id="0C1" style="width:249px;" class="column-headers-background">B</th>
-						<th id="0C2" style="width:254px;" class="column-headers-background">C</th>
-						<th id="0C3" style="width:297px;" class="column-headers-background">D</th>
-						<th id="0C4" style="width:269px;" class="column-headers-background">E</th>
-					</tr>
-				</thead>
+
+<table class="waffle no-grid" cellspacing="0" cellpadding="0">
+	<thead style="background-color:#B0C4DE">
+					
 				<tbody>
 					<tr style="height: 20px">
 						<th id="0R0" style="height: 20px;" class="row-headers-background">
