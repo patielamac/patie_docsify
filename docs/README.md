@@ -1071,7 +1071,6 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 						<th id="0R0" style="height: 20px;" class="row-headers-background">
 							<div class="row-header-wrapper" style="line-height: 20px">1</div>
 						</th>
-						<td class="s0"/>
 						<td class="s1" dir="ltr">NOME DO CAMPO</td>
 						<td class="s2" dir="ltr">DESCRIÇÃO</td>
 						<td class="s2" dir="ltr">FORMATO</td>
@@ -1081,7 +1080,6 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 						<th id="0R1" style="height: 20px;" class="row-headers-background">
 							<div class="row-header-wrapper" style="line-height: 20px">2</div>
 						</th>
-						<td class="s3" dir="ltr" rowspan="22">INFORMAÇÕES DO CONTATO</td>
 						<td class="s4" dir="ltr">contact_cpf</td>
 						<td class="s5" dir="ltr">Número do CPF</td>
 						<td class="s5"/>
@@ -1280,7 +1278,6 @@ Abaixo veja todos os campos do modelo de arquivo para importação dos contatos:
 						<th id="0R23" style="height: 20px;" class="row-headers-background">
 							<div class="row-header-wrapper" style="line-height: 20px">24</div>
 						</th>
-						<td class="s7" dir="ltr" rowspan="20">INFORMAÇÕES QUE SERÃO UTILIZADAS PELO DISCADOR</td>
 						<td class="s4" dir="ltr">fone_celular</td>
 						<td class="s5" dir="ltr">Telefone para discagem</td>
 						<td class="s5" dir="ltr">DDI+DDD+TELEFONE</td>
