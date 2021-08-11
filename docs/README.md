@@ -16,8 +16,37 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 ![Code7 Omni](/imgs/Apresenta.PNG ':class=sombracaixa' )
 
 # Monitoração
+
+O Módulo de monitoração do Code7 Omni traz de forma prática o acompanhamento e gestão dos atendimentos em tempo real.
+
+![Monitoração](/imgs/monitoracao1.PNG ':class=sombracaixa' )
+
 ## Atendimento
+
+
+O monitoramento na tela de Atendimento é realizado com o acompanhamento dos atendimentos de todas as mídias de texto, trazendo os atendimentos que estão:
+
+![Atendimento Filtros](/imgs/atendimento1.PNG ':class=sombracaixa' )
+
+- Na fila - trata-se de atendimentos que ainda não foram direcionados para um usuário iniciar o atendimento, está aguardando distribuição.
+
+- Em antendimento - traz todos os atendimentos que estão sendo realizados, ou seja, ainda em andamento. Apresentam-se em duas visões, por cards de usuário ou na fila de atendimento por ordem de chegada.
+
+Versão Code7 Omni 4.XX
+![Atendimento 4.XX](/imgs/atendimento_new1.gif ':class=sombracaixa' )
+
+Versão Code7 Omni 3.XX
+![Atendimento 3.XX](/imgs/atendimento_old1.PNG ':class=sombracaixa' )
+
+- Agendamentos - traz a listagem dos atendimentos que foram programados um agendamento, para mídias que há agendamento disponibilizado.
+
+![Agendamento 3.XX](/imgs/agendamento1.png ':class=sombracaixa' )
+
+
+
+
 ## Agentes
+
 # Dashboards
 ## Inbound
 ## Outbound
