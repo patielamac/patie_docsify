@@ -71,7 +71,7 @@ Durante a chamada, o gestor poderá auxiliar o agente/usuário ou monitorá-lo p
 
 ![Botoes 3.xx](/imgs/botoes_v3.PNG ':class=sombracaixa' )
 
-** Botões de ações na versão 4.xx**
+**Botões de ações na versão 4.xx**
 
 ![Botoes 4.xx](/imgs/botoes_v4.PNG ':class=sombracaixa' )
 
