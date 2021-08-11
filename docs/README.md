@@ -28,24 +28,45 @@ O monitoramento na tela de Atendimento é realizado com o acompanhamento dos ate
 
 ![Atendimento Filtros](/imgs/atendimento1.PNG ':class=sombracaixa' )
 
-- Na fila - trata-se de atendimentos que ainda não foram direcionados para um usuário iniciar o atendimento, está aguardando distribuição.
+- **Na fila** - trata-se de atendimentos que ainda não foram direcionados para um usuário iniciar o atendimento, está aguardando distribuição.
 
-- Em antendimento - traz todos os atendimentos que estão sendo realizados, ou seja, ainda em andamento. Apresentam-se em duas visões, por cards de usuário ou na fila de atendimento por ordem de chegada.
+- **Em antendimento** - traz todos os atendimentos que estão sendo realizados, ou seja, ainda em andamento. Apresentam-se em duas visões, por cards de usuário ou na fila de atendimento por ordem de chegada.
 
-Versão Code7 Omni 4.XX
+**Atendimento - Versão Code7 Omni 4.XX**
 ![Atendimento 4.XX](/imgs/atendimento_new1.gif ':class=sombracaixa' )
 
-Versão Code7 Omni 3.XX
+**Atendimento - Versão Code7 Omni 3.XX**
 ![Atendimento 3.XX](/imgs/atendimento_old1.PNG ':class=sombracaixa' )
 
-- Agendamentos - traz a listagem dos atendimentos que foram programados um agendamento, para mídias que há agendamento disponibilizado.
+- **Agendamentos** - traz a listagem dos atendimentos que foram programados um agendamento, para mídias que há agendamento disponibilizado.
 
 ![Rastreio de Interações](/imgs/agendamento1.png ':class=sombracaixa' )
 
 
-
-
 ## Agentes
+
+A tela de Visão dos Agentes traz as informações de status e login dos usuários de acordo com os logins do softphone, exclusivamente. Empresas que não possuem atendimento de voz não terão visão nesta tela.
+
+**Visão do Agente - Versão Code7 Omni 4.XX**
+![Agentes 4.xx](/imgs/visao_agente_v4.PNG ':class=sombracaixa' )
+
+**Visão do Agente - Versão Code7 Omni 3.XX**
+![Agentes 3.xx](/imgs/visao_agente_v3.PNG ':class=sombracaixa' )
+
+Apresenta os campos:
+- Disponível - são os agentes/usuários que se encontrarm liberados para receber novos atendimentos, são dispostos em fila de acordo com o tempo em que estão ociosos.
+- Em chamada - são os agentes/usuários que estão em atendimento
+- Em pausa - são os agentes/usuários que estão em pausa
+- Offline - são os agentes/usuários que se encontram descontectados do sistema
+
+A Tela dipõe de filtros para facilitar a visão do gestor onde poderá buscar por serviço, agente ou tag do usuário.
+
+**Visão do Agente Filtros - Versão Code7 Omni 4.XX**
+
+![Agentes 3.xx](/imgs/visao_agente_new1.gif ':class=sombracaixa' )
+
+
+
 
 # Dashboards
 ## Inbound
