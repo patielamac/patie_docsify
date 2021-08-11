@@ -65,7 +65,8 @@ A Tela dipõe de filtros para facilitar a visão do gestor onde poderá buscar p
 
 ![Agentes 3.xx](/imgs/visao_agente_new1.gif ':class=sombracaixa' )
 
-**Monitoramento de Ligações**
+<h3>Monitoramento de Ligações</h3>
+
 Durante a chamada, o gestor poderá auxiliar o agente/usuário ou monitorá-lo para futuros feedbacks, veja na imagem abaixo a descrição das ações
 
 ![Botoes 3.xx](/imgs/botoes_v3.PNG ':class=sombracaixa' )
