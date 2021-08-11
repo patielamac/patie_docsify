@@ -67,14 +67,60 @@ A Tela dipõe de filtros para facilitar a visão do gestor onde poderá buscar p
 
 
 
-
 # Dashboards
+Um dashboard é um painel visual que apresenta, de maneira centralizada, um conjunto informações: indicadores e suas métricas. Sendo um recurso que auxilia na tomada de decisões. Dashboards podem apresentar a saúde da empresa em uma única tela para o gestor ou compartilhados com toda a sua equipe. Dessa maneira, por meio do dashboard, o gestor terá uma noção global dos processos do seu negócio, podendo visualizar também, de forma dinâmica e objetiva, dados referentes a projetos específicos e campanhas.
+
 ## Inbound
+Este Dashboard traz informações sobre as chamadas recebidas pela operação (inbound), como: métricas de tempo de atendimento; quantitativo de chamadas recebidas, atendidas e abandonadas; gráficos para acompanhamento e análise das chamadas, entre outras. 
+
+
+
+
+
+Na sua parte superior, há algumas opções de filtros e visões de dados 
+
+**Filtros:**
+ - **Serviço:** combo para filtrar os dados por serviço (fila).Ao selecionar a opção "Serviço", serão exibidos dados de todas as filas da operação.
+ - **Usuário:** combo para filtrar os dados por usuário (agente). Ao selecionar a opção "Usuário", serão exibidos dados de todos os agentes da operação ou da fila escolhida.
+ - **Tag de Usuário:** combo para filtrar os dados por grupos de usuários previamente cadastrados nas Tags de usuários.
+ - **Data Inicial e final:** define-se o período de datas que será apresentado no dash
+
+**Visões:**
+- Hoje: ao clicar nesta opção, serão exibidos apenas os dados de ligações recebidas no dia de hoje;
+- Semanal: ao clicar nesta opção, os dados serão exibidos na visão semanal; 
+- Mensal: ao clicar nesta opção, os dados serão exibidos na visão mensal;
+- Anual: ao clicar nesta opção, os dados serão exibidos na visão anual. 
+
+**Conceitos dos painéis e métricas presentes no Dashboard IVR:**
+- SLA: nível de serviço da operação ou fila. O SLA é estabelecido pela gestão nas configurações da Plataforma, indica o percentual de ligações que devem ser atendidas em um determinado tempo.
+- Distribuição: distribuição das chamadas recebidas, de acordo com os serviços (filas) configurados.
+- AHT: Average handling Time (AHT) representa o TMA da operação ou fila.
+- ASA: velocidade média de resposta da operação ou fila.
+- Chamadas Recebidas: volume total de chamadas recebidas no período.
+- Chamadas Atendidas: quantidade de chamadas que foram efetivamente atendidas no período.
+- Chamadas Abandonadas: quantidade de chamadas que foram desconectadas antes de chegar ao atendente.
+- Chamadas Não Conectadas: quantidade de chamadas que foram desconectadas, pois estouraram o tempo limite de fila.
+- Disponíveis: quantidade de agentes disponíveis para receber chamadas no momento.
+- Em Chamada: quantidade de agentes em atendimento receptivo no momento (apenas chamadas de voz).
+- Pausados: quantidade de agentes em pausa no momento.
+- Offline: quantidade de agentes deslogados em pausa no momento.
+- Chamadas e SLA: este gráfico mostra a distribuição das chamadas recebidas e do SLA no período.
+- Recebidas Vs Atendidas: este gráfico mostra a distribuição das chamadas recebidas e atendidas no período. 
+
+
+
+**Importante destacar que ao clicar sobre o nome do indicador ao lado da sua legenda, é possível ocultar a exibição dos dados relacionados a ele, no gráfico.**
+
 ## Outbound
+
 ## Omni View
+
 ## IVR
+
 ## Chats
+
 ## Pesquisa
+
 
 # Relatórios
 
