@@ -74,6 +74,7 @@ Um dashboard é um painel visual que apresenta, de maneira centralizada, um conj
 Este Dashboard traz informações sobre as chamadas recebidas pela operação (inbound), como: métricas de tempo de atendimento; quantitativo de chamadas recebidas, atendidas e abandonadas; gráficos para acompanhamento e análise das chamadas, entre outras. 
 
 
+![Inbound 3.xx](/imgs/inbound_v3.PNG ':class=sombracaixa' )
 
 
 
@@ -91,6 +92,9 @@ Na sua parte superior, há algumas opções de filtros e visões de dados
 - Mensal: ao clicar nesta opção, os dados serão exibidos na visão mensal;
 - Anual: ao clicar nesta opção, os dados serão exibidos na visão anual. 
 
+![Inbound V4.xx](/imgs/inbound_v4.gif ':class=sombracaixa' )
+
+
 **Conceitos dos painéis e métricas presentes no Dashboard IVR:**
 - SLA: nível de serviço da operação ou fila. O SLA é estabelecido pela gestão nas configurações da Plataforma, indica o percentual de ligações que devem ser atendidas em um determinado tempo.
 - Distribuição: distribuição das chamadas recebidas, de acordo com os serviços (filas) configurados.
@@ -107,7 +111,7 @@ Na sua parte superior, há algumas opções de filtros e visões de dados
 - Chamadas e SLA: este gráfico mostra a distribuição das chamadas recebidas e do SLA no período.
 - Recebidas Vs Atendidas: este gráfico mostra a distribuição das chamadas recebidas e atendidas no período. 
 
-
+![Inbound V3.xx](/imgs/inbound_v3_inferior.PNG ':class=sombracaixa' )
 
 **Importante destacar que ao clicar sobre o nome do indicador ao lado da sua legenda, é possível ocultar a exibição dos dados relacionados a ele, no gráfico.**
 
