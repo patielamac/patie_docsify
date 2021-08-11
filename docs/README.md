@@ -40,7 +40,7 @@ Versão Code7 Omni 3.XX
 
 - Agendamentos - traz a listagem dos atendimentos que foram programados um agendamento, para mídias que há agendamento disponibilizado.
 
-![Agendamento 3.XX](/imgs/agendamento1.png ':class=sombracaixa' )
+![Rastreio de Interações](/imgs/agendamento1.png ':class=sombracaixa' )
 
 
 
