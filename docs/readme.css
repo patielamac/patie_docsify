@@ -2,7 +2,6 @@
     box-shadow: 5px 5px 10px #696969;
 }
 
-h1
-{
+h1.anchor span {
     color: #836fff !important;
 }
