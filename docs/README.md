@@ -15,7 +15,7 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 
 ![Code7 Omni](/imgs/Apresenta.PNG ':class=sombracaixa' )
 
-<hr color="#836FFF" size = 10 width = 70% align = right noshade>
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
 # Monitoração
 
