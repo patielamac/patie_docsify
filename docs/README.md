@@ -135,9 +135,9 @@ Na sua parte superior, há algumas opções de filtros e visões de dados
 
 Traz informações sobre as chamadas ativas da operação (outbound), como: tempo de atendimento; quantitativo de chamadas discadas, atendidas e não conectadas, entre outras.
 
-![Inbound V3.xx](/imgs/outbound_v3_inferior.PNG ':class=sombracaixa' )
+![Outbound](/imgs/outbound_1.PNG ':class=sombracaixa' )
 
-Na sua parte superior, há algumas opções de filtros e visões de dados, as quais estão destacadas em azul na imagem acima.  
+Na sua parte superior, há algumas opções de filtros e visões de dados e datas.  
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Omni View
