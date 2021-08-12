@@ -108,20 +108,21 @@ Na sua parte superior, há algumas opções de filtros e visões de dados
 
 
 <h3>Conceitos dos painéis e métricas presentes no Dashboard IVR:</h3>
+
 - **SLA:** nível de serviço da operação ou fila. O SLA é estabelecido pela gestão nas configurações da Plataforma, indica o percentual de ligações que devem ser atendidas em um determinado tempo.
-- **Distribuição:** distribuição das chamadas recebidas, de acordo com os serviços (filas) configurados.
-- **AHT:** Average handling Time (AHT) representa o TMA da operação ou fila.
-- **ASA:** velocidade média de resposta da operação ou fila.
-- **Chamadas Recebidas:** volume total de chamadas recebidas no período.
-- **Chamadas Atendidas:** quantidade de chamadas que foram efetivamente atendidas no período.
-- **Chamadas Abandonadas:** quantidade de chamadas que foram desconectadas antes de chegar ao atendente.
-- **Chamadas Não Conectadas:** quantidade de chamadas que foram desconectadas, pois estouraram o tempo limite de fila.
-- **Disponíveis:** quantidade de agentes disponíveis para receber chamadas no momento.
-- **Em Chamada:** quantidade de agentes em atendimento receptivo no momento (apenas chamadas de voz).
-- **Pausados:** quantidade de agentes em pausa no momento.
-- **Offline:** quantidade de agentes deslogados em pausa no momento.
-- **Chamadas e SLA:** este gráfico mostra a distribuição das chamadas recebidas e do SLA no período.
-- **Recebidas Vs Atendidas:** este gráfico mostra a distribuição das chamadas recebidas e atendidas no período. 
+- **Distribuição:** distribuição das chamadas recebidas, de acordo com os serviços (filas) configurados
+- **AHT:** Average handling Time (AHT) representa o TMA da operação ou fila
+- **ASA:** velocidade média de resposta da operação ou fila
+- **Chamadas Recebidas:** volume total de chamadas recebidas no período
+- **Chamadas Atendidas:** quantidade de chamadas que foram efetivamente atendidas no período
+- **Chamadas Abandonadas:** quantidade de chamadas que foram desconectadas antes de chegar ao atendente
+- **Chamadas Não Conectadas:** quantidade de chamadas que foram desconectadas, pois estouraram o tempo limite de fila
+- **Disponíveis:** quantidade de agentes disponíveis para receber chamadas no momento
+- **Em Chamada:** quantidade de agentes em atendimento receptivo no momento (apenas chamadas de voz)
+- **Pausados:** quantidade de agentes em pausa no momento
+- **Offline:** quantidade de agentes deslogados em pausa no momento
+- **Chamadas e SLA:** este gráfico mostra a distribuição das chamadas recebidas e do SLA no período
+- **Recebidas Vs Atendidas:** este gráfico mostra a distribuição das chamadas recebidas e atendidas no período
 
 ![Inbound V3.xx](/imgs/inbound_v3_inferior.PNG ':class=sombracaixa' )
 
