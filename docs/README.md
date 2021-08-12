@@ -15,9 +15,11 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 
 ![Code7 Omni](/imgs/Apresenta.PNG ':class=sombracaixa' )
 
+<hr width = 30% align = right noshade>
+
 # Monitoração
 
-O Módulo de monitoração do Code7 Omni traz de forma prática o acompanhamento e gestão dos atendimentos em tempo real.
+O Módulo de monitoramento do Code7 Omni traz de forma prática o acompanhamento e gestão dos atendimentos em tempo real.
 
 ![Monitoração](/imgs/monitoracao1.PNG ':class=sombracaixa' )
 
