@@ -77,7 +77,7 @@ Durante a chamada, o gestor poderá auxiliar o agente/usuário ou monitorá-lo p
 
 ![Botoes 4.xx](/imgs/botoes_v4.PNG ':class=sombracaixa' )
 
-
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
 # Dashboards
 Um dashboard é um painel visual que apresenta, de maneira centralizada, um conjunto informações: indicadores e suas métricas. Sendo um recurso que auxilia na tomada de decisões. Dashboards podem apresentar a saúde da empresa em uma única tela para o gestor ou compartilhados com toda a sua equipe. Dessa maneira, por meio do dashboard, o gestor terá uma noção global dos processos do seu negócio, podendo visualizar também, de forma dinâmica e objetiva, dados referentes a projetos específicos e campanhas.
@@ -137,6 +137,7 @@ Na sua parte superior, há algumas opções de filtros e visões de dados
 
 ## Pesquisa
 
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
 # Relatórios
 
@@ -335,6 +336,7 @@ _Tela Rastreio Interações_
 
 ## Relatório IVR
 
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
 # Administrativo
 
@@ -692,6 +694,8 @@ _Utilização de Pausa_
 
 ## Pausas - versão 4.xx
 
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
+
 ## Pesquisa de Satisfação
 
 
@@ -908,6 +912,8 @@ As últimas colunas do relatório terão como título o nome da Alias(título da
 ![Relatório Pesquisa](/imgs/Pesquisa_6.PNG ':class=sombracaixa' )
 
 
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
+
 # Segurança
 
 Módulo onde ..
@@ -946,6 +952,8 @@ Abrirá a Tela com as ações para:
 
 
 ## Grupos de usuário
+
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
 # Canais
 
@@ -1012,6 +1020,8 @@ A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a cr
 ## Telegram
 
 # Conectores
+
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
 # Contatos
 ## Meus contatos - versão 3.xx
@@ -1131,9 +1141,12 @@ Note que para importação do arquivo CSV Outbound, ligações receptivas, o cam
 
 ## Blacklist - versão 4.xx
 
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
 
 # Tela de Atendimento
+
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
 # Campanhas
 ## Discador
@@ -1504,6 +1517,7 @@ _Monitoramento_
 
 ![Monitoramento](/imgs/monitoramento_sms_2.PNG ':class=sombracaixa' ) 
 
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
 # Exportações
 ## Relatório de Usuários
@@ -1524,7 +1538,6 @@ _Monitoramento_
 ### Admin SMS Analítico
 ### Admin Boteria
 ### Admin Email
-
 ### Admin Reclame Aqui
 ### Admin Telegram
 
