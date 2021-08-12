@@ -94,15 +94,16 @@ Na sua parte superior, há algumas opções de filtros e visões de dados
 
 **Filtros:**
  - **Serviço:** combo para filtrar os dados por serviço (fila).Ao selecionar a opção "Serviço", serão exibidos dados de todas as filas da operação.
- - **Usuário:** combo para filtrar os dados por usuário (agente). Ao selecionar a opção "Usuário", serão exibidos dados de todos os agentes da operação ou da fila escolhida.
+ - **Agente:** combo para filtrar os dados por usuário (agente). Ao selecionar a opção "Usuário", serão exibidos dados de todos os agentes da operação ou da fila escolhida.
  - **Tag de Usuário:** combo para filtrar os dados por grupos de usuários previamente cadastrados nas Tags de usuários.
  - **Data Inicial e final:** define-se o período de datas que será apresentado no dash
 
 **Visões:**
-- Hoje: ao clicar nesta opção, serão exibidos apenas os dados de ligações recebidas no dia de hoje;
-- Semanal: ao clicar nesta opção, os dados serão exibidos na visão semanal; 
-- Mensal: ao clicar nesta opção, os dados serão exibidos na visão mensal;
-- Anual: ao clicar nesta opção, os dados serão exibidos na visão anual. 
+- **Hora:** ao clicar nesta opção, serão exibidos apenas os dados de ligações recebidas no dia de hoje por hora;
+- **Dia:** ao clicar nesta opção, serão exibidos apenas os dados de ligações recebidas no dia;
+- **Semana:** ao clicar nesta opção, os dados serão exibidos na visão semanal; 
+- **Mês:** ao clicar nesta opção, os dados serão exibidos na visão mensal;
+
 
 ![Inbound V4.xx](/imgs/inbound_v4.gif ':class=sombracaixa' )
 
@@ -137,7 +138,34 @@ Traz informações sobre as chamadas ativas da operação (outbound), como: temp
 
 ![Outbound](/imgs/outbound_1.PNG ':class=sombracaixa' )
 
-Na sua parte superior, há algumas opções de filtros e visões de dados e datas.  
+Na sua parte superior, há algumas opções de filtros e visões de dados e datas.
+
+**Filtros**
+- **Serviço:** combo para filtrar os dados por serviço (fila).Ao selecionar a opção "Serviço", serão exibidos dados de todas as filas da operação
+- **Agente:** combo para filtrar os dados por usuário (agente). Ao selecionar a opção "Usuário", serão exibidos dados de todos os agentes da operação ou da fila escolhida
+- **Tag de Usuário:** combo para filtrar os dados por grupos de usuários previamente cadastrados nas Tags de usuários
+- **Data Inicial e final:** define-se o período de datas que será apresentado no dash
+
+**Visões**
+- **Hora:** ao clicar nesta opção, serão exibidos apenas os dados de ligações recebidas no dia de hoje por hora;
+- **Dia:** ao clicar nesta opção, serão exibidos apenas os dados de ligações recebidas no dia;
+- **Semana:** ao clicar nesta opção, os dados serão exibidos na visão semanal; 
+- **Mês:** ao clicar nesta opção, os dados serão exibidos na visão mensal;
+
+![Outbound](/imgs/outbound_1.gif ':class=sombracaixa' )
+
+<h3>Conceitos dos painéis e métricas presentes neste Dashboard:</h3> 
+
+- **Chamadas Discadas:** volume total de chamadas realizadas no período
+- **Chamadas Atendidas:** quantidade de chamadas atendidas pelos clientes no período
+- **Chamadas Não Conectadas:** quantidade de chamadas não atendidas pelos clientes no período. Por exemplo: caixa postal
+- **AHT:** tempo médio de atendimento das chamadas ativas (de saída)
+- **Disponíveis:** quantidade de agentes disponíveis para atender chamadas no momento
+- **Em Chamada:** quantidade de agentes em atendimento ativo no momento (apenas chamadas de voz)
+- **Pausados:** quantidade de agentes em pausa no momento
+- **Offline:** quantidade de agentes deslogados em pausa no momento
+- **Discadas e Atendidas:** este gráfico mostra a distribuição das chamadas discadas pelo agente e atendidas pelo cliente no período. Além disso, apresenta a porcentagem de sucesso das chamadas na telefonia (% Connect), ou seja, o percentual de ligações discadas que foram completadas, pois não houve problema de conexão. 
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Omni View
