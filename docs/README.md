@@ -128,7 +128,7 @@ Na sua parte superior, há algumas opções de filtros e visões de dados
 **Importante destacar que ao clicar sobre o nome do indicador ao lado da sua legenda, é possível ocultar a exibição dos dados relacionados a ele, no gráfico.**
 
 
-<hr color="#836FFF" size = 2 width = 70% align = right noshade>
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
 ## Outbound
 
@@ -138,13 +138,16 @@ Traz informações sobre as chamadas ativas da operação (outbound), como: temp
 
 Na sua parte superior, há algumas opções de filtros e visões de dados, as quais estão destacadas em azul na imagem acima.  
 
-
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Omni View
 
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## IVR
 
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Chats
 
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Pesquisa
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
@@ -343,7 +346,7 @@ _Tela Rastreio Interações_
 
 
 
-
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Relatório IVR
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
@@ -351,6 +354,8 @@ _Tela Rastreio Interações_
 # Administrativo
 
 ## Empresas
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Usuários - versão 3.xx
 
 Todos os cadastros principais da plataforma serão realizados no link do menu lateral - imagem de uma engrenagem.
@@ -566,11 +571,11 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 </table>
 
 
-
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Usuários - versão 4.xx
 
 
-
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Serviços - versão 3.xx
 
 Na tela principal de serviços estão disponibilizados os links para cadastro de um novo serviço onde será inserido:
@@ -611,6 +616,7 @@ _Links de edição_
 
 ## Serviços - versão 4.xx
 
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Tags - versão 3.xx
 
 O cadastro das Tags além da finalização do atendimento traz opções de cadastro para que seja realizado:
@@ -632,6 +638,7 @@ _Cadastro de nova Tag_
 
 ## Tags - versão 4.xx
 
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Shortcuts - versão 3.xx
 
 Shortcuts são os atalhos que podem ser criados para otimizar o atendimento, estão linkados aos serviços, ou seja, cada shortcut criada deve ser relacionada a um serviço. Assim, quando o usuário estiver em atendimento, poderá utilizar o atalho que trará frases prontas de um determinado assunto. Sendo útil na padronização do atendimento e também para otimizar o tempo do usuário/atendente.
@@ -667,6 +674,7 @@ _Exclusão de Shortcuts_
 
 ## Shortcuts - versão 4.xx
 
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Pausas - versão 3.xx
 Utilizadas para identificar as paradas dos usuários, o cadastro das Pausas auxilia na gestão da Equipe para mensurar inclusive como indicar de produtividade, pois constará a informação em relatórios de gestão.
 
@@ -930,11 +938,13 @@ Módulo onde ..
 
 ![Tela Segurança](/imgs/seguranca1.PNG ':class=sombracaixa')
 
-
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Gerenciamento de Perfil
 
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Usuários
 
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Takeout
 
 <h3>Takeout - O que é?</h3>
@@ -960,7 +970,7 @@ Abrirá a Tela com as ações para:
 
  Ao clicar em “Novo Takeout” uma janela com a informação do processo de extração dos dados, clique em “Exportar” 
 
-
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Grupos de usuário
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
@@ -1020,14 +1030,27 @@ _Configuração Mensagem de Atendimento Fechado_
 A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a critério da organização, de forma que melhor lhe atenda. Clicando no ícone de editar do Menu de Atendimento poderá ser escolhido qual serviço será escolhido e em qual ordem de discagem na URA ele ficará.
 
 <h4>Mensagem para ligações não atendidas</h4>
-
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Whatsapp
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Boteria
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## E-mail
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Mercado Livre
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Facebook
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Reclame Aqui
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Telegram
+
 
 # Conectores
 
@@ -1090,7 +1113,7 @@ Notar que:
 
 ## Meus contatos - versão 4.xx
 
-
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Blacklist - versão 3.xx
 
 O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para contatos, é realizado para Inbound e Outbound separadamente.
@@ -1376,7 +1399,7 @@ O dash de monitoramento, quando visualizado em **tempo real**, trará informaç�
 ![Controle Automatizado - Campanha](/imgs/campanha_tela6.png ':class=sombracaixa' )
 
 
-
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Broadcast
 
 A funcionalidade da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, campanhas e estratégia de envios com monitoramento para envio de mensagens de whatsapp e SMS em massa.
@@ -1531,14 +1554,32 @@ _Monitoramento_
 
 # Exportações
 ## Relatório de Usuários
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Relatório de Chamadas
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Relatório de Atividade
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Relatório de Broadcast - Consolidado
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Relatório de Broadcast - Detalhado
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Relatório Discador
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Relatório Broadcast Grupo de Contatos - Histórico Importação
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Relatório Discador Grupo de Contatos - Histórico Importação
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Pesquisa de Satisfação
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Financeiro
 ### Admin Org
 ### Admin Users
