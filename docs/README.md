@@ -107,7 +107,7 @@ Na sua parte superior, há algumas opções de filtros e visões de dados
 ![Inbound V4.xx](/imgs/inbound_v4.gif ':class=sombracaixa' )
 
 
-**Conceitos dos painéis e métricas presentes no Dashboard IVR:**
+<h3>Conceitos dos painéis e métricas presentes no Dashboard IVR:</h3>
 - **SLA:** nível de serviço da operação ou fila. O SLA é estabelecido pela gestão nas configurações da Plataforma, indica o percentual de ligações que devem ser atendidas em um determinado tempo.
 - **Distribuição:** distribuição das chamadas recebidas, de acordo com os serviços (filas) configurados.
 - **AHT:** Average handling Time (AHT) representa o TMA da operação ou fila.
@@ -127,7 +127,17 @@ Na sua parte superior, há algumas opções de filtros e visões de dados
 
 **Importante destacar que ao clicar sobre o nome do indicador ao lado da sua legenda, é possível ocultar a exibição dos dados relacionados a ele, no gráfico.**
 
+
+<hr color="#836FFF" size = 2 width = 70% align = right noshade>
+
 ## Outbound
+
+Traz informações sobre as chamadas ativas da operação (outbound), como: tempo de atendimento; quantitativo de chamadas discadas, atendidas e não conectadas, entre outras.
+
+![Inbound V3.xx](/imgs/outbound_v3_inferior.PNG ':class=sombracaixa' )
+
+Na sua parte superior, há algumas opções de filtros e visões de dados, as quais estão destacadas em azul na imagem acima.  
+
 
 ## Omni View
 
