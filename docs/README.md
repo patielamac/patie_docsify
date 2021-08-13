@@ -268,7 +268,7 @@ Relatório que traz as informações de todos os atendimentos realizados por cha
 - Mensal
 - Anual
 
-![Chat](/imgs/chat_1.PNG ':class=sombracaixa' )
+![Chat](/imgs/Chat_1.PNG ':class=sombracaixa' )
 
 
 
