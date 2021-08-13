@@ -182,8 +182,9 @@ Dash que traz a visão de todos os atendimentos da organização, separado por m
 - **Tag de Usuário:** combo para filtrar os dados por grupos de usuários previamente cadastrados nas Tags de usuários
 - **Data Inicial e final:** define-se o período de datas que será apresentado no dash
 
-O Dash traz blocos de acordo com a seleção dos filtros com as informações:
+
 <h3>Chat</h3>
+O bloco chat traz informações dos atendimentos das mídias:
   - Boteria
   - Whatsapp
   - ML Perguntas
