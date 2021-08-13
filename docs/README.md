@@ -168,6 +168,7 @@ Na sua parte superior, há algumas opções de filtros e visões de dados e data
 
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 ## Omni View
 
 Dash que traz a visão de todos os atendimentos da organização, separado por mídas de texto, voz - inbound e outbound e e-mail.
