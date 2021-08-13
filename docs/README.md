@@ -185,15 +185,15 @@ Dash que traz a visão de todos os atendimentos da organização, separado por m
 
 <h3>Chat</h3>
 O bloco chat traz informações dos atendimentos das mídias:
-  - Boteria
-  - Whatsapp
-  - ML Perguntas
-  - ML Pós Vendas
-  - Messenger
-  - Reclame Aqui
-  - Telegram
-  
- ![Chat](/imgs/chat.PNG ':class=sombracaixa' )
+- Boteria
+- Whatsapp
+- ML Perguntas
+- ML Pós Vendas
+- Messenger
+- Reclame Aqui
+- Telegram
+
+![Chat](/imgs/chat.PNG ':class=sombracaixa' )
   
 <h3>Conceitos e métrica presente no Chat</h3>
 
