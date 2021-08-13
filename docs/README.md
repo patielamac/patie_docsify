@@ -247,10 +247,27 @@ Traz as informações de todos atendimentos realizados por e-mail
 
 ## IVR
 
-Trata-se de um dash com dados estatísticos das URA´s que a empresa possue
+Trata-se de um dash com dados estatísticos das URA´s que a empresa possue com informações das chamadas inbound
 
 ![IVR](/imgs/ivr.PNG ':class=sombracaixa' )
 
+<h3>Indicadores presentes no dash IVR</h3>
+
+- **Logged:** Total de usuários logados
+- **Available:** Total de usuários disponíveis para atendimento
+- **Paused:** Total de usuários em pausa
+- **Talking:** Total de usuários em atendimento
+- **SLA:** Acordo de Nível de Serviço (Service Level Agreement)
+- **ABD:** Porcentagem de abandono na fila de atendimento
+- **ASA:** Tempo Médio de espera para atendimento (Avarage Speed of Answer)
+- **MSA:** Tempo Máximo de espera para atendimento (Max Speed of Answer)
+- **AHT:** Tempo Médio de Atendimento (Avarage Handle Time)
+- **MHT:** Tempo Máximo de Atendimento (Max Handle Time) 
+- **Abandoned:** Total de abandonos na fila de atendimento
+- **Calls:** Total de chamadas entrantes
+- **IVR-ABD:** Total de abandonos ainda na URA
+- **Handeled:** Atendimento realizado e tabulado
+- **Timed Out:** Quantidade de atendimentos desinfileirados (atingiu o tempo limite de espera na fila até ser atendido)
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
