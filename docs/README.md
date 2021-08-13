@@ -345,13 +345,12 @@ A tabela a seguir traz explicação dos gráficos que o dash trará
 </table>
 
 
-
-
-
-_Demonstração de monitoração de Pesquisa_
+_Demonstração de monitoração de Pesquisa V3_
 ![Dash Pesquisa](/imgs/dash_pesquisa.gif ':class=sombracaixa' )
 
 
+_Demonstração de monitoração de Pesquisa V4_
+![Dash Pesquisa](/imgs/dash_pesquisa_new.gif ':class=sombracaixa' )
 
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
