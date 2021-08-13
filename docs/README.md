@@ -182,7 +182,56 @@ Dash que traz a visão de todos os atendimentos da organização, separado por m
 - **Tag de Usuário:** combo para filtrar os dados por grupos de usuários previamente cadastrados nas Tags de usuários
 - **Data Inicial e final:** define-se o período de datas que será apresentado no dash
 
+O Dash traz blocos de acordo com a seleção dos filtros com as informações:
+<h3>Chat</h3>
+  - Boteria
+  - Whatsapp
+  - ML Perguntas
+  - ML Pós Vendas
+  - Messenger
+  - Reclame Aqui
+  - Telegram
+  
+<h2>Conceitos e métrica presente no Chat</h2>
+
+- **TM1R:** Tempo médio da Primeira Resposta enviada ao atendimento
+- **TMR:** Tempo médio de Resposta
+- **TMA:** Tempo médio de Atendimento
+
+<h3>Receptivo</h3> 
+Traz as informações das chamadas de voz inbound, ou seja, as que foram recebidas no sistema
+
+<h2>Conceitos e métrica presente no Receptivo</h2>
+
+- **Recebidas:** total de chamadas recebidas
+- **Atendidas:** total de chamadas atendidas
+- **Abandonadas:** total de chamadas abandondas
+- **ASA:** Tempo Médio de espera para atendimento (Avarage Speed of Answer)
+- **TMA:** Tempo Médio de Atendimento
+
+<h3>Ativo</h3> 
+Traz as informações das chamadas de voz outbound, ou seja, as que foram realizadas pelo sistema
+
+<h2>Conceitos e métrica presente no Ativo</h2>
+
+- **Discadas:** total de chamadas realizadas
+- **Atendidas:** total de chamadas atendidas
+- **Não conectadas:** total de chamadas que foram discadas porém não foram efetivadas
+- **TMO:** tempo médio operacional
+
+<h3>E-mail</h3> 
+Traz as informações de todos atendimentos realizados por e-mail
+
+<h2>Conceitos e métrica presente no E-mail</h2>
+
+- **Recebidos:** total de e-mails recebidos
+- **Respondidos:** total de e-mails respondidos
+- **Não respondidos:** total de chamadas que foram discadas porém não foram efetivadas
+- **TMR:** tempo médio de resposta
+
+
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 ## IVR
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
