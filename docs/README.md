@@ -170,6 +170,17 @@ Na sua parte superior, há algumas opções de filtros e visões de dados e data
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## Omni View
 
+Dash que traz a visão de todos os atendimentos da organização, separado por mídas de texto, voz - inbound e outbound e e-mail.
+
+![Omni View](/imgs/omniview_1.gif ':class=sombracaixa' )
+
+**Filtros**
+
+- **Agente:** combo para filtrar os dados por usuário (agente). Ao selecionar a opção "Usuário", serão exibidos dados de todos os agentes da operação ou da fila escolhida
+- **Serviço:** combo para filtrar os dados por serviço (fila).Ao selecionar a opção "Serviço", serão exibidos dados de todas as filas da operação
+- **Tag de Usuário:** combo para filtrar os dados por grupos de usuários previamente cadastrados nas Tags de usuários
+- **Data Inicial e final:** define-se o período de datas que será apresentado no dash
+
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 ## IVR
 
