@@ -193,16 +193,19 @@ O bloco chat traz informações dos atendimentos das mídias:
   - Reclame Aqui
   - Telegram
   
-<h2>Conceitos e métrica presente no Chat</h2>
+ ![Chat](/imgs/chat.PNG ':class=sombracaixa' )
+  
+<h3>Conceitos e métrica presente no Chat</h3>
 
 - **TM1R:** Tempo médio da Primeira Resposta enviada ao atendimento
 - **TMR:** Tempo médio de Resposta
 - **TMA:** Tempo médio de Atendimento
 
-<h3>Receptivo</h3> 
+<h3>Receptivo</h3>
+
 Traz as informações das chamadas de voz inbound, ou seja, as que foram recebidas no sistema
 
-<h2>Conceitos e métrica presente no Receptivo</h2>
+<h3>Conceitos e métrica presente no Receptivo</h3>
 
 - **Recebidas:** total de chamadas recebidas
 - **Atendidas:** total de chamadas atendidas
@@ -210,35 +213,67 @@ Traz as informações das chamadas de voz inbound, ou seja, as que foram recebid
 - **ASA:** Tempo Médio de espera para atendimento (Avarage Speed of Answer)
 - **TMA:** Tempo Médio de Atendimento
 
+![Receptivo](/imgs/receptivo.PNG ':class=sombracaixa' )
+
+
 <h3>Ativo</h3> 
+
 Traz as informações das chamadas de voz outbound, ou seja, as que foram realizadas pelo sistema
 
-<h2>Conceitos e métrica presente no Ativo</h2>
+<h3>Conceitos e métrica presente no Ativo</h3>
 
 - **Discadas:** total de chamadas realizadas
 - **Atendidas:** total de chamadas atendidas
 - **Não conectadas:** total de chamadas que foram discadas porém não foram efetivadas
 - **TMO:** tempo médio operacional
 
+![Ativo](/imgs/ativo.PNG ':class=sombracaixa' )
+
 <h3>E-mail</h3> 
 Traz as informações de todos atendimentos realizados por e-mail
 
-<h2>Conceitos e métrica presente no E-mail</h2>
+<h3>Conceitos e métrica presente no E-mail</h3>
 
 - **Recebidos:** total de e-mails recebidos
 - **Respondidos:** total de e-mails respondidos
 - **Não respondidos:** total de chamadas que foram discadas porém não foram efetivadas
 - **TMR:** tempo médio de resposta
 
+![Email](/imgs/email.PNG ':class=sombracaixa' )
+
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
 ## IVR
 
-<hr color="#836FFF" size = 3 width = 70% align = right noshade>
-## Chats
+Trata-se de um dash com dados estatísticos das URA´s que a empresa possue
+
+![IVR](/imgs/ivr.PNG ':class=sombracaixa' )
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
+## Chats
+
+Relatório que traz as informações de todos os atendimentos realizados por chat, com 
+**Filtros:**
+- Agente
+- Serviço
+- Tag do usuário
+
+**Visão:**
+- Hoje
+- Semanal
+- Mensal
+- Anual
+
+![Chat](/imgs/chat_1.PNG ':class=sombracaixa' )
+
+
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 ## Pesquisa
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
