@@ -550,7 +550,138 @@ _Tela Rastreio Interações_
 
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 ## Relatório IVR
+
+Traz as informações das chamdas recebidas, poderá ser extraído com filtros:
+- Agrupamento
+	- IVR
+	- Serviço
+	- Agente
+	- Hora
+	- Dia
+- Data
+- Agente
+- Serviço
+- IVR (ura disponibilizada para recebimento das chamadas)
+- Tags do usuário
+
+![Relatório IVR](/imgs/ivr_2.PNG ':class=sombracaixa' )
+
+<h3>Informações presentes no Relatório de IVR</h3>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link type="text/css" rel="stylesheet" href="resources/sheet.css">
+		<style type="text/css">.ritz .waffle a { color: inherit; }.ritz .waffle .s1{border-bottom:1px SOLID #000000;border-right:2px SOLID #0b5394;background-color:#0b5394;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Calibri',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s5{border-bottom:1px SOLID #000000;border-right:2px SOLID #0b5394;background-color:#ffffff;text-align:left;color:#434343;font-family:'docs-Calibri',Arial;font-size:9pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s9{border-bottom:1px SOLID #000000;border-right:2px SOLID #0b5394;background-color:#cfe2f3;text-align:left;color:#434343;font-family:'docs-Calibri',Arial;font-size:9pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s3{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:left;color:#434343;font-family:'docs-Calibri',Arial;font-size:9pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s8{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#cfe2f3;text-align:center;color:#434343;font-family:'docs-Calibri',Arial;font-size:9pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s10{border-bottom:2px SOLID #0b5394;border-right:1px SOLID #000000;background-color:#cfe2f3;text-align:center;font-weight:bold;color:#434343;font-family:'docs-Calibri',Arial;font-size:9pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s13{border-bottom:2px SOLID #0b5394;border-right:2px SOLID #0b5394;background-color:#cfe2f3;text-align:left;color:#434343;font-family:'docs-Calibri',Arial;font-size:9pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s4{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:center;color:#434343;font-family:'docs-Calibri',Arial;font-size:9pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s7{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#cfe2f3;text-align:left;color:#434343;font-family:'docs-Calibri',Arial;font-size:9pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s11{border-bottom:2px SOLID #0b5394;border-right:1px SOLID #000000;background-color:#cfe2f3;text-align:left;color:#434343;font-family:'docs-Calibri',Arial;font-size:9pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s2{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#ffffff;text-align:center;font-weight:bold;color:#434343;font-family:'docs-Calibri',Arial;font-size:9pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s6{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#cfe2f3;text-align:center;font-weight:bold;color:#434343;font-family:'docs-Calibri',Arial;font-size:9pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s12{border-bottom:2px SOLID #0b5394;border-right:1px SOLID #000000;background-color:#cfe2f3;text-align:center;color:#434343;font-family:'docs-Calibri',Arial;font-size:9pt;vertical-align:bottom;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s0{border-bottom:1px SOLID #000000;border-right:1px SOLID #000000;background-color:#0b5394;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Calibri',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:2px 3px 2px 3px;}</style>
+		<div class="ritz grid-container" dir="ltr">
+			<table class="waffle no-grid" cellspacing="0" cellpadding="0">
+			
+				<tbody>
+					<tr style="height: 20px">
+						<td class="s0" dir="ltr">CAMPO</td>
+						<td class="s0" dir="ltr">DESCRIÇÃO</td>
+						<td class="s0" dir="ltr">FORMATO</td>
+						<td class="s1" dir="ltr">CÁLCULO</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s2" dir="ltr">Entrantes URA</td>
+						<td class="s3" dir="ltr">Total de chamadas recebidas pela URA</td>
+						<td class="s4" dir="ltr">Numérico</td>
+						<td class="s5" dir="ltr">Soma de chamadas recebidas pela URA</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s6" dir="ltr">Fora de Serviço</td>
+						<td class="s7" dir="ltr">Total de ligações que entraram nra URA fora do horário de atendimento configurado</td>
+						<td class="s8" dir="ltr">Numérico</td>
+						<td class="s9" dir="ltr">Soma de ligações que entraram nra URA fora do horário de atendimento configurado</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s2" dir="ltr">Abandonadas IVR</td>
+						<td class="s3" dir="ltr">Total de ligações que entraram na URA porém foram abandonadas na URA</td>
+						<td class="s4" dir="ltr">Numérico</td>
+						<td class="s5" dir="ltr">Soma de ligações que entraram na URA porém foram abandonadas na URA</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s6" dir="ltr">Oferecidas</td>
+						<td class="s7" dir="ltr">Total de ligações entrantes na fila</td>
+						<td class="s8" dir="ltr">Numérico</td>
+						<td class="s9" dir="ltr">Soma de ligações que chegaram na fila</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s2" dir="ltr">Abandonadas</td>
+						<td class="s3" dir="ltr">Total de ligações abandonadas ao serem oferecidas</td>
+						<td class="s4" dir="ltr">Numérico</td>
+						<td class="s5" dir="ltr">Soma de ligações abandonadas</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s6" dir="ltr">%Abandonadas</td>
+						<td class="s7" dir="ltr">Porcentagem de ligações oferecidas e abandonadas</td>
+						<td class="s8" dir="ltr">Porcentagem %</td>
+						<td class="s9" dir="ltr">(Ligações abandonadas / Ligações oferecidas) * 100</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s2" dir="ltr">Atendidas</td>
+						<td class="s3" dir="ltr">Total de ligações atendidas dentre as oferecidas</td>
+						<td class="s4" dir="ltr">Numérico</td>
+						<td class="s5" dir="ltr">Soma de ligações atendidas</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s6" dir="ltr">Atendidas NS</td>
+						<td class="s7" dir="ltr">Total de ligações atendidas dentro do Nivel de Serviço</td>
+						<td class="s8" dir="ltr">Numérico</td>
+						<td class="s9" dir="ltr">Soma de ligações atendidas que atingiram o Nível de Serviço</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s2" dir="ltr">Nível Serviço</td>
+						<td class="s3" dir="ltr">Porcentagem de ligações que atingiram o Nível de Serviço</td>
+						<td class="s4" dir="ltr">Porcentagem %</td>
+						<td class="s5" dir="ltr">(Ligações que atingiram o Nível de Serviço / Ligações oferecidas) * 100</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s6" dir="ltr">Não Atendidas</td>
+						<td class="s7" dir="ltr">Desenfileirado, atingiu o tempo limite de espera na fila até ser atendido.</td>
+						<td class="s8" dir="ltr">Numérico</td>
+						<td class="s9" dir="ltr">Soma de ligações desenfileiradas</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s2" dir="ltr">TMA</td>
+						<td class="s3" dir="ltr">Tempo Médio de Atendimento</td>
+						<td class="s4" dir="ltr">hh:mm:ss</td>
+						<td class="s5" dir="ltr">Soma de todo tempo de atendimento / total de ligações atendidas</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s6" dir="ltr">MSA</td>
+						<td class="s7" dir="ltr">Tempo Máximo de espera para atendimento (Max Speed of Answer)</td>
+						<td class="s8" dir="ltr">hh:mm:ss</td>
+						<td class="s9" dir="ltr">Recorde de atendimento com maior tempo de espera na fila</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s2" dir="ltr">ASA</td>
+						<td class="s3" dir="ltr">Tempo Médio de espera para atendimento (Avarage Speed of Answer)</td>
+						<td class="s4" dir="ltr">hh:mm:ss</td>
+						<td class="s5" dir="ltr">Soma de todo tempo de espera na fila / total de ligações atendidas</td>
+					</tr>
+					<tr style="height: 20px">
+						<td class="s10" dir="ltr">MHT</td>
+						<td class="s11" dir="ltr">Tempo Máximo de Atendimento (Max Handle Time)</td>
+						<td class="s12" dir="ltr">hh:mm:ss</td>
+						<td class="s13" dir="ltr">Recorde de maior tempo de atendimento</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+
+_Relatório IVR Versão 3.xx
+
+![Relatório IVR](/imgs/ivr_3.PNG ':class=sombracaixa' )
+
+_Relatório IVR Agrupamento por Serviços_
+
+![Relatório IVR](/imgs/ivr_4.PNG ':class=sombracaixa' )
+
+
+
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
