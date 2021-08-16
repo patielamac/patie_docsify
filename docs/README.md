@@ -646,19 +646,19 @@ Traz as informações das chamdas recebidas, poderá ser extraído com filtros:
 					<tr style="height: 20px">
 						<td class="s2" dir="ltr">TMA</td>
 						<td class="s3" dir="ltr">Tempo Médio de Atendimento</td>
-						<td class="s4" dir="ltr">hh:mm:ss</td>
+						<td class="s4" dir="ltr">hh&#58;mm&#58;ss&#58;ms</td>
 						<td class="s5" dir="ltr">Soma de todo tempo de atendimento / total de ligações atendidas</td>
 					</tr>
 					<tr style="height: 20px">
 						<td class="s6" dir="ltr">MSA</td>
 						<td class="s7" dir="ltr">Tempo Máximo de espera para atendimento (Max Speed of Answer)</td>
-						<td class="s8" dir="ltr">hh:mm:ss</td>
+						<td class="s8" dir="ltr">hh&#58;mm&#58;ss&#58;ms</td>
 						<td class="s9" dir="ltr">Recorde de atendimento com maior tempo de espera na fila</td>
 					</tr>
 					<tr style="height: 20px">
 						<td class="s2" dir="ltr">ASA</td>
 						<td class="s3" dir="ltr">Tempo Médio de espera para atendimento (Avarage Speed of Answer)</td>
-						<td class="s4" dir="ltr">hh:mm:ss</td>
+						<td class="s4" dir="ltr">hh&#58;mm&#58;ss&#58;ms</td>
 						<td class="s5" dir="ltr">Soma de todo tempo de espera na fila / total de ligações atendidas</td>
 					</tr>
 					<tr style="height: 20px">
