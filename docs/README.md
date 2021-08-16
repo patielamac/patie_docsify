@@ -664,7 +664,7 @@ Traz as informações das chamdas recebidas, poderá ser extraído com filtros:
 					<tr style="height: 20px">
 						<td class="s10" dir="ltr">MHT</td>
 						<td class="s11" dir="ltr">Tempo Máximo de Atendimento (Max Handle Time)</td>
-						<td class="s12" dir="ltr">hh:mm:ss</td>
+						<td class="s12" dir="ltr">hh&#58;mm&#58;ss&#58;ms</td>
 						<td class="s13" dir="ltr">Recorde de maior tempo de atendimento</td>
 					</tr>
 				</tbody>
