@@ -694,6 +694,7 @@ O módulo Administrativo gerencia os dados mais importantes da plataforma, onde 
 - Tags
 - Shortcuts
 - Pausas
+- Pesquisa de Satisfação
 
 ## Empresas
 
@@ -1027,7 +1028,8 @@ _Exclusão de Shortcuts_
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
-## Pausas - versão 3.xx
+## Pausas
+
 Utilizadas para identificar as paradas dos usuários, o cadastro das Pausas auxilia na gestão da Equipe para mensurar inclusive como indicar de produtividade, pois constará a informação em relatórios de gestão.
 
 _Tela Pausa_
@@ -1229,15 +1231,53 @@ As últimas colunas do relatório terão como título o nome da Alias(título da
 
 Módulo onde se pode criar grupos de usuários e associá-los a perfis de segurança
 
-![Tela Segurança](/imgs/seguranca1.PNG ':class=sombracaixa')
+_Tela de Segurança_
+![Tela Segurança](/imgs/seguranca_1.PNG ':class=sombracaixa')
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 ## Gerenciamento de Perfil
 
-<hr color="#836FFF" size = 3 width = 70% align = right noshade>
-## Usuários
+Em Gerenciamento de Perfil, poderá ser criado os mais diversos tipos de perfil para que cada grupo de usuário tenha os acessos de acordo com a necessidade e perfil de suas atividades.
+
+_Tela de Gerenciamento de perfil_
+
+![Gerenciamento de perfil](/imgs/gerencia_perfil_1.gif ':class=sombracaixa')
+
+<h3>Criando um novo Perfil</h3>
+- Clique em "Novo perfil"
+- Preencha os campos:
+   - Nome
+   - Descrição
+- Selecione as Funções
+   - Selecione as Permissões (note que cada Função tem suas permissões de forma separada entre criar, excluir, editar, etc)
+
+Após o término da definição do perfil, clique no botão "Criar" e o perfil estará pronto para ser atribuido ao usuário.
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
+## Usuários
+
+No módulo de Usuários, será realizado a associação dos usuários aos perfis préviamente criados no "Gerenciamento de Perfil"
+
+_Tela de Usuários_
+
+![Usuário](/imgs/seg_usuario_1.gif ':class=sombracaixa')
+
+Ao abrir a tela de Usuários em Segurança, poderá ser realizado uma busca por usuário ou fazer uma seleção de todos os usuários, em seguida, poderá ser realizada a atribuição dos perfis para a seleção de usuários que foi feita.
+
+**Nota:**
+1 - o usuário deverá estar préviamente cadastrado no módulo Administrativo
+2 - a atribuição de perfil poderá ser única ou múltipla
+3 - apenas os usuários selecionados receberão a atribuição do perfil
+
+
+![Usuário](/imgs/seg_usuario_2.PNG ':class=sombracaixa')
+
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 ## Takeout
 
 <h3>Takeout - O que é?</h3>
@@ -1264,7 +1304,10 @@ Abrirá a Tela com as ações para:
  Ao clicar em “Novo Takeout” uma janela com a informação do processo de extração dos dados, clique em “Exportar” 
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 ## Grupos de usuário
+No módulo de Grupos de U
+
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
