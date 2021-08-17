@@ -1305,6 +1305,39 @@ Abrirá a Tela com as ações para:
 - Reiniciar takeout quando estiver com status de erro 
 
  Ao clicar em “Novo Takeout” uma janela com a informação do processo de extração dos dados, clique em “Exportar” 
+ 
+ Aparecerá uma confirmação e na tela surgirá a sua solicitação de extração com o Status de Pendente 
+ 
+ ![Taketout](/imgs/takeout_1.gif ':class=sombracaixa')
+ 
+ <h3>Status</h3>
+ 
+ Os status no filtro de busca disponíveis são: 
+ 
+ 1. **Pendente** - quando foi realizada a solicitação de exportação dos arquivos e o sistema está preparando o ambiente para iniciar o processo.
+ 2. **Processando** - quando a exportação está sendo realizada
+ 3. **Cancelado** - quando foi solicitado o cancelamento da exportação
+ 4. **Finalizado** - quando foi realizado o processo de exportação em sua totalidade
+ 5. **Erro** - quando foi identificado um erro durante o processo de exportação, solicitações com Status de Erro podem ser reinicializadas.
+
+
+Os Status que podem ter interações são:
+
+- Finalizado – para gerar o download
+- Erro – que poderá ser reiniciado 
+
+<h3>Download do Arquivo</h3>
+
+Quando a extração do Arquivo for finalizada, será enviado um e-mail para o gestor da empresa e para o usuário que a solicitou, como no exemplo abaixo: 
+
+![Email Takeout](/imgs/takeout_email.PNG ':class=sombracaixa')
+
+O arquivo gerado para download é um arquivo compactado e dividido em vários outros arquivos, logo deve-se fazer o download de todos os arquivos disponibilizados para que se possa descompactar o arquivo principal. Os arquivos após o download deverão ser descompactados.
+
+![Takeout Arquivo](/imgs/takeout_arquivo.PNG ':class=sombracaixa')
+
+Os dados são fornecidos em json. As imagens, vídeos e áudios são enviados em pastas separadas. 
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
