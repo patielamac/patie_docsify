@@ -288,7 +288,6 @@ Relatório que traz as informações de todos os atendimentos realizados por cha
 ![Chat](/imgs/Chat_1.PNG ':class=sombracaixa' )
 
 
-
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
 ## Pesquisa
@@ -1245,7 +1244,8 @@ _Tela de Gerenciamento de perfil_
 ![Gerenciamento de perfil](/imgs/gerencia_perfil_1.gif ':class=sombracaixa')
 
 <h3>Criando um novo Perfil</h3>
-- Clique em "Novo perfil"
+
+- Clique em Novo perfil
 - Preencha os campos:
    - Nome
    - Descrição
@@ -1268,8 +1268,11 @@ _Tela de Usuários_
 Ao abrir a tela de Usuários em Segurança, poderá ser realizado uma busca por usuário ou fazer uma seleção de todos os usuários, em seguida, poderá ser realizada a atribuição dos perfis para a seleção de usuários que foi feita.
 
 **Nota:**
+
 1 - o usuário deverá estar préviamente cadastrado no módulo Administrativo
+
 2 - a atribuição de perfil poderá ser única ou múltipla
+
 3 - apenas os usuários selecionados receberão a atribuição do perfil
 
 
