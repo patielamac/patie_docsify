@@ -1538,7 +1538,7 @@ A primeira Tela da Estratégia contém filtros para pesquisa, ações em lote e 
 - Ativo - status
 - Alterações em Lote com os filtros de - Status, Status Móvel, Status fixo, Status móvel e fixo, Alterar Sequência e Alterar Cadência. Onde:
 
-![Estratégia](/imgs/estrategia_tab1.png ':class=sombracaixa' ) 
+![Estratégia](/imgs/Estrategia_tab1.PNG ':class=sombracaixa' ) 
 
 
 As configurações da discagem de sua campanha será feita pela Estratégia, onde irá inserir:
