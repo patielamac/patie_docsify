@@ -1691,7 +1691,7 @@ São pré-requisitos para o envio de *SMS*:
 
     
 
-<h2>Criação - Grupo de Contatos</h2>
+### Grupo de Contatos
 
 A criação de grupo de contatos poderá ser realizada de duas formas:
 - Por meio de importação de um arquivo tipo CSV
@@ -1729,7 +1729,7 @@ _Criação de Grupo de Contatos_
 ![Tela Grupo de Contatos](/imgs/grupo_contatos_2.PNG ':class=sombracaixa' ) 
 
 
-<h2>Criação - Campanha</h2>
+### Campanha
 
 A criação de grupo de Campanhas será realizada na tela de Campanha clicando no ícone de "+" no canto superior direito da tela que levará a tela de Configurar Campanha
 
@@ -1760,7 +1760,7 @@ _Para Campanha de SMS_
 
 
 
-<h2>Criação - Envios</h2>
+### Envios
 
 A criação de grupo dos Envios será realizada na tela de Envios clicando no ícone de "+" no canto superior direito da tela que levará a tela de Configurar Envio onde deverão ser preenchidos os campos:
 - Nome do agendamento
@@ -1809,7 +1809,7 @@ _Para Envio de SMS_
 
 
 
-<h2>Monitoramento</h2>
+### Monitoramento
 
 Na tela de Monitoramento será apontado os resultados das Campanhas de Whatsapp ou de SMS onde poderá filtrar por:
 - Data
@@ -1858,17 +1858,7 @@ _Monitoramento_
 ## Pesquisa de Satisfação
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
-## Financeiro
-### Admin Org
-### Admin Users
-### Admin Calls
-### Admin Whatsapp
-### Admin Whatsapp Analítico
-### Admin SMS Analítico
-### Admin Boteria
-### Admin Email
-### Admin Reclame Aqui
-### Admin Telegram
+
 
 
 
