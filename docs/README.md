@@ -1953,6 +1953,7 @@ _Monitoramento_
 ## Relatório Discador Grupo de Contatos - Histórico Importação
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 ## Pesquisa de Satisfação
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
