@@ -1342,6 +1342,7 @@ Os dados são fornecidos em json. As imagens, vídeos e áudios são enviados em
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
 ## Grupos de usuário
+
 No módulo de Grupos de U
 
 
