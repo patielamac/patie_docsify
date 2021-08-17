@@ -1673,8 +1673,11 @@ O dash de monitoramento, quando visualizado em **tempo real**, trará informaç�
 
 ![Controle Automatizado - Campanha](/imgs/campanha_tela6.png ':class=sombracaixa' )
 
+### Boas Práticas
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 ## Broadcast
 
 A funcionalidade da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, campanhas e estratégia de envios com monitoramento para envio de mensagens de whatsapp e SMS em massa.
@@ -1867,7 +1870,7 @@ _Monitoramento_
 ### Admin Reclame Aqui
 ### Admin Telegram
 
-# Boas Práticas
+
 
 
 
