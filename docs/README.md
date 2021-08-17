@@ -1462,7 +1462,7 @@ Note que para importação do arquivo CSV Outbound, ligações receptivas, o cam
 A funcionalidade do discador da plataforma Code7 Omni traz agilidade e facilidade na criação e gerenciamento de Campanhas onde se pode criar o grupo de contatos, estratégia e campanhas que irão fazer parte da discagem em massa. Podendo ser configurado de acordo com os melhores horários de discagem e lançados ao operador assim que atendidas, otimizando tempo e melhorando o CPC, realizando o aumento do Fluxo de Ligações sendo configurado de forma estratégica para ter a maior assertividade possível nas campanhas.
 
 
-<h2>Grupo de Contatos</h2>
+### Grupo de Contatos
 
 Na Tela de Grupo de Contatos se cria e edita os contatos que receberão as ligações de sua Campanha.
 
@@ -1523,7 +1523,7 @@ A Tela de verificação do grupo de contatos possibilitará a revisita das infor
 
 
 
-<h2>Estratégia</h2>
+### Estratégia
 
 **Criação - Estratégia de Discagem**
 
@@ -1576,7 +1576,7 @@ A edição de uma estratégia já criada limita-se em alterações nos campos:
 - Ativar ou Inativar a Estratégia 
 
 
-<h2>Campanha</h2>
+### Campanha
 
 **Criação de uma nova Campanha**
 
@@ -1616,7 +1616,7 @@ Deverá ser informado:
 * A edição das configurações poderá ser realizada desde que não tenha sido iniciado a discagem, para editar campanhas que estejam em discagem é necessário que seja alterado seu Status para Pausa. 
 
 
-<h2>Monitoramento</h2>
+### Monitoramento
 
 A Tela monitoramento é um dashboard tratá todas as informações das campanhas que estão em discagem, onde poderá visualizar as informações em Tempo Real ou Definir um período de tempo filtrando por Campanha. 
 O dash de monitoramento, quando visualizado em tempo real, trará informações como:
@@ -1867,6 +1867,7 @@ _Monitoramento_
 ### Admin Reclame Aqui
 ### Admin Telegram
 
+# Boas Práticas
 
 
 
