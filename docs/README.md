@@ -687,10 +687,26 @@ _Relatório IVR Agrupamento por Serviços_
 
 # Administrativo
 
+O módulo Administrativo gerencia os dados mais importantes da plataforma, onde é realizdo o cadastro e edição de:
+- Empresas
+- Usuários
+- Serviços
+- Tags
+- Shortcuts
+- Pausas
+
 ## Empresas
 
+O cadastro de Empresas poderá ser realizado de duas maneiras:
+
+1- Por um usuário que tenha permissão para cadastro na tela de Usuários
+2- Na tela inicial do portal pelo linke "Inscrever-se"
+
+![Usuário](/imgs/user_1.PNG ':class=sombracaixa' )
+
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
-## Usuários - versão 3.xx
+
+## Usuários
 
 Todos os cadastros principais da plataforma serão realizados no link do menu lateral - imagem de uma engrenagem.
 
@@ -905,12 +921,11 @@ Para configurar as permissões do Usuário, ou seja, quais acessos o usuário te
 </table>
 
 
-<hr color="#836FFF" size = 3 width = 70% align = right noshade>
-## Usuários - versão 4.xx
 
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
-## Serviços - versão 3.xx
+
+## Serviços
 
 Na tela principal de serviços estão disponibilizados os links para cadastro de um novo serviço onde será inserido:
 - Nome
@@ -948,10 +963,11 @@ _Links de edição_
 
 ![Cadastro servicos](/imgs/Servicos_4.PNG ':class=sombracaixa' )
 
-## Serviços - versão 4.xx
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
-## Tags - versão 3.xx
+
+## Tags
 
 O cadastro das Tags além da finalização do atendimento traz opções de cadastro para que seja realizado:
 - registro da informação (como foi realizado o atendimento, se houve venda, cancelamento ou novas negociações)
@@ -970,10 +986,11 @@ _Cadastro de nova Tag_
 
 ![Cadastro tag](/imgs/Tag_2.PNG ':class=sombracaixa' )
 
-## Tags - versão 4.xx
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
-## Shortcuts - versão 3.xx
+
+## Shortcuts
 
 Shortcuts são os atalhos que podem ser criados para otimizar o atendimento, estão linkados aos serviços, ou seja, cada shortcut criada deve ser relacionada a um serviço. Assim, quando o usuário estiver em atendimento, poderá utilizar o atalho que trará frases prontas de um determinado assunto. Sendo útil na padronização do atendimento e também para otimizar o tempo do usuário/atendente.
 
@@ -1006,9 +1023,10 @@ _Exclusão de Shortcuts_
 ![Shortcuts](/imgs/short_4.PNG ':class=sombracaixa' )
 
 
-## Shortcuts - versão 4.xx
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 ## Pausas - versão 3.xx
 Utilizadas para identificar as paradas dos usuários, o cadastro das Pausas auxilia na gestão da Equipe para mensurar inclusive como indicar de produtividade, pois constará a informação em relatórios de gestão.
 
@@ -1044,7 +1062,7 @@ _Utilização de Pausa_
 ![Pausa](/imgs/2020-10-08_15h31_15.gif ':class=sombracaixa' )
 
 
-## Pausas - versão 4.xx
+
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
@@ -1209,7 +1227,7 @@ As últimas colunas do relatório terão como título o nome da Alias(título da
 
 # Segurança
 
-Módulo onde ..
+Módulo onde se pode criar grupos de usuários e associá-los a perfis de segurança
 
 ![Tela Segurança](/imgs/seguranca1.PNG ':class=sombracaixa')
 
