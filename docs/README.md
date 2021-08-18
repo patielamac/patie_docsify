@@ -1343,11 +1343,29 @@ Os dados são fornecidos em json. As imagens, vídeos e áudios são enviados em
 
 ## Grupos de usuário
 
-O módulo de Grupos de Usuários possibilita a criação de grupos em hierarquia, com o objetivo de criar a hierarquia nos grupos para que o líder do grupo tenha acesso exclusivo aos dados dos usuários de seu grupo, auxiliando assim, maior controle na gestão da equipe.
+O módulo de Grupos de Usuários possibilita a criação de grupos em hierarquia onde o líder do grupo tem acesso exclusivo aos dados dos usuários de seu grupo nos
+relatórios compreendidos pela construção de hierarquia mantendo a segurança dos dados de forma restrita. 
 
+_Tela Grupo de usuários_
 ![Grupo de usuários](/imgs/grupo_user_1.gif ':class=sombracaixa')
 
-As ações para 
+<h3>Criação de Grupo e Usuários</h3>
+
+- Clique em "Criar grupo"
+- Insira Nome do grupo
+- Insira a Descrição do grupo
+- Defina o Administrador no campo "Administrador"
+- Clique em "Criar"
+- Após a criação, defina quais usuários ficarão sob a hierarquia do grupo criado
+
+
+_Tela Grupo de usuários edição_
+![Grupo de usuários](/imgs/grupos_user_edicao.gif ':class=sombracaixa')
+
+
+_Tela Grupo de usuários exclusão_
+![Grupo de usuários](/imgs/grupo_exclusao.gif ':class=sombracaixa')
+
 
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
