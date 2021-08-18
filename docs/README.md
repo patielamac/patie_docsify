@@ -1343,7 +1343,11 @@ Os dados são fornecidos em json. As imagens, vídeos e áudios são enviados em
 
 ## Grupos de usuário
 
-No módulo de Grupos de U
+O módulo de Grupos de Usuários possibilita a criação de grupos em hierarquia, com o objetivo de criar a hierarquia nos grupos para que o líder do grupo tenha acesso exclusivo aos dados dos usuários de seu grupo, auxiliando assim, maior controle na gestão da equipe.
+
+![Grupo de usuários](/imgs/grupo_user_1.gif ':class=sombracaixa')
+
+As ações para 
 
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
@@ -1487,6 +1491,7 @@ Notar que:
 ## Meus contatos - versão 4.xx
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 ## Blacklist - versão 3.xx
 
 O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para contatos, é realizado para Inbound e Outbound separadamente.
