@@ -1306,6 +1306,7 @@ Clique em Takeout
 ![Tela Segurança](/imgs/seguranca3.PNG ':class=sombracaixa')
 
 Abrirá a Tela com as ações para:
+
 - Atualizar a tela
 - Gerar Novo takeout
 - Filtro para buscar por Status
