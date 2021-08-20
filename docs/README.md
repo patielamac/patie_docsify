@@ -1260,7 +1260,7 @@ As funções que serão selecionadas para a criação do perfil é de extrema im
 
 <h3>Funções Administrativas</h3>
 
-![Tabela Funões Adm](/imgs/func_ADM.PNG ':class=sombracaixa')
+![Tabela Funções Adm](/imgs/func_ADM.PNG ':class=sombracaixa')
 
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
