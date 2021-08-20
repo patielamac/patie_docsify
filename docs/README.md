@@ -1254,6 +1254,14 @@ _Tela de Gerenciamento de perfil_
 
 Após o término da definição do perfil, clique no botão "Criar" e o perfil estará pronto para ser atribuido ao usuário.
 
+<h3>Funções</h3>
+
+As funções que serão selecionadas para a criação do perfil é de extrema importância, pois será aqui onde ficará definido os acessos e permissões dos usuários, conheça melhor as funções:
+
+<h3>Funções Administrativas</h3>
+
+![Tabela Funões Adm](/imgs/func_ADM.PNG ':class=sombracaixa')
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
