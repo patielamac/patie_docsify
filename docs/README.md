@@ -1262,33 +1262,76 @@ As funções que serão selecionadas para a criação do perfil é de extrema im
 
 ![Tabela Funções Adm](/imgs/func_ADM.PNG ':class=sombracaixa')
 
+
 <h3>Funções Canais</h3>
+
+![Tabela Funções Adm](/imgs/Tabela_canais_seguranca.PNG ':class=sombracaixa')
+
 
 <h3>Funções Conectores</h3>
 
+![Tabela Funções Adm](/imgs/Tabela_conectores_seguranca.PNG ':class=sombracaixa')
+
+
 <h3>Funções Contatos</h3>
+
+![Tabela Funções Adm](/imgs/Tabela_contatos_seguranca.PNG ':class=sombracaixa')
+
 
 <h3>Funções Dashboards</h3>
 
+![Tabela Funções Adm](/imgs/Tabela_dash_seguranca.PNG ':class=sombracaixa')
+
+
 <h3>Funções Exportação</h3>
+
+![Tabela Funções Adm](/imgs/Tabela_exportacao_seguranca.PNG ':class=sombracaixa')
+
 
 <h3>Funções Menu</h3>
 
+![Tabela Funções Adm](/imgs/Tabela_menu_seguranca.PNG ':class=sombracaixa')
+
+
 <h3>Funções Monitoração</h3>
+
+![Tabela Funções Adm](/imgs/Tabela_monitoracao_seguranca.PNG ':class=sombracaixa')
+
 
 <h3>Funções OneScreen</h3>
 
+![Tabela Funções Adm](/imgs/Tabela_onescreen_seguranca.PNG ':class=sombracaixa')
+
+
 <h3>Funções Perfil</h3>
+
+![Tabela Funções Adm](/imgs/Tabela_perfil_seguranca.PNG ':class=sombracaixa')
+
 
 <h3>Funções Portifólio</h3>
 
+![Tabela Funções Adm](/imgs/Tabela_portifolio_seguranca.PNG ':class=sombracaixa')
+
+
 <h3>Funções Relatórios</h3>
+
+![Tabela Funções Adm](/imgs/Tabela_relatorios_seguranca.PNG ':class=sombracaixa')
+
 
 <h3>Funções Segurança</h3>
 
+![Tabela Funções Adm](/imgs/Tabela_seguranca_seguranca.PNG ':class=sombracaixa')
+
+
 <h3>Funções Sistema</h3>
 
+![Tabela Funções Adm](/imgs/Tabela_sistema_seguranca.PNG ':class=sombracaixa')
+
+
 <h3>Funções SoftPhone</h3>
+
+![Tabela Funções Adm](/imgs/Tabela_softphone_seguranca.PNG ':class=sombracaixa')
+
 
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
