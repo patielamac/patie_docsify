@@ -1330,7 +1330,7 @@ As funções que serão selecionadas para a criação do perfil é de extrema im
 
 <h3>Funções SoftPhone</h3>
 
-![Tabela Funções Adm](/imgs/Tabela_softphone_seguranca.PNG ':class=sombracaixa')
+![Tabela Funções Adm](/imgs/Tabela_softpone_seguranca.PNG ':class=sombracaixa')
 
 
 
