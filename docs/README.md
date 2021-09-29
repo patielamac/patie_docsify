@@ -57,10 +57,6 @@ Apresenta os campos:
 
 A Tela dipõe de filtros para facilitar a visão do gestor onde poderá buscar por serviço, agente ou tag do usuário.
 
-**Visão do Agente Filtros - Versão Code7 Omni 4.XX**
-
-![Agentes 3.xx](/imgs/visao_agente_new1.gif ':class=sombracaixa' )
-
 <h3>Monitoramento de Ligações</h3>
 
 Durante a chamada, o gestor poderá auxiliar o agente/usuário ou monitorá-lo para futuros feedbacks, veja na imagem abaixo a descrição das ações
