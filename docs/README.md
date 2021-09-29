@@ -1262,6 +1262,34 @@ As funções que serão selecionadas para a criação do perfil é de extrema im
 
 ![Tabela Funções Adm](/imgs/func_ADM.PNG ':class=sombracaixa')
 
+<h3>Funções Canais</h3>
+
+<h3>Funções Conectores</h3>
+
+<h3>Funções Contatos</h3>
+
+<h3>Funções Dashboards</h3>
+
+<h3>Funções Exportação</h3>
+
+<h3>Funções Menu</h3>
+
+<h3>Funções Monitoração</h3>
+
+<h3>Funções OneScreen</h3>
+
+<h3>Funções Perfil</h3>
+
+<h3>Funções Portifólio</h3>
+
+<h3>Funções Relatórios</h3>
+
+<h3>Funções Segurança</h3>
+
+<h3>Funções Sistema</h3>
+
+<h3>Funções SoftPhone</h3>
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
