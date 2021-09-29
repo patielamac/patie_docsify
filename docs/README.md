@@ -37,9 +37,6 @@ O monitoramento na tela de Atendimento é realizado com o acompanhamento dos ate
 **Atendimento - Versão Code7 Omni 4.XX**
 ![Atendimento 4.XX](/imgs/atendimento_new1.gif ':class=sombracaixa' )
 
-**Atendimento - Versão Code7 Omni 3.XX**
-![Atendimento 3.XX](/imgs/atendimento_old1.PNG ':class=sombracaixa' )
-
 - **Agendamentos** - traz a listagem dos atendimentos que foram programados um agendamento, para mídias que há agendamento disponibilizado.
 
 ![Rastreio de Interações](/imgs/agendamento1.png ':class=sombracaixa' )
@@ -51,9 +48,6 @@ A tela de Visão dos Agentes traz as informações de status e login dos usuári
 
 **Visão do Agente - Versão Code7 Omni 4.XX**
 ![Agentes 4.xx](/imgs/visao_agente_v4.PNG ':class=sombracaixa' )
-
-**Visão do Agente - Versão Code7 Omni 3.XX**
-![Agentes 3.xx](/imgs/visao_agente_v3.PNG ':class=sombracaixa' )
 
 Apresenta os campos:
 - Disponível - são os agentes/usuários que se encontrarm liberados para receber novos atendimentos, são dispostos em fila de acordo com o tempo em que estão ociosos.
@@ -344,11 +338,7 @@ A tabela a seguir traz explicação dos gráficos que o dash trará
 </table>
 
 
-_Demonstração de monitoração de Pesquisa V3_
-![Dash Pesquisa](/imgs/dash_pesquisa.gif ':class=sombracaixa' )
-
-
-_Demonstração de monitoração de Pesquisa V4_
+_Demonstração de monitoração de Pesquisa_
 ![Dash Pesquisa](/imgs/dash_pesquisa_new.gif ':class=sombracaixa' )
 
 
@@ -670,10 +660,6 @@ Traz as informações das chamdas recebidas, poderá ser extraído com filtros:
 			</table>
 		</div>
 
-
-_Relatório IVR Versão 3.xx
-
-![Relatório IVR](/imgs/ivr_3.PNG ':class=sombracaixa' )
 
 _Relatório IVR Agrupamento por Serviços_
 
