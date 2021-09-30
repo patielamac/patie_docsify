@@ -75,11 +75,6 @@ Um dashboard é um painel visual que apresenta, de maneira centralizada, um conj
 ## Inbound
 Este Dashboard traz informações sobre as chamadas recebidas pela operação (inbound), como: métricas de tempo de atendimento; quantitativo de chamadas recebidas, atendidas e abandonadas; gráficos para acompanhamento e análise das chamadas, entre outras. 
 
-
-![Inbound 3.xx](/imgs/inbound_v3.PNG ':class=sombracaixa' )
-
-
-
 Na sua parte superior, há algumas opções de filtros e visões de dados 
 
 **Filtros:**
