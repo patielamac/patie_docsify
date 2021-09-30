@@ -1674,11 +1674,11 @@ Na tela de atendimento, o usuário deverá:
 6. Salvar
 7. Após a mensagem de confirmação de agendamento salvo, no link de agendamento já estará o contato agendado
 
-![Disparo Rápido](/imgs/disparo_agendamento.PNG ':class=sombracaixa' 
+![Disparo Rápido](/imgs/disparo_agendamento.PNG ':class=sombracaixa' ) 
 
 Após o envio da mensagem, na tela de atendimento ficará registrado o envio e a mensagem que foi enviada para o contato, assim que o contato retornar a mensagem o usuário poderá dar continuidade na abordagem normalmente.
 
-![Disparo Rápido](/imgs/disparo_atendimento.PNG ':class=sombracaixa' 
+![Disparo Rápido](/imgs/disparo_atendimento.PNG ':class=sombracaixa' )
 
 # Campanhas
 ## Discador
