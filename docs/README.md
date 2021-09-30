@@ -1637,8 +1637,6 @@ Note que para importação do arquivo CSV Outbound, ligações receptivas, o cam
 
 # Tela de Atendimento
 
-<hr color="#836FFF" size = 8 width = 70% align = right noshade>
-
 ## Disparo Rápido
 
 A implementação do Disparo Rápido no Code7 Omni possibilita que a empresa entre em contato com seus clientes individualmente por meio ativo na mídia em que o contato tenha registrado em seu cadastrado.
@@ -1679,6 +1677,8 @@ Na tela de atendimento, o usuário deverá:
 Após o envio da mensagem, na tela de atendimento ficará registrado o envio e a mensagem que foi enviada para o contato, assim que o contato retornar a mensagem o usuário poderá dar continuidade na abordagem normalmente.
 
 ![Disparo Rápido](/imgs/disparo_atendimento.PNG ':class=sombracaixa' )
+
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
 # Campanhas
 ## Discador
