@@ -1639,6 +1639,47 @@ Note que para importação do arquivo CSV Outbound, ligações receptivas, o cam
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
+## Disparo Rápido
+
+A implementação do Disparo Rápido no Code7 Omni possibilita que a empresa entre em contato com seus clientes individualmente por meio ativo na mídia em que o contato tenha registrado em seu cadastrado.
+
+![Disparo Rápido](/imgs/disparo1a.PNG ':class=sombracaixa' )
+
+<h3>Como enviar uma mensagem pelo Disparo Rápido</h3>
+
+Na tela de atendimento, o usuário deverá:
+1. Clicar no ícone do Disparo Rápido
+2. Buscar o nome do contato no campo de busca
+3. Selecionar o contato
+4. Definir qual mídia será realizado o disparo - as mídias em que o contato já tenha cadastrado
+5. Definiar qual será o serviço
+a. Para os atendimentos de voz, definir qual telefone do contato será realizada a chamada
+6. Escrever a mensagem
+7. Enviar
+
+![Disparo Rápido](/imgs/disparo1.PNG ':class=sombracaixa' )
+
+**Atenção** - os envios de Disparo Rápido por meio da mídia de Whatsapp só poderá ser realizado se na mídia constar HSM cadastrado.
+
+<h3>Agendamento pelo Disparo Rápido</h3>
+
+As mesmas funções de agendamento já existem podem ser aplicadas também ao Disparo Rápido
+
+Na tela de atendimento, o usuário deverá:
+1. Clicar no ícone do Disparo Rápido
+2. Buscar o nome do contato no campo de busca
+3. Selecionar o contato
+4. Definir qual mídia será realizado o disparo - as mídias em que o contato já tenha cadastrado
+5. Definir data e hora para envio da mensagem
+6. Salvar
+7. Após a mensagem de confirmação de agendamento salvo, no link de agendamento já estará o contato agendado
+
+![Disparo Rápido](/imgs/disparo_agendamento.PNG ':class=sombracaixa' 
+
+Após o envio da mensagem, na tela de atendimento ficará registrado o envio e a mensagem que foi enviada para o contato, assim que o contato retornar a mensagem o usuário poderá dar continuidade na abordagem normalmente.
+
+![Disparo Rápido](/imgs/disparo_atendimento.PNG ':class=sombracaixa' 
+
 # Campanhas
 ## Discador
 
