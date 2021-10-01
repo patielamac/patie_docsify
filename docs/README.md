@@ -1502,6 +1502,37 @@ A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a cr
 ## Telegram
 
 
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
+## Twitter
+
+A Code7 Omni oferece agora uma nova integração para atendimento de clientes por meio do Twitter. A criação do Canal é realizada de forma simples diretamente pela plataforma bastando que a empresa tenha uma conta de Twitter ativa.
+
+<h3>Passo a Passo para criar o Canal de Twitter</h3>
+
+1. Faça login no Code7 Omni versão 3 pelo link https://omni.mozaik.cloud/ 
+2. No menu lateral, clique na “engrenagem” e no menu “Canais”
+3. No Canal do Twitter clique em “Acessar”
+4. Clique no link de “+” no canto superior direito da tela
+5. Preencha os campos de Serviço e Nome do Canal
+6. Clique no botão “Entrar com o Twitter”
+7. Abrirá uma Tela solicitando autorização para a integração, basta dar ok
+8. Salvar a tela com as informações preenchidas automaticamente
+9. Salvar e concluir
+
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
+## Instagram
+
+A Code7 Omni é uma aplicação Omnichannel, com integrações ativas com Whatsapp, Menssenger, Twitter, entre outros canais de comunicação. A integração com Instagram que estamos pleiteando tem como objetivo acrescentar valor e otimização de gestão entre contas comerciais do Instagram e seus clientes onde nós, da Code7 Omni seremos o intermediador entre ambos oferecendo facilidade, controle e histórico dos atendimentos realizados.
+O primeiro passo é a criação de um canal de integração onde o gestor da conta comercial faz seu cadastro informando seu email e página relacionada no Instagram, após a criação do canal, poderá ser dado início ao atendimento e conversação entre contas comerciais e seus clientes, possibilitando a gestão de toda a jornada dos clientes para a conta comercial do Instagram.
+A Code7 Omni oferece gestão durante o atendimento, relatórios com indicadores, histórico com toda a jornada do cliente, pesquisas de satisfação e relatórios para análise das atividades de seus atendentes.
+A integração a ser realizada com o Instagram possui alguns pré-requisitos:
+1. Uma conta no Instagram que seja configurada para bussiness
+2. A conta do Instagram deverá estar vinculada a uma página do Facebook
+3.  
+
 # Conectores
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
