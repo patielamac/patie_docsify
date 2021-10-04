@@ -330,37 +330,38 @@ _Demonstração de monitoração de Pesquisa_
 ![Dash Pesquisa](/imgs/dash_pesquisa_new.gif ':class=sombracaixa' )
 
 
+
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
+
 
 # Relatórios
 
 ## Rastreio de Interações
 
-Relatório que traz a visão de cada atendimento realizado na plataforma com as informações de Data/Hora, qual tipo de mídia, qual usuário,tempo de atendimento e qual foi a finalização do atendimento realizado - por meio da TAG.
+Relatório que traz a visão de cada atendimento realizado na plataforma, _que já tenha sido finalizado_, com as informações de Data/Hora, qual tipo de mídia, qual usuário,tempo de atendimento e qual foi a finalização do atendimento realizado - por meio da TAG.
 
 _Tela Rastreio Interações_
 
- ![Rastreio de Interações](/imgs/Rastreio_1.PNG ':class=sombracaixa' )
+ ![Rastreio de Interações](/imgs/rastreio_1.PNG ':class=sombracaixa' )
  
  Para extração do Relatório o campo obrigátorio é o "Mídia" os demais campos são opcionais.
  
  _Tela Filtros de Mídia_
  
- ![Rastreio de Interações](/imgs/Rastreio_2.PNG ':class=sombracaixa' )
+ ![Rastreio de Interações](/imgs/rastreio_midias.PNG ':class=sombracaixa' )
  
  Há opção de filtros por Data, usuário, horário, Protocolo, Serviços e demais campos
  
  _Exemplo de outros Filtros_
  
- ![Rastreio de Interações](/imgs/Rastreio_3.PNG ':class=sombracaixa' )
+ ![Rastreio de Interações](/imgs/rastreio_filtros.gif ':class=sombracaixa' )
  
- ![Rastreio de Interações](/imgs/Rastreio_4.PNG ':class=sombracaixa' )
  
  A visualização da extração poderá ser feita diretamente na tela do sistema, ou também poderá ser realizado download em CSV para facilitar a análise das informações.
  
   _Tabela de Resultados_
   
- ![Rastreio de Interações](/imgs/Rastreio_5.PNG ':class=sombracaixa' )
+ ![Rastreio de Interações](/imgs/rastreio_resultados.PNG ':class=sombracaixa' )
  
  
  
@@ -649,9 +650,9 @@ Traz as informações das chamdas recebidas, poderá ser extraído com filtros:
 		</div>
 
 
-_Relatório IVR Agrupamento por Serviços_
+_Relatório IVR Filtros_
 
-![Relatório IVR](/imgs/ivr_4.PNG ':class=sombracaixa' )
+![Relatório IVR](/imgs/filtros_ivr.gif ':class=sombracaixa' )
 
 
 
@@ -681,10 +682,6 @@ O cadastro de Empresas poderá ser realizado de duas maneiras:
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
 ## Usuários
-
-Todos os cadastros principais da plataforma serão realizados no link do menu lateral - imagem de uma engrenagem.
-
-![Acesso Cadastros](/imgs/Cadastros_00.PNG ':class=sombracaixa' )
 
 A Tela de usuários traz os usuários já cadastrados na organização e também a possibilidade de criar novo cadastro bem como editar um já existente.
 Apresenta os campos disponíveis com sinalização dos campos obrigatórios (*).
