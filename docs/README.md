@@ -715,8 +715,9 @@ Na tela de cadastro terão campos para trazer as informações de:
 - Permissões
 
 _Cadastro de usuário_
-![Cadastro usuario](/imgs/Usuario_1.PNG ':class=sombracaixa' )
-![Cadastro usuario](/imgs/Usuario_2.PNG ':class=sombracaixa' )
+
+![Cadastro usuario](/imgs/usuario_1.gif ':class=sombracaixa' )
+
 
 _**nota:**_ o link de “salvar” apenas ficará disponibilizado na tela após o preenchimento dos campos obrigatórios. 
 
