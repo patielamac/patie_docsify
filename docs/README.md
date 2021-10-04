@@ -46,7 +46,8 @@ O monitoramento na tela de Atendimento é realizado com o acompanhamento dos ate
 
 A tela de Visão dos Agentes traz as informações de status e login dos usuários de acordo com os logins do softphone, exclusivamente. Empresas que não possuem atendimento de voz não terão visão nesta tela.
 
-**Visão do Agente - Versão Code7 Omni 4.XX**
+**Visão do Agente **
+
 ![Agentes 4.xx](/imgs/visao_agente_v4.PNG ':class=sombracaixa' )
 
 Apresenta os campos:
@@ -61,11 +62,9 @@ A Tela dipõe de filtros para facilitar a visão do gestor onde poderá buscar p
 
 Durante a chamada, o gestor poderá auxiliar o agente/usuário ou monitorá-lo para futuros feedbacks, veja na imagem abaixo a descrição das ações
 
-![Botoes 3.xx](/imgs/botoes_v3.PNG ':class=sombracaixa' )
+**Botões de ações **
 
-**Botões de ações na versão 4.xx**
-
-![Botoes 4.xx](/imgs/botoes_v4.PNG ':class=sombracaixa' )
+![Botoes 4.xx](/imgs/visao_agente_botoes.PNG ':class=sombracaixa' )
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
