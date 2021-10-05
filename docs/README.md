@@ -676,21 +676,76 @@ O módulo Administrativo gerencia os dados mais importantes da plataforma, onde 
 
 O cadastro de Empresas poderá ser realizado de duas maneiras:
 
-1- Por um usuário que tenha permissão para cadastro na tela de Usuários
+
+**1- Por um usuário que tenha permissão para cadastro na tela de Usuários**
 
 ![Criar Empresa](/imgs/empresa_1.gif ':class=sombracaixa' )
 
-2- Na tela inicial do portal pelo link "Inscrever-se"
+Usuários que tenham permissão para cadastrar uma nova empresa poderão fazê-lo preenchendo o cadastro de Empresas pelo caminho:
+- Administrativo
+- Empresas
+- Selecionar o botão "Nova Empresa"
+
+![Cadastro Empresa](/imgs/empresa_2.PNG ':class=sombracaixa' )
+
+- Preencher os campos:
+	- Dados da Empresa, onde temos os campos obrigatórios:
+		- Nome Empresa
+		- E-mail Empresa
+		- CNPJ
+		- Telefone Empresa
+		
+[Cadastro Empresa](/imgs/dados_empresa.PNG ':class=sombracaixa' )
+
+	- Endereço, com os campos obrigatórios:
+		- CEP
+		- Endereço
+		- Número
+		- Cidade
+		- Estado
+		- País
+		
+![Cadastro Empresa](/imgs/endereco_empresa.PNG ':class=sombracaixa' )	
+		
+	- Informações Adicionais	
+	- Usuário Responsável, com os capos obrigatórios:
+		- Nome Responsável
+		- CPF Responsável
+		- E-mail Responsável
+		- Telefone Responsável
+	
+
+![Cadastro Empresa](/imgs/usuario_empresa.PNG ':class=sombracaixa' )
+
+- Clicar em "Criar"
+
+Será enviado para o e-mail do usuário responsável um token para que ele crie uma senha para fazer o seu primeiro login e, a partir daí, iniciar o processo de cadastro de seus usuários, serviços e canais de acordo com as necessidades da empresa.
+
+
+
+**2- Na tela inicial do portal pelo link "Inscrever-se"**
 
 ![Inscrever Nova Empresa](/imgs/user_1.PNG ':class=sombracaixa' )
 
 
+O cadastro da empresa quando realizado pelo Link "Inscrever-se" é um pré-cadastro onde será preenchido:
+- Nome
+- E-mail
+- Telefone
+- Nome da Empresa
+- Número de funcionários
+Após o preenchimento, será enviado para o e-mail cadastrado um token para que seja criado uma senha e realizado o primeiro acesso.
+
+![Inscrever Nova Empresa](/imgs/inscrever_se.gif ':class=sombracaixa' )
+
+![Inscrever Nova Empresa](/imgs/inscrever_se.PNG ':class=sombracaixa' )
 
 
 
 
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 
 ## Usuários
 
@@ -1546,23 +1601,17 @@ A integração a ser realizada com o Instagram possui alguns pré-requisitos:
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
 # Contatos
-## Meus contatos - versão 3.xx
+## Meus contatos
 
 Os Contatos podem ser cadastrados individualmente ou por meio de importação de arquivo CSV, temos como único campo obrigatório o Nome do contato.
 
-![Contatos](/imgs/Contatos_1.PNG ':class=sombracaixa' )
 
-O **Cadastro individual** é realizado ao clicar no **+** no canto superior esquerdo da tela onde terá acesso aos campos de Cadastro
+O **Cadastro individual** é realizado ao clicar em **Novo contato** no canto superior direito da tela onde terá acesso aos campos de Cadastro
 
 
 _Acesso aos tipos de Cadastro_
 
-![Contatos](/imgs/Contatos_4.PNG ':class=sombracaixa' )
-
-
-_Tela Cadastro Individual_
-
-![Contatos](/imgs/Contatos_2.PNG ':class=sombracaixa' )
+![Contatos](/imgs/contato_1.gif ':class=sombracaixa' )
 
 
 Na tela de Cadastro Individual poderá ser inserido:
@@ -1574,7 +1623,7 @@ Na tela de Cadastro Individual poderá ser inserido:
 
 _Cadastro Campos Customizados_
 
-![Contatos](/imgs/Contatos_5.PNG ':class=sombracaixa' )
+![Contatos](/imgs/campo_customizado.gif ':class=sombracaixa' )
 
 
 Para realizar o cadastro em massa, utiliza-se a importação de Arquivo CSV que é acessado no canto superior direito da tela demonstrado na imagem _Acesso aos tipos de Cadastro_
@@ -1583,7 +1632,7 @@ na tela de Importação com arquivo CSV está disponibilizado um modelo do arqui
 
 _Tela Importação CSV_
 
-![Contatos](/imgs/Contatos_CSV.PNG ':class=sombracaixa' )
+![Contatos](/imgs/contato_csv.PNG ':class=sombracaixa' )
 
 Notar que:
 - os campos são separados por ponto e vírgula (;)
@@ -1600,7 +1649,6 @@ Notar que:
     ["Faturamento","20.000"|"Advogado","Dr. Augusto Martins"|"Secretária","Gabriela Santos"]
 
 
-## Meus contatos - versão 4.xx
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
