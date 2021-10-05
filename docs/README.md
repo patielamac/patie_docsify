@@ -34,7 +34,7 @@ O monitoramento na tela de Atendimento é realizado com o acompanhamento dos ate
 
 - **Em antendimento** - traz todos os atendimentos que estão sendo realizados, ou seja, ainda em andamento. Apresentam-se em duas visões, por cards de usuário ou na fila de atendimento por ordem de chegada.
 
-**Atendimento - Versão Code7 Omni 4.XX**
+**Atendimento**
 ![Atendimento 4.XX](/imgs/atendimento_new1.gif ':class=sombracaixa' )
 
 - **Agendamentos** - traz a listagem dos atendimentos que foram programados um agendamento, para mídias que há agendamento disponibilizado.
@@ -62,7 +62,7 @@ A Tela dipõe de filtros para facilitar a visão do gestor onde poderá buscar p
 
 Durante a chamada, o gestor poderá auxiliar o agente/usuário ou monitorá-lo para futuros feedbacks, veja na imagem abaixo a descrição das ações
 
-**Botões de ações **
+**Botões de ações**
 
 ![Botoes 4.xx](/imgs/visao_agente_botoes.PNG ':class=sombracaixa' )
 
@@ -174,6 +174,8 @@ O bloco chat traz informações dos atendimentos das mídias:
 - Messenger
 - Reclame Aqui
 - Telegram
+- Instagram
+- Twitter
 
 ![Chat](/imgs/chat.PNG ':class=sombracaixa' )
   
@@ -187,7 +189,7 @@ O bloco chat traz informações dos atendimentos das mídias:
 
 Traz as informações das chamadas de voz inbound, ou seja, as que foram recebidas no sistema
 
-<h3>Conceitos e métrica presente no Receptivo</h3>
+<h4>Conceitos e métrica presente no Receptivo</h4>
 
 - **Recebidas:** total de chamadas recebidas
 - **Atendidas:** total de chamadas atendidas
@@ -202,7 +204,7 @@ Traz as informações das chamadas de voz inbound, ou seja, as que foram recebid
 
 Traz as informações das chamadas de voz outbound, ou seja, as que foram realizadas pelo sistema
 
-<h3>Conceitos e métrica presente no Ativo</h3>
+<h4>Conceitos e métrica presente no Ativo</h4>
 
 - **Discadas:** total de chamadas realizadas
 - **Atendidas:** total de chamadas atendidas
@@ -214,7 +216,7 @@ Traz as informações das chamadas de voz outbound, ou seja, as que foram realiz
 <h3>E-mail</h3> 
 Traz as informações de todos atendimentos realizados por e-mail
 
-<h3>Conceitos e métrica presente no E-mail</h3>
+<h4>Conceitos e métrica presente no E-mail</h4>
 
 - **Recebidos:** total de e-mails recebidos
 - **Respondidos:** total de e-mails respondidos
@@ -546,7 +548,7 @@ Traz as informações das chamdas recebidas, poderá ser extraído com filtros:
 
 ![Relatório IVR](/imgs/ivr_2.PNG ':class=sombracaixa' )
 
-<h3>Informações presentes no Relatório de IVR</h3>
+<h4>Informações presentes no Relatório de IVR</h4>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link type="text/css" rel="stylesheet" href="resources/sheet.css">
@@ -675,9 +677,18 @@ O módulo Administrativo gerencia os dados mais importantes da plataforma, onde 
 O cadastro de Empresas poderá ser realizado de duas maneiras:
 
 1- Por um usuário que tenha permissão para cadastro na tela de Usuários
-2- Na tela inicial do portal pelo linke "Inscrever-se"
 
-![Usuário](/imgs/user_1.PNG ':class=sombracaixa' )
+![Criar Empresa](/imgs/empresa_1.gif ':class=sombracaixa' )
+
+2- Na tela inicial do portal pelo link "Inscrever-se"
+
+![Inscrever Nova Empresa](/imgs/user_1.PNG ':class=sombracaixa' )
+
+
+
+
+
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
