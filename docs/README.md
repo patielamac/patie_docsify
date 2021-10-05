@@ -708,7 +708,7 @@ Usuários que tenham permissão para cadastrar uma nova empresa poderão fazê-l
 ![Cadastro Empresa](/imgs/endereco_empresa.PNG ':class=sombracaixa' )	
 		
 	- Informações Adicionais	
-	- Usuário Responsável, com os capos obrigatórios:
+	- Usuário Responsável, com os campos obrigatórios:
 		- Nome Responsável
 		- CPF Responsável
 		- E-mail Responsável
@@ -1632,7 +1632,7 @@ na tela de Importação com arquivo CSV está disponibilizado um modelo do arqui
 
 _Tela Importação CSV_
 
-![Contatos](/imgs/contato_csv.PNG ':class=sombracaixa' )
+![Contatos](/imgs/contato_csv.gif ':class=sombracaixa' )
 
 Notar que:
 - os campos são separados por ponto e vírgula (;)
@@ -1652,7 +1652,62 @@ Notar que:
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
-## Blacklist - versão 3.xx
+### Carteirização
+
+A carteira de clientes é um dos recursos mais valiosos de uma empresa. Trata-se do grupo de clientes que compram ou já compraram alguma vez da sua marca. Quanto mais organizado e qualificado for esse recurso, mais chances de você aumentar a performance em vendas. 
+
+Logo, gestão e equipe de vendas devem organizar e desenvolver a carteira de clientes, sempre com objetivo de se relacionar bem com eles e aproveitar as melhores oportunidades para fechar uma venda. 
+
+O processo de Carteirização consiste em dividir os clientes da empresa e vincular um vendedor a um ou mais clientes, de forma que todos tenham um vendedor responsável. 
+
+No Code7 Omni elaboramos uma forma de carteirização de clientes para que os usuários tenham em sua carteira formas de fluxos que melhor atendam tanto o cliente carteirizado quanto o usuário detentor da carteira focando em todas as mídias disponíveis da plataforma para que a carteirização seja abrangente e eficiente independente da forma escolhida pelo cliente carteirizado por entrar em contato. 
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
+### Anonimizar
+
+A aplicação da Anonimização já é possível na Code7 Omni, seguindo uma das regras da LGPD, será possível controlar a anonimização para atender possível solicitação do titular. 
+
+O objetivo da funcionalidade de Anonimização é a de criptografar completamente todos os dados do contato em seus atendimentos realizados. Uma vez realizado a anonimização, não poderá mais ser revertido o processo, por isso, deve-se ter bem claro a regra para que os usuários não a façam sem consentimento e solicitação do cliente.
+
+<h3>Realizando a anonimização de um Contato</h3> 
+
+A função de Anonimização de Contatos está disponível na nova versão do Code7 Omni. Inicialmente o usuário deverá estar habilitado para a função de anonimização que será configurada por meio de solicitação do Gestor da Organização via chamado. 
+
+<h3>Passo a Passo para Anonimização</h3> 
+
+1. Acesse a tela de contatos da Plataforma
+2. Selecione o contato ou os contatos que deverão ser anonimizados
+3. Clique no botão “Anonimizar”
+4. Confirme a solicitação - Atenção para a confirmação, pois se trata de uma ação que não poderá ser revertida
+5. Realize nova Autorização inserindo login e senha do usuário e clique em “Anonimizar”
+6. Será realizada a confirmação com uma mensagem automática confirmando ou não o sucesso da ação. 
+
+<h3>Casos em que não será possível Anonimizar o contato:</h3> 
+
+1. Contato com Atendimento em aberto
+2. Contato com Pesquisa em aberto
+3. Contato com Agendamento em aberto 
+
+Além da informação que não houve sucesso na tentativa, ficará também disponível um Arquivo CSV com as informações de cada contato pelo insucesso da ação.
+
+<h3>Como ficará o contato após a Anonimização</h3>
+
+As chaves de criptografias são geradas a partir de um hash com protocolo SHA-256, suas chaves de criptografia são geradas em tempo de execução, de forma randômica e armazenadas dentro de um bucket de tamanho indeterminado criando assim a anonimização de dados pessoais e sensíveis de forma irreversível até mesmo para equipe da Code7, respeitando assim a LGPD através de um processo simples, rápido e eficaz. 
+
+Todos os dados do contato serão anonimizados na base de dados, ou seja, não teremos mais nenhuma informação referente a este contato para consulta na plataforma.
+1. Na tela de contatos
+	a. Ficará inativo
+	b. Dados serão substituídos por identificador criptografado gerado de forma aleatória pela plataforma
+2.Nos relatórios e histórico de atendimento
+	a. Os dados apresentados serão dados criptografados impedindo, assim a identificação do contato
+	b. Todos os demais dados de atendimento serão mantidos intactos na plataforma para a gestão dos históricos de atendimento.
+
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
+## Blacklist
+
 
 O cadastro do blacklist, ou seja, os telefones que ficarão bloqueados para contatos, é realizado para Inbound e Outbound separadamente.
 
@@ -1710,7 +1765,7 @@ _Tela de Importação CSV Outbound_
 
 Note que para importação do arquivo CSV Outbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 2
 
-## Blacklist - versão 4.xx
+## Blacklist
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
