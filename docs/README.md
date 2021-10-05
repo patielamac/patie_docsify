@@ -1670,11 +1670,11 @@ A aplicação da Anonimização já é possível na Code7 Omni, seguindo uma das
 
 O objetivo da funcionalidade de Anonimização é a de criptografar completamente todos os dados do contato em seus atendimentos realizados. Uma vez realizado a anonimização, não poderá mais ser revertido o processo, por isso, deve-se ter bem claro a regra para que os usuários não a façam sem consentimento e solicitação do cliente.
 
-<h3>Realizando a anonimização de um Contato</h3> 
+<h4>Realizando a anonimização de um Contato</h4> 
 
 A função de Anonimização de Contatos está disponível na nova versão do Code7 Omni. Inicialmente o usuário deverá estar habilitado para a função de anonimização que será configurada por meio de solicitação do Gestor da Organização via chamado. 
 
-<h3>Passo a Passo para Anonimização</h3> 
+<h4>Passo a Passo para Anonimização</h4> 
 
 1. Acesse a tela de contatos da Plataforma
 2. Selecione o contato ou os contatos que deverão ser anonimizados
@@ -1683,7 +1683,7 @@ A função de Anonimização de Contatos está disponível na nova versão do Co
 5. Realize nova Autorização inserindo login e senha do usuário e clique em “Anonimizar”
 6. Será realizada a confirmação com uma mensagem automática confirmando ou não o sucesso da ação. 
 
-<h3>Casos em que não será possível Anonimizar o contato:</h3> 
+<h4>Casos em que não será possível Anonimizar o contato:</h4> 
 
 1. Contato com Atendimento em aberto
 2. Contato com Pesquisa em aberto
@@ -1691,7 +1691,7 @@ A função de Anonimização de Contatos está disponível na nova versão do Co
 
 Além da informação que não houve sucesso na tentativa, ficará também disponível um Arquivo CSV com as informações de cada contato pelo insucesso da ação.
 
-<h3>Como ficará o contato após a Anonimização</h3>
+<h4>Como ficará o contato após a Anonimização</h4>
 
 As chaves de criptografias são geradas a partir de um hash com protocolo SHA-256, suas chaves de criptografia são geradas em tempo de execução, de forma randômica e armazenadas dentro de um bucket de tamanho indeterminado criando assim a anonimização de dados pessoais e sensíveis de forma irreversível até mesmo para equipe da Code7, respeitando assim a LGPD através de um processo simples, rápido e eficaz. 
 
