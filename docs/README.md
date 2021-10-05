@@ -695,7 +695,7 @@ Usuários que tenham permissão para cadastrar uma nova empresa poderão fazê-l
 		- CNPJ
 		- Telefone Empresa
 		
-[Cadastro Empresa](/imgs/dados_empresa.PNG ':class=sombracaixa' )
+![Cadastro Empresa](/imgs/dados_empresa.PNG ':class=sombracaixa' )
 
 	- Endereço, com os campos obrigatórios:
 		- CEP
