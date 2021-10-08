@@ -1681,22 +1681,25 @@ Notar que:
 ![Contatos](/imgs/contato_f_08out.PNG ':class=sombracaixa' )
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 <h4>2. Ações</h4>
 
-1. Selecionar
-2. Ativar
-3. Desativar
-4. Atribuir
-5. Anonimizar
+1. Selecionar - seleciona todos os contatos que estejam na tela
+2. Ativar - ativa os contatos selecionados
+3. Desativar - desativa os contatos selecionados
+4. Atribuir - atribui um fluxo para carteirizar o contato selecionado
+5. Anonimizar - criptografa completamente os dados do contato selecionado
 
+![Contatos](/imgs/contato_g_08out.PNG ':class=sombracaixa' )
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 <h4>3. Modos de Visualização</h4>
 
-1. Lista
-2. Cards
+1. Lista - traz os contatos na tela em formato de listagem
+2. Cards - traz os contatos na tela em formato de cartões
 
-
+![Contatos](/imgs/contato_h_08out.gif ':class=sombracaixa' )
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
@@ -1725,6 +1728,36 @@ A Carteirização será realizada em “Meus Contatos”
 
 ![Contatos](/imgs/cart_2.PNG ':class=sombracaixa' )
 
+<h3>Carteirizando um contato</h3>
+Para atribuir um cliente para a carteira de um usuário deve-se seguir os passos:
+1. Selecione o contato ou os contatos que serão carteirizados
+2. Clique em Atribuir
+3. Defina qual o fluxo será escolhido para os contatos selecionados
+4. Defina qual o agente será detentor da carteira
+5. Clique em Atribuir - aparecerá uma tela confirmando a carteirização.
+
+Nota: para que ocorra a carteirização, o contato não poderá ter atendimento em aberto.
+
+<h3>Fluxos de Carteirização</h3> 
+
+Quando o contato está carteirizado, sempre que ele entrar em contato com a Organização terá o usuário exclusivo para lhe atender, porém, quando o usuário não estiver disponível, o atendimento poderá ser realizado de acordo com o fluxo escolhido para o cliente.  A Atribuição e escolha do Fluxo é uma parte essencial para uma carteirização eficiente. 
+
+**1. Fluxo Recado** 
+Quando o usuário estiver em pausa, off line ou com limite máximo de atendimentos, o mesmo receberá um atendimento de Caixa Postal quando voz, ou será alocado no atendimento quando for uma mídia de texto. 
+
+**2. Fluxo Agente Reserva**
+Na ausência do agente, o contato será encaminhado para atendimento pelo agente reserva e caso este não possa prosseguir com o atendimento, o atendimento seguirá para o Fluxo de Recado.
+
+**3. Fluxo Fila Geral**
+Na ausência do agente, o contato será encaminhado para a fila de serviços escolhida. Para mídia de voz se o cliente optar por não ser encaminhado para o serviço o mesmo será encaminhado para o Fluxo Recado.
+
+Nota: para **atendimentos de e-mail** deverá ser escolhido apenas serviços que contenham e-mail cadastrado no sistema.
+
+**4. Fluxo Siga-me**
+Para atendimento de Voz, o contato será transferido para o telefone do agente que estiver em seu cadastro. Caso ocorra algum atendimento de mídia de texto o mesmo irá respeitar o Fluxo de Recado.
+
+**5. Desatribuir**
+Retira do contato a carteirização existente. 
 
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
