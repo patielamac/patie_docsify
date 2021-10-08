@@ -1649,6 +1649,54 @@ Notar que:
     ["Faturamento","20.000"|"Advogado","Dr. Augusto Martins"|"Secretária","Gabriela Santos"]
 
 
+<h3>Conhecendo a Tela "Meus Contatos"</h3>
+
+![Contatos](/imgs/contato_A_08out.PNG ':class=sombracaixa' )
+
+
+<h4>1. Filtros</h4>
+
+**a. Busca por contato** - campo para realizar uma busca direta de um contato pelo nome
+
+![Contatos](/imgs/contato_b_08out.PNG ':class=sombracaixa' )
+
+
+**b. Ativos // Inativos** - filtro para listar os contatos que estejam ativos ou inativos na organização 
+
+![Contatos](/imgs/contato_c_08out.PNG ':class=sombracaixa' )
+
+
+**c. Sem Proprietário // Com Proprietário** - filtro para listar os contatos que estão carteirizados(com proprietário) ou não carteirizados (sem proprietário)
+
+![Contatos](/imgs/contato_d_08out.PNG ':class=sombracaixa' )
+
+
+**d. Proprietários** - filtro para trazer os usuários que possuem carteira, este filtro só ficará ativo quando o filtro "com Proprietário" estiver selecionado.
+
+![Contatos](/imgs/contato_e_08out.PNG ':class=sombracaixa' )
+
+
+**d. Tipo de carteira** - traz a listagem dos fluxos de carteira existentes
+
+![Contatos](/imgs/contato_f_08out.PNG ':class=sombracaixa' )
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
+<h4>2. Ações</h4>
+
+1. Selecionar
+2. Ativar
+3. Desativar
+4. Atribuir
+5. Anonimizar
+
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
+<h4>3. Modos de Visualização</h4>
+
+1. Lista
+2. Cards
+
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
@@ -1661,6 +1709,23 @@ Logo, gestão e equipe de vendas devem organizar e desenvolver a carteira de cli
 O processo de Carteirização consiste em dividir os clientes da empresa e vincular um vendedor a um ou mais clientes, de forma que todos tenham um vendedor responsável. 
 
 No Code7 Omni elaboramos uma forma de carteirização de clientes para que os usuários tenham em sua carteira formas de fluxos que melhor atendam tanto o cliente carteirizado quanto o usuário detentor da carteira focando em todas as mídias disponíveis da plataforma para que a carteirização seja abrangente e eficiente independente da forma escolhida pelo cliente carteirizado por entrar em contato. 
+
+<h3>Cadastro de Cliente em Carteira</h3> 
+
+O cadastro de um cliente na carteira de um usuário será realizado na nova plataforma do Code7 Omni - https://code7.mozaik.cloud/  no módulo de Contatos
+
+![Contatos](/imgs/cart_1.PNG ':class=sombracaixa' )
+
+Ao clicar em Contatos, terá um menu 
+
+1. Meus Contatos
+2. Blacklist 
+
+A Carteirização será realizada em “Meus Contatos”
+
+![Contatos](/imgs/cart_2.PNG ':class=sombracaixa' )
+
+
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
