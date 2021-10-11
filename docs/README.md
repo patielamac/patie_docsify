@@ -1781,6 +1781,8 @@ A função de Anonimização de Contatos está disponível na nova versão do Co
 5. Realize nova Autorização inserindo login e senha do usuário e clique em “Anonimizar”
 6. Será realizada a confirmação com uma mensagem automática confirmando ou não o sucesso da ação. 
 
+![Anonimização](/imgs/anonimizar_ok.gif ':class=sombracaixa' )
+
 <h4>Casos em que não será possível Anonimizar o contato:</h4> 
 
 1. Contato com Atendimento em aberto
@@ -1788,6 +1790,9 @@ A função de Anonimização de Contatos está disponível na nova versão do Co
 3. Contato com Agendamento em aberto 
 
 Além da informação que não houve sucesso na tentativa, ficará também disponível um Arquivo CSV com as informações de cada contato pelo insucesso da ação.
+
+![Anonimização](/imgs/anonimizar_nook.gif ':class=sombracaixa' )
+
 
 <h4>Como ficará o contato após a Anonimização</h4>
 
@@ -1800,6 +1805,8 @@ Todos os dados do contato serão anonimizados na base de dados, ou seja, não te
 2.Nos relatórios e histórico de atendimento
 	a. Os dados apresentados serão dados criptografados impedindo, assim a identificação do contato
 	b. Todos os demais dados de atendimento serão mantidos intactos na plataforma para a gestão dos históricos de atendimento.
+
+![Anonimização](/imgs/anonimizado.PNG ':class=sombracaixa' )
 
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
