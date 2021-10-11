@@ -1870,7 +1870,6 @@ _Tela de Importação CSV Outbound_
 
 Note que para importação do arquivo CSV Outbound, ligações receptivas, o campo "blacklist_type" sempre terá o valor de 2
 
-## Blacklist
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
