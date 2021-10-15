@@ -1203,6 +1203,9 @@ A Pesquisa Flow está disponibilizada na versão 4.XX do Code7 Omni e tem como d
 
 <h2>Criando o Fluxo de Pesquisa Flow</h2>
 
+Após a criação da Pesquisa conforme as instruções acima, na tela principal, você deverá identificar a pesquisa e clicar no link do fluxo para criar as perguntas que farão parte da pesquisa.
+
+
 
 
 
