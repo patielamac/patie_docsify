@@ -1176,6 +1176,37 @@ _Demonstração de criação de Pesquisa Email_
 ![Criando Pesquisa Email](/imgs/cria_pesquisa_email.gif ':class=sombracaixa' )
 
 
+## Pesquisa de Satisfação - Flow
+
+A Pesquisa Flow está disponibilizada na versão 4.XX do Code7 Omni e tem como diferencial a possibilidade de entrelaçar e direcionar perguntas de acordo com as respostas recebidas.
+
+![Criando Pesquisa Email](/imgs/pesquisa_flow_1.gif ':class=sombracaixa' )
+
+<h2>Criando Pesquisa Flow</h2>
+
+![Criando Pesquisa](/imgs/pesquisa_flow_2.gif ':class=sombracaixa' )
+
+ - No módulo administrativo acesse a função "Pesquisa Flow" você terá acesso a tela inicial da Pesquisa onde poderá consultar, criar e editar as Pesquisas.
+
+![Criando Pesquisa](/imgs/pesquisa_flow_3.PNG ':class=sombracaixa' )
+
+ Clique no botão "Criar Pesquisa" no canto inferior direito da tela - abrirá uma nova tela onde deverá preencher os campos: 
+ - Título - nome que será dado a Pesquisa
+ - Tipo de Pesquisa - defina se será uma Pesquisa CSAT ou NPS
+ - Mídia - defina em qual mídia será aplicada a Pesquisa
+ - Serviços - defina em quais serviços terão Pesquisa 
+ - Mensagem de início - Escreva a mensagem de apresentação ou boas vindas para a Pesquisa
+ - Mensagem de encerramento - Escreva a mensagem de encerramento ou agradecimento para finalização da Pesquisa
+ - ative a pesquisa 
+ - salve clicando no botão "Criar Pesquisa" 
+
+
+<h2>Criando o Fluxo de Pesquisa Flow</h2>
+
+
+
+
+
 
 
 <h2>Relatório de Pesquisa</h2>
