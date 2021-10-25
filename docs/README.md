@@ -1203,13 +1203,25 @@ A Pesquisa Flow está disponibilizada na versão 4.XX do Code7 Omni e tem como d
 
 <h2>Criando o Fluxo de Pesquisa Flow</h2>
 
-Após a criação da Pesquisa conforme as instruções acima, na tela principal, você deverá identificar a pesquisa e clicar no link do fluxo para criar as perguntas que farão parte da pesquisa.
+Após a criação da Pesquisa conforme as instruções acima, na tela principal, você deverá identificar a pesquisa e clicar no link do fluxo para criar as perguntas que farão parte da pesquisa dentro do fluxo que desejar.
 
+<h1>Passo a Passo</h1>
 
+![Criando Fluxo](/imgs/pesquisa_flow_4.PNG ':class=sombracaixa' )
 
+![Criando Fluxo](/imgs/pesquisa_flow_5.gif ':class=sombracaixa' )
 
+1. clique no ícone do fluxo e será liberado a tela para que seja realizado a montagem do fluxo de perguntas da pesquisa
+2. clique no "+" para criar uma nova pergunta
+3. clique no ícone do "lápis" para editar a pergunta existente
+4. preencha o campo "Alias" - título da pergunta
+5. preencha o campo "Texto da pergunta"
+6. escolha quais notas serão de entrada para a pergunta que está sendo criada
+7. ative ou não repetição
+8. ative se a pergunta podera ser de encerramento
+9. clique em "Adicionar"
 
-
+![Criando Fluxo](/imgs/fluxo_1.gif ':class=sombracaixa' )
 
 
 <h2>Relatório de Pesquisa</h2>
