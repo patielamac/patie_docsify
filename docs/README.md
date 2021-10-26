@@ -46,7 +46,7 @@ O monitoramento na tela de Atendimento é realizado com o acompanhamento dos ate
 
 A tela de Visão dos Agentes traz as informações de status e login dos usuários de acordo com os logins do softphone, exclusivamente. Empresas que não possuem atendimento de voz não terão visão nesta tela.
 
-**Visão do Agente **
+**Visão do Agente**
 
 ![Agentes 4.xx](/imgs/visao_agente_v4.PNG ':class=sombracaixa' )
 
@@ -741,7 +741,17 @@ Após o preenchimento, será enviado para o e-mail cadastrado um token para que 
 ![Inscrever Nova Empresa](/imgs/inscrever_se.PNG ':class=sombracaixa' )
 
 
+<h3>Identidade Visual</h3>
 
+A identidade visual da empresa poderá ser configurada, em suas cores, na tela de cadastro de Empresas. Onde poderá ser alterado:
+1. Cor do tema
+2. Cor da fonte dos botões
+3. Cor da navbar
+4. cor dos itens da navbar
+
+A logomarca da empresa, cadastrada na tela de Empresas, ficará na navbar para acompanhar a identidade visual na plataforma Code7 Omni.
+
+![Identidade Visual](/imgs/cor_empresa_2.gif ':class=sombracaixa' )
 
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
