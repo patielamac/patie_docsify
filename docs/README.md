@@ -1209,7 +1209,7 @@ Após a criação da Pesquisa conforme as instruções acima, na tela principal,
 
 ![Criando Fluxo](/imgs/pesquisa_flow_4.PNG ':class=sombracaixa' )
 
-![Criando Fluxo](/imgs/pesquisa_flow_5.gif ':class=sombracaixa' )
+![Criando Fluxo](/imgs/pesquisa_flow_5.PNG ':class=sombracaixa' )
 
 1. clique no ícone do fluxo e será liberado a tela para que seja realizado a montagem do fluxo de perguntas da pesquisa
 2. clique no "+" para criar uma nova pergunta
