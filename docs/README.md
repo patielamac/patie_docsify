@@ -1649,8 +1649,7 @@ O primeiro passo é a criação de um canal de integração onde o gestor da con
 A Code7 Omni oferece gestão durante o atendimento, relatórios com indicadores, histórico com toda a jornada do cliente, pesquisas de satisfação e relatórios para análise das atividades de seus atendentes.
 A integração a ser realizada com o Instagram possui alguns pré-requisitos:
 1. Uma conta no Instagram que seja configurada para bussiness
-2. A conta do Instagram deverá estar vinculada a uma página do Facebook
-3.  
+2. A conta do Instagram deverá estar vinculada a uma página do Facebook  
 
 # Conectores
 
@@ -1703,6 +1702,23 @@ Notar que:
     Como no exemplo abaixo:
     
     ["Faturamento","20.000"|"Advogado","Dr. Augusto Martins"|"Secretária","Gabriela Santos"]
+
+<h3>Importando Contatos com informações de Carteirização</h3>
+
+Se o objetivo for importar um contato que já venha com a informação da carteirização, deverá ser preenchido os campos:
+- portfolio - deverá ser preenchido com a palavra "true" (minúsculas e sem espaços)
+- portfolio_type - deverá ser preenchido com o número do tipo de fluxo da carteirização que será aplicado para o contato, onde:
+	- 1 - Fluxo Recado
+	- 2 - Fluxo Agente Reserva
+	- 3 - Fluxo Fila Geral
+	- 4 - Fluxo Siga-Me
+- portfolio_user_email - deverá ser inserido o e-mail do usuário principal da carteira
+- portifolio_service_name / portifolio_agent_serserve_email - deverá ser inserido ou o e-mail do usuário secundário da carteira ou o nome do serviço para qual o contato deverá ser transferido caso o usuário principal não esteja disponível
+
+
+![Contatos Carteirizados](/imgs/csv_carteirizacao.PNG ':class=sombracaixa' )
+
+
 
 
 <h3>Conhecendo a Tela "Meus Contatos"</h3>
