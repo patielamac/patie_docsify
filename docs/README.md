@@ -1234,6 +1234,24 @@ Após a criação da Pesquisa conforme as instruções acima, na tela principal,
 ![Criando Fluxo](/imgs/fluxo_1.gif ':class=sombracaixa' )
 
 
+<h2>Fluxo de Pesquisa de Voz</h2>
+
+Para as pesquisas criadas para mídia de voz, temos algumas particularidades como:
+- escolher uma voz ou importar áudio
+- definir qual URA estará configurada a Pesquisa
+- definir qual fluxo (inbound, outbound ou ambos)
+
+![Criando Pesquisa de Voz](/imgs/cria_pesquisa_voz.gif ':class=sombracaixa' )
+
+Após a criação da Pesquisa, deverá também ser configurado o fluxo das perguntas
+
+![Criando Pesquisa de Voz](/imgs/edita_primeira_pergunta_voz.gif ':class=sombracaixa' )
+
+Onde os campos deverão trazer as informações de acordo com a imagem abaixo:
+
+![Criando Pesquisa de Voz](/imgs/pesquisa_voz3.PNG ':class=sombracaixa' )
+
+
 <h2>Relatório de Pesquisa</h2>
 
 Para os usuários que tem a permissão de gerar relatórios de Pesquisa, basta seguir o caminho:
