@@ -1605,7 +1605,7 @@ Em Canais são realizados os cadastros de todas as mídias que a empresa terá p
 
 _Tela de Canais_
 
-![Canais](/imgs/Canais_1.PNG ':class=sombracaixa' )
+![Canais](/imgs/canais_new1.PNG ':class=sombracaixa' )
 
 ## Telefone
 
@@ -1653,11 +1653,42 @@ _Configuração Mensagem de Atendimento Fechado_
 
 A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a critério da organização, de forma que melhor lhe atenda. Clicando no ícone de editar do Menu de Atendimento poderá ser escolhido qual serviço será escolhido e em qual ordem de discagem na URA ele ficará.
 
-<h4>Mensagem para ligações não atendidas</h4>
-<hr color="#836FFF" size = 3 width = 70% align = right noshade>
-## Whatsapp
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
+## Whatsapp
+Para liberação do Canal de Atendimento via Whatsapp se faz necessário um número de whatsapp pré aprovado por meio de chamado interno para Equipe do Code7Omni, uma vez liberado o número do telefone, tem início a criação do Canal no Code7 Omni.
+
+<h2>Criando um novo Canal Whatsapp</h2>
+- Abra a tela de Canais e clique no botão "configurar" em Whatsapp,
+- Na tela de Canais Whatsapp clique no botão "criar novo"
+- No campo Serviço preencha o Serviço em que será realizado os atendimentos
+- No campo Número insira o número do whatsapp pré aprovado, contendo DDI+DDD+número do telefone
+- No campo alerta de expiração (minutos) insira quanto minutos o atendimento deverá ser expirado, finalizado
+- Insira o ID que será previamente lhe fornecido
+- Insira o Token que será previamente fornecido
+- Se o número for enviar mensagens para clientes por HSM, deixe ativado o botão HSM
+- Clique no botão "Salvar"
+
+![Canais Whatsapp](/imgs/canal_whats_1.gif ':class=sombracaixa' )
+
+<h2>Editando um Canal Whatsapp</h2>
+- Abra a tela de Canais e clique no botão "configurar" em Whatsapp,
+- Selecione qual canal deseja editar clicando no botão "configurar"
+- Edite os campos que forem necessários
+- Clique no botão "Salvar"
+
+<h2>Cadastrando HSM em seu Canal Whatsapp</h2>
+- Abra a tela de Canais e clique no botão "configurar" em Whatsapp,
+- Selecione qual canal deseja editar clicando no botão "HSM"
+- Insira o HSM no campo "Novo template HSM"
+- Clique no botão "+"
+- Para exclusão do HSM basta clicar no "x" 
+
+![Canais Whatsapp](/imgs/whats_hsm.gif ':class=sombracaixa' )
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
+
 ## Boteria
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
