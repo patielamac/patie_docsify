@@ -15,6 +15,13 @@ Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canai
 
 ![Code7 Omni](/imgs/Apresenta.PNG ':class=sombracaixa' )
 
+## Apresentação Inicial
+O Code7 Omni é apresentado em módulos cuja funções são distintas e configuráveis de acordo com a necessidade da empresa, ao logar, o usuário terá acesso a Tela Inicial ou a Tela de Atendimento - dependendo de suas permissões.
+
+![Tela Inicial](/imgs/Tela_inicial_new.PNG ':class=sombracaixa' )
+
+
+
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
 
 # Monitoração
