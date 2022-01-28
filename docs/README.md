@@ -333,8 +333,33 @@ _Demonstração de monitoração de Pesquisa_
 
 
 
-<hr color="#836FFF" size = 8 width = 70% align = right noshade>
+## Whatsapp
 
+Dashboard que traz a visão de todos atendimentos realizados por Whatsapp sejam ativos por meio de disparo de HSM ou receptivos onde o cliente envia um whatsapp.
+
+_Demonstração do dash de Whatsapp_
+![Dash Whatsapp](/imgs/dash_whatsapp.gif ':class=sombracaixa' )
+
+**Filtros**
+
+- **Agente:** combo para filtrar os dados por usuário (agente). Ao selecionar a opção "Usuário", serão exibidos dados de todos os agentes da operação ou da fila escolhida
+- **Serviço:** combo para filtrar os dados por serviço (fila).Ao selecionar a opção "Serviço", serão exibidos dados de todas as filas da operação
+- **Tag de Usuário:** combo para filtrar os dados por grupos de usuários previamente cadastrados nas Tags de usuários
+- **Data Inicial e final:** define-se o período de datas que será apresentado no dash
+
+**Painel:**
+- **Total de conversas:** total de conversas ativas + total de conversas finalizadas
+- **Conversas Ativas:** total de conversas abertas pelo whatsapp dentro do prazo de 24 horas
+- **Conversas Finalizadas:** total de conversas encerradas no whatsapp após o prazo de 24 horas
+- **Iniciadas pela empresa:** conversas que foram geradas por meio de campanha broadcast ou disparo rápido
+- **Iniciadas pelo cliente:** conversas que foram geradas pelo cliente, recebidas na plataforma
+
+**Visão:**
+- Hoje
+- Semanal
+- Mensal
+
+<hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
 # Relatórios
 
@@ -527,6 +552,11 @@ _Tela Rastreio Interações_
 													</tbody>
 												</table>
 
+### Rastreio de Interações Midia Whatsapp
+
+Para ficar melhor identificado o tipo de comunicação realizada, se iniciada pelo Cliente ou pela Empresa, no Relatório de Rastreio de Interações quando for gerado da mídia de Whatsapp, há um campo informando a Origem da conversa, facilitando assim o entendimento dos dados. 
+
+![Relatório Rastreio Whatsapp](/imgs/rastreio_whats.gif ':class=sombracaixa' )
 
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
