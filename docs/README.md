@@ -174,15 +174,15 @@ Dash que traz a visão de todos os atendimentos da organização, separado por m
 
 <h3>Chat</h3>
 O bloco chat traz informações dos atendimentos das mídias:
-- Boteria
-- Whatsapp
-- ML Perguntas
-- ML Pós Vendas
-- Messenger
-- Reclame Aqui
-- Telegram
-- Instagram
-- Twitter
+* Boteria
+* Whatsapp
+* ML Perguntas
+* ML Pós Vendas
+* Messenger
+* Reclame Aqui
+* Telegram
+* Instagram
+* Twitter
 
 ![Chat](/imgs/chat.PNG ':class=sombracaixa' )
   
@@ -1661,6 +1661,7 @@ Para liberação do Canal de Atendimento via Whatsapp se faz necessário um núm
 
 <h2>Criando um novo Canal Whatsapp</h2>
 
+No módulo Canais siga os passos:
 - Abra a tela de Canais e clique no botão "configurar" em Whatsapp,
 - Na tela de Canais Whatsapp clique no botão "criar novo"
 - No campo Serviço preencha o Serviço em que será realizado os atendimentos
@@ -1675,6 +1676,7 @@ Para liberação do Canal de Atendimento via Whatsapp se faz necessário um núm
 
 <h2>Editando um Canal Whatsapp</h2>
 
+No módulo Canais siga os passos:
 - Abra a tela de Canais e clique no botão "configurar" em Whatsapp
 - Selecione qual canal deseja editar clicando no botão "configurar"
 - Edite os campos que forem necessários
@@ -1682,6 +1684,7 @@ Para liberação do Canal de Atendimento via Whatsapp se faz necessário um núm
 
 <h2>Cadastrando HSM em seu Canal Whatsapp</h2>
 
+No módulo Canais siga os passos:
 - Abra a tela de Canais e clique no botão "configurar" em Whatsapp
 - Selecione qual canal deseja editar clicando no botão "HSM"
 - Insira o HSM no campo "Novo template HSM"
