@@ -1660,6 +1660,7 @@ A escolha dos Serviços que serão atendidos pela URA deverá ser realizada a cr
 Para liberação do Canal de Atendimento via Whatsapp se faz necessário um número de whatsapp pré aprovado por meio de chamado interno para Equipe do Code7Omni, uma vez liberado o número do telefone, tem início a criação do Canal no Code7 Omni.
 
 <h2>Criando um novo Canal Whatsapp</h2>
+
 - Abra a tela de Canais e clique no botão "configurar" em Whatsapp,
 - Na tela de Canais Whatsapp clique no botão "criar novo"
 - No campo Serviço preencha o Serviço em que será realizado os atendimentos
@@ -1673,17 +1674,19 @@ Para liberação do Canal de Atendimento via Whatsapp se faz necessário um núm
 ![Canais Whatsapp](/imgs/canal_whats_1.gif ':class=sombracaixa' )
 
 <h2>Editando um Canal Whatsapp</h2>
-- Abra a tela de Canais e clique no botão "configurar" em Whatsapp,
+
+- Abra a tela de Canais e clique no botão "configurar" em Whatsapp
 - Selecione qual canal deseja editar clicando no botão "configurar"
 - Edite os campos que forem necessários
 - Clique no botão "Salvar" 
 
 <h2>Cadastrando HSM em seu Canal Whatsapp</h2>
-- Abra a tela de Canais e clique no botão "configurar" em Whatsapp,
+
+- Abra a tela de Canais e clique no botão "configurar" em Whatsapp
 - Selecione qual canal deseja editar clicando no botão "HSM"
 - Insira o HSM no campo "Novo template HSM"
 - Clique no botão "+"
-- Para exclusão do HSM basta clicar no "x" 
+- Para exclusão do HSM basta clicar no "x"
 
 ![Canais Whatsapp](/imgs/whats_hsm.gif ':class=sombracaixa' )
 
