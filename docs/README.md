@@ -1676,7 +1676,7 @@ Para liberação do Canal de Atendimento via Whatsapp se faz necessário um núm
 - Abra a tela de Canais e clique no botão "configurar" em Whatsapp,
 - Selecione qual canal deseja editar clicando no botão "configurar"
 - Edite os campos que forem necessários
-- Clique no botão "Salvar"
+- Clique no botão "Salvar" 
 
 <h2>Cadastrando HSM em seu Canal Whatsapp</h2>
 - Abra a tela de Canais e clique no botão "configurar" em Whatsapp,
