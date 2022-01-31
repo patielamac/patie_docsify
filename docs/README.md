@@ -48,6 +48,7 @@ O monitoramento na tela de Atendimento é realizado com o acompanhamento dos ate
 
 ![Rastreio de Interações](/imgs/agendamento1.png ':class=sombracaixa' )
 
+**Nota**: A tela de monitoramento traz todos os atendimentos que ainda estão em andamento, se um usuário foi inativado, continuará aparecendo na Tela de Monitoramento caso ele tenha atendimentos em aberto. Nossa sugestão é que sempre que houver um usuário desativado que sejam transferidos seus atendimentos ou tabulados.
 
 ## Agentes
 
