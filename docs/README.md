@@ -1722,15 +1722,23 @@ A Code7 Omni oferece agora uma nova integração para atendimento de clientes po
 
 <h3>Passo a Passo para criar o Canal de Twitter</h3>
 
-1. Faça login no Code7 Omni versão 3 pelo link https://omni.mozaik.cloud/ 
-2. No menu lateral, clique na “engrenagem” e no menu “Canais”
-3. No Canal do Twitter clique em “Acessar”
-4. Clique no link de “+” no canto superior direito da tela
+1. Faça login no Code7 Omni
+2. Acesse o módulo de “Canais”
+
+![Canais Twitter](/imgs/twitter_02.PNG ':class=sombracaixa' )
+
+3. No Canal do Twitter clique em “Configurar”
+4. Clique no link de “Criar Novo” no canto superior direito da tela
 5. Preencha os campos de Serviço e Nome do Canal
+
+![Canais Twitter](/imgs/twitter_01.PNG ':class=sombracaixa' )
+
 6. Clique no botão “Entrar com o Twitter”
 7. Abrirá uma Tela solicitando autorização para a integração, basta dar ok
-8. Salvar a tela com as informações preenchidas automaticamente
-9. Salvar e concluir
+10. Salvar a tela com as informações preenchidas automaticamente
+11. Salvar e concluir
+
+
 
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
