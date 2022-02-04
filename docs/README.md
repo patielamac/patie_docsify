@@ -1606,7 +1606,17 @@ Em Canais são realizados os cadastros de todas as mídias que a empresa terá p
 
 _Tela de Canais_
 
-![Canais](/imgs/canais_new1.PNG ':class=sombracaixa' )
+![Canais](/imgs/canal_omni01.PNG ':class=sombracaixa' )
+
+## Omni Channel
+
+Omni Channel traz a possibilidade de integração de clientes externos com a plataforma Code7 Omni, por meio de uma integração simples com poucos passos, já se pode utilizar todas as facilidades de comunicação que o Code7 Omni oferece bem como históricos de atendimento, dashboards e pesquisas. Trata-se de um canal genérico que pode receber informaçao de qualquer sistema, ex: ERP`s, Sistemas de Trouble Ticket, CRM`s etc. Podendo unificar em uma unica tela toda a comunicaçao recebida pelas midias de chat tradicionais (Whatsapp, instagram, twitter, e-mail, etc) incluindo as mensagens de seus sistemas internos.
+
+![Canais](/imgs/canal_omni.gif ':class=sombracaixa' )
+
+<h2>Informações Técnicas</h2>
+
+
 
 ## Telefone
 
@@ -1751,6 +1761,8 @@ A Code7 Omni oferece gestão durante o atendimento, relatórios com indicadores,
 A integração a ser realizada com o Instagram possui alguns pré-requisitos:
 1. Uma conta no Instagram que seja configurada para bussiness
 2. A conta do Instagram deverá estar vinculada a uma página do Facebook  
+
+
 
 # Conectores
 
