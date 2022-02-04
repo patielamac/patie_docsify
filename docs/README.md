@@ -1610,7 +1610,7 @@ _Tela de Canais_
 
 ## Omni Channel
 
-Omni Channel traz a possibilidade de integração de clientes externos com a plataforma Code7 Omni, por meio de uma integração simples com poucos passos, já se pode utilizar todas as facilidades de comunicação que o Code7 Omni oferece bem como históricos de atendimento, dashboards e pesquisas. Trata-se de um canal genérico que pode receber informaçao de qualquer sistema, ex: ERP`s, Sistemas de Trouble Ticket, CRM`s etc. Podendo unificar em uma unica tela toda a comunicaçao recebida pelas midias de chat tradicionais (Whatsapp, instagram, twitter, e-mail, etc) incluindo as mensagens de seus sistemas internos.
+Omni Channel traz a possibilidade de integração de clientes externos com a plataforma Code7 Omni, por meio de uma integração simples com poucos passos, já se pode utilizar todas as facilidades de comunicação que o Code7 Omni oferece bem como históricos de atendimento, dashboards e pesquisas. Trata-se de um canal genérico que pode receber informaçao de qualquer sistema, ex: ERP, Sistemas de Trouble Ticket, CRM etc. Podendo unificar em uma unica tela toda a comunicaçao recebida pelas midias de chat tradicionais (Whatsapp, instagram, twitter, e-mail, etc) incluindo as mensagens de seus sistemas internos.
 
 ![Canais](/imgs/canal_omni.gif ':class=sombracaixa' )
 
