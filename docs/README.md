@@ -1623,23 +1623,10 @@ Para criação do Canal deverá ser realizado:
 
 ![Botão para gerar API KEY](/imgs/canal_omni03.PNG ':class=sombracaixa' )
 
-4. Inserir no cadastro do Canal Omni Channel o webhook na integração para que receba as mensagens a partir do Omni 
-		
-			'''{
-			'message_from':'', string
-			'message_to':'',string
-			'message_type':'',string
-			'message_body':'', string
-			'message_media_url':[]lista
-						}'''
-		
+4. Inserir no cadastro do Canal Omni Channel o webhook na integração para que receba as mensagens a partir do Omni onde receberá um request no formato de Json. 
+Por meio da API de auditoria também poderá ser realizado consultas https://auditoria-omnichannel-docs.mozaik.cloud/ 
 
-
-![Botão para gerar API KEY](/imgs/canal_omni03.PNG ':class=sombracaixa' )
-
-Receberá um request no formato de Json
-
-por meio da API de auditoria também poderá ser realizado consultas 
+![Botão para gerar API KEY](/imgs/canal_omni04.PNG ':class=sombracaixa' )
 
 
 ## Telefone
