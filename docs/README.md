@@ -1623,9 +1623,19 @@ Para criação do Canal deverá ser realizado:
 
 ![Botão para gerar API KEY](/imgs/canal_omni03.PNG ':class=sombracaixa' )
 
+4. Inserir no cadastro do Canal Omni Channel o webhook na integração para que receba as mensagens a partir do Omni 
+		
+			'''{
+			'message_from':'', string
+			'message_to':'',string
+			'message_type':'',string
+			'message_body':'', string
+			'message_media_url':[]lista
+						}'''
+		
 
-4. Oferecer um webhook na integração para que receba as mensagens a partir do Omni
 
+![Botão para gerar API KEY](/imgs/canal_omni03.PNG ':class=sombracaixa' )
 
 Receberá um request no formato de Json
 
